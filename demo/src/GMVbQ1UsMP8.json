@@ -1,0 +1,974 @@
+[
+  {
+    "content": "[Bus honking]", 
+    "end": 2, 
+    "index": 1, 
+    "start": 0
+  }, 
+  {
+    "content": "Scientists, are you ready for a virtual field trip from sunny Los Angeles?", 
+    "end": 7, 
+    "index": 2, 
+    "start": 2
+  }, 
+  {
+    "content": "Let's go to the California Science Center! ", 
+    "end": 10, 
+    "index": 3, 
+    "start": 7
+  }, 
+  {
+    "content": "[Children cheering]", 
+    "end": 11, 
+    "index": 4, 
+    "start": 10
+  }, 
+  {
+    "content": "[Children cheering] With your hosts", 
+    "end": 12, 
+    "index": 5, 
+    "start": 11
+  }, 
+  {
+    "content": "Mariela", 
+    "end": 16, 
+    "index": 6, 
+    "start": 15
+  }, 
+  {
+    "content": "and Monica", 
+    "end": 21, 
+    "index": 7, 
+    "start": 20
+  }, 
+  {
+    "content": "with a special appearance from", 
+    "end": 25, 
+    "index": 8, 
+    "start": 24
+  }, 
+  {
+    "content": "Crystal Gentle!", 
+    "end": 31, 
+    "index": 9, 
+    "start": 28
+  }, 
+  {
+    "content": "Let's go to the California Science Center! ", 
+    "end": 35, 
+    "index": 10, 
+    "start": 33
+  }, 
+  {
+    "content": "[Children cheering]", 
+    "end": 39, 
+    "index": 11, 
+    "start": 35
+  }, 
+  {
+    "content": "Hi scientists, welcome to Virtual Field Trips at the California Science Center!", 
+    "end": 44, 
+    "index": 12, 
+    "start": 40
+  }, 
+  {
+    "content": "Before we get started,there are a few things we need to go over. ", 
+    "end": 46, 
+    "index": 13, 
+    "start": 44
+  }, 
+  {
+    "content": "[Music]", 
+    "end": 57, 
+    "index": 14, 
+    "start": 46
+  }, 
+  {
+    "content": "All Virtual Field Trips will have a Question of the Day and today's question is...", 
+    "end": 61, 
+    "index": 15, 
+    "start": 57
+  }, 
+  {
+    "content": "[Computer beeping] How do parents make sure their babies stay alive?", 
+    "end": 65, 
+    "index": 16, 
+    "start": 61
+  }, 
+  {
+    "content": "Pause the video now to write down the Question of the Day in your notebooks and don't forget", 
+    "end": 70, 
+    "index": 17, 
+    "start": 66
+  }, 
+  {
+    "content": "to write or draw things you observe in the video to help you answer the question.", 
+    "end": 74, 
+    "index": 18, 
+    "start": 70
+  }, 
+  {
+    "content": "[Music]", 
+    "end": 81, 
+    "index": 19, 
+    "start": 74
+  }, 
+  {
+    "content": "All Virtual Field Trips will also have a buzzword!", 
+    "end": 84, 
+    "index": 20, 
+    "start": 81
+  }, 
+  {
+    "content": "Today's buzzword is...", 
+    "end": 86, 
+    "index": 21, 
+    "start": 84
+  }, 
+  {
+    "content": "[Magical sound]", 
+    "end": 87, 
+    "index": 22, 
+    "start": 86
+  }, 
+  {
+    "content": "Pattern! ", 
+    "end": 88, 
+    "index": 23, 
+    "start": 87
+  }, 
+  {
+    "content": "Anytime you hear this word, be sure to makecheck marks or tally marks somewhere in your notebook", 
+    "end": 94, 
+    "index": 24, 
+    "start": 89
+  }, 
+  {
+    "content": "to keep track of how many times you hear the buzzword!   ", 
+    "end": 97, 
+    "index": 25, 
+    "start": 94
+  }, 
+  {
+    "content": "Before I forget, there may be times when we ask youto pause to think about a question.", 
+    "end": 103, 
+    "index": 26, 
+    "start": 97
+  }, 
+  {
+    "content": "You'll see this sign and hear this sound [Ding]to remind you to pause.", 
+    "end": 107, 
+    "index": 27, 
+    "start": 103
+  }, 
+  {
+    "content": "Okay, I think we're ready for a Virtual Field Trip. Let's go!", 
+    "end": 112, 
+    "index": 28, 
+    "start": 108
+  }, 
+  {
+    "content": "[Music]", 
+    "end": 120, 
+    "index": 29, 
+    "start": 115
+  }, 
+  {
+    "content": "Scientists, I wanted to start here in this library to show some books that I've been reading.  ", 
+    "end": 125, 
+    "index": 30, 
+    "start": 121
+  }, 
+  {
+    "content": "If you notice, they are about plants and animals. In science, scientists are always looking for ", 
+    "end": 133, 
+    "index": 31, 
+    "start": 126
+  }, 
+  {
+    "content": "patterns around them to understand what is going on,like patterns on leaves, in sunsets and sunrises,", 
+    "end": 144, 
+    "index": 32, 
+    "start": 133
+  }, 
+  {
+    "content": "and between adult dogs and their babies! We don't just look for patterns and colors or numbers,", 
+    "end": 151, 
+    "index": 33, 
+    "start": 145
+  }, 
+  {
+    "content": "but we use patterns to understand how things work. I've been learning about parents and baby plants and animals,  ", 
+    "end": 158, 
+    "index": 34, 
+    "start": 151
+  }, 
+  {
+    "content": "and in my books, I'm noticing patterns! The baby plant or animal have some way that they look similar to their parents!", 
+    "end": 166, 
+    "index": 35, 
+    "start": 158
+  }, 
+  {
+    "content": "All this reading has me wondering if the California Science Center has parents and babies we can see.", 
+    "end": 172, 
+    "index": 36, 
+    "start": 166
+  }, 
+  {
+    "content": "I know a place we can explore our question. Let's go! ", 
+    "end": 176, 
+    "index": 37, 
+    "start": 172
+  }, 
+  {
+    "content": "Now I'm guessing that when you heard the words 'parent' and 'baby',  ", 
+    "end": 181, 
+    "index": 38, 
+    "start": 177
+  }, 
+  {
+    "content": "you begin to think about animals and their cute babies! But my first thought brought us here  ", 
+    "end": 186, 
+    "index": 39, 
+    "start": 181
+  }, 
+  {
+    "content": "to the greenhouse at the California Science Center.", 
+    "end": 190, 
+    "index": 40, 
+    "start": 187
+  }, 
+  {
+    "content": "Now, this place is special because not everybody can come here, but this greenhouse is where  ", 
+    "end": 201, 
+    "index": 41, 
+    "start": 196
+  }, 
+  {
+    "content": "scientists are making sure that plants are getting what they need to survive. ", 
+    "end": 204, 
+    "index": 42, 
+    "start": 201
+  }, 
+  {
+    "content": "Many of the plants that start here are very small. They are baby plants!  ", 
+    "end": 209, 
+    "index": 43, 
+    "start": 205
+  }, 
+  {
+    "content": "The California Science Center is growing these plants to add to our exhibits.  ", 
+    "end": 213, 
+    "index": 44, 
+    "start": 209
+  }, 
+  {
+    "content": "Let's take a closer look at this dwarf banana plant.I know it may look big, but this plant is a baby or young plant.", 
+    "end": 222, 
+    "index": 45, 
+    "start": 215
+  }, 
+  {
+    "content": "What are some things that you notice?Are all the colors on the plant the same? ", 
+    "end": 227, 
+    "index": 46, 
+    "start": 223
+  }, 
+  {
+    "content": "What about the shape of the leaves? How do these compare to other leaves you've seen? ", 
+    "end": 232, 
+    "index": 47, 
+    "start": 228
+  }, 
+  {
+    "content": "I wonder how long the leaves are? Maybe we can measure them. ", 
+    "end": 238, 
+    "index": 48, 
+    "start": 234
+  }, 
+  {
+    "content": "Oh, this one is 12 inches long!", 
+    "end": 242, 
+    "index": 49, 
+    "start": 239
+  }, 
+  {
+    "content": "What about the size of the plant? Maybe we can measure that as well.", 
+    "end": 247, 
+    "index": 50, 
+    "start": 244
+  }, 
+  {
+    "content": "Wow, it measures 26 inches high!", 
+    "end": 253, 
+    "index": 51, 
+    "start": 249
+  }, 
+  {
+    "content": "Let's make some more observations and see what patterns we might find.", 
+    "end": 260, 
+    "index": 52, 
+    "start": 256
+  }, 
+  {
+    "content": "Let's keep in mind we saw here and see if we can noticepatterns of things it has in common with the older plant.  ", 
+    "end": 266, 
+    "index": 53, 
+    "start": 260
+  }, 
+  {
+    "content": "Scientists, are you wondering what that young dwarf banana plant looks like as an adult? ", 
+    "end": 273, 
+    "index": 54, 
+    "start": 269
+  }, 
+  {
+    "content": "Follow me this way!", 
+    "end": 275, 
+    "index": 55, 
+    "start": 274
+  }, 
+  {
+    "content": "Ah, here it is! This is what the baby plant will look like as an adult. ", 
+    "end": 283, 
+    "index": 56, 
+    "start": 278
+  }, 
+  {
+    "content": "What are some things you notice with the adult plant?", 
+    "end": 287, 
+    "index": 57, 
+    "start": 284
+  }, 
+  {
+    "content": "What is that growing on it? ", 
+    "end": 295, 
+    "index": 58, 
+    "start": 293
+  }, 
+  {
+    "content": "Are all the colors the same?", 
+    "end": 301, 
+    "index": 59, 
+    "start": 299
+  }, 
+  {
+    "content": "Let's start with the leaves like we did with the baby.Let's measure the leaves on this adult plant.  ", 
+    "end": 310, 
+    "index": 60, 
+    "start": 305
+  }, 
+  {
+    "content": "Wow, 24 inches long!  ", 
+    "end": 314, 
+    "index": 61, 
+    "start": 311
+  }, 
+  {
+    "content": "The leaves of the adult are about as large as the entire baby dwarf banana plant!  ", 
+    "end": 320, 
+    "index": 62, 
+    "start": 315
+  }, 
+  {
+    "content": "I wonder how tall this adult plant is? ", 
+    "end": 325, 
+    "index": 63, 
+    "start": 322
+  }, 
+  {
+    "content": "Oh it's 52 inches tall, much taller than the baby plant!  ", 
+    "end": 331, 
+    "index": 64, 
+    "start": 327
+  }, 
+  {
+    "content": "Now that we have both plants side by side, what are some patterns that you notice?", 
+    "end": 337, 
+    "index": 65, 
+    "start": 333
+  }, 
+  {
+    "content": "What do these two plants have in common?", 
+    "end": 343, 
+    "index": 66, 
+    "start": 341
+  }, 
+  {
+    "content": "Does the baby plant look like the parent plant?  ", 
+    "end": 351, 
+    "index": 67, 
+    "start": 347
+  }, 
+  {
+    "content": "Wow scientists, I noticed so many patterns between the baby and parent plants. ", 
+    "end": 358, 
+    "index": 68, 
+    "start": 353
+  }, 
+  {
+    "content": "I wonder if we could find patterns in animals? I know an animal we can observe. Let's go!  ", 
+    "end": 364, 
+    "index": 69, 
+    "start": 358
+  }, 
+  {
+    "content": "Scientists, here we have the next parent we're going to observe.  ", 
+    "end": 369, 
+    "index": 70, 
+    "start": 365
+  }, 
+  {
+    "content": "This is an anole lizard. Let's make some observations of this parent. ", 
+    "end": 373, 
+    "index": 71, 
+    "start": 369
+  }, 
+  {
+    "content": "What do you notice? What color are the anoles? ", 
+    "end": 378, 
+    "index": 72, 
+    "start": 374
+  }, 
+  {
+    "content": "I wonder how long these adult anoles are?", 
+    "end": 383, 
+    "index": 73, 
+    "start": 381
+  }, 
+  {
+    "content": "Oh, they're about 10 inches long!", 
+    "end": 387, 
+    "index": 74, 
+    "start": 385
+  }, 
+  {
+    "content": "What do you notice about their tails? ", 
+    "end": 392, 
+    "index": 75, 
+    "start": 390
+  }, 
+  {
+    "content": "Remember, we want to find patterns between  the parent and babies and since we haven't seen the baby anole, ", 
+    "end": 402, 
+    "index": 76, 
+    "start": 395
+  }, 
+  {
+    "content": "we need to make those observations of this parent and notice as many details as we can.  ", 
+    "end": 407, 
+    "index": 77, 
+    "start": 402
+  }, 
+  {
+    "content": "I have a surprise, scientist! I'm going to take you behind the scenes again  ", 
+    "end": 415, 
+    "index": 78, 
+    "start": 411
+  }, 
+  {
+    "content": "to find the baby anoles! Let's go!  ", 
+    "end": 418, 
+    "index": 79, 
+    "start": 415
+  }, 
+  {
+    "content": "This is a baby anole. What do you see? Remember, we want to find patterns,  ", 
+    "end": 425, 
+    "index": 80, 
+    "start": 419
+  }, 
+  {
+    "content": "ways that the babies are similar to the parents. Let's measure it! ", 
+    "end": 429, 
+    "index": 81, 
+    "start": 425
+  }, 
+  {
+    "content": "Wow, this one is about four to six inches long!  ", 
+    "end": 433, 
+    "index": 82, 
+    "start": 430
+  }, 
+  {
+    "content": "What color are these baby anoles? Do their bodies look like their parents?  ", 
+    "end": 440, 
+    "index": 83, 
+    "start": 434
+  }, 
+  {
+    "content": "I'm starting to see how baby plants and animals are similar to their parents. I'm thinking we can catch up with someone else  ", 
+    "end": 448, 
+    "index": 84, 
+    "start": 441
+  }, 
+  {
+    "content": "that can help us find more parents and babies here at the California Science Center.", 
+    "end": 451, 
+    "index": 85, 
+    "start": 448
+  }, 
+  {
+    "content": "[Music]", 
+    "end": 460, 
+    "index": 86, 
+    "start": 453
+  }, 
+  {
+    "content": "Hi, I'm Crystal! I'm one of the aquarists here at the California Science Center. We're currently in front of our Kelp Forest exhibit", 
+    "end": 466, 
+    "index": 87, 
+    "start": 460
+  }, 
+  {
+    "content": "and I'm here to tell you about baby fish, or what scientists like to call a 'juvenile fish', and their parents and see how similar or how different they are!", 
+    "end": 474, 
+    "index": 88, 
+    "start": 466
+  }, 
+  {
+    "content": "In the ocean, there are lots of animals that lay eggs and from some of those eggs we can get baby fish ", 
+    "end": 480, 
+    "index": 89, 
+    "start": 474
+  }, 
+  {
+    "content": "that can look very different from their parents.  ", 
+    "end": 482, 
+    "index": 90, 
+    "start": 480
+  }, 
+  {
+    "content": "Then there are some fish that give live birth, just like our pile surfperch!", 
+    "end": 487, 
+    "index": 91, 
+    "start": 482
+  }, 
+  {
+    "content": "Those baby fish look like mini copies of their parents and, unlike humans who take care of their babies,", 
+    "end": 496, 
+    "index": 92, 
+    "start": 490
+  }, 
+  {
+    "content": "surfperch fish do not. Once the babies are born, they have to learn to live on their own. ", 
+    "end": 501, 
+    "index": 93, 
+    "start": 496
+  }, 
+  {
+    "content": "In order to protect our surfperch babies here at the California Science Center from predators in our kelp forest, ", 
+    "end": 506, 
+    "index": 94, 
+    "start": 501
+  }, 
+  {
+    "content": "we separate the babies into smaller tanks where we feed them and watch over them", 
+    "end": 511, 
+    "index": 95, 
+    "start": 506
+  }, 
+  {
+    "content": "until they're old enough, and big enough, to join the other fish in our Kelp Forest exhibit.  ", 
+    "end": 515, 
+    "index": 96, 
+    "start": 511
+  }, 
+  {
+    "content": "What are some patterns you notice between the baby and the adult pile perch?  ", 
+    "end": 521, 
+    "index": 97, 
+    "start": 517
+  }, 
+  {
+    "content": "Now what are some other patterns you notice between these babies and the adults?", 
+    "end": 532, 
+    "index": 98, 
+    "start": 527
+  }, 
+  {
+    "content": "Thank you for joining me today on our Science Talk about baby fish! I hope to see you around!", 
+    "end": 546, 
+    "index": 99, 
+    "start": 540
+  }, 
+  {
+    "content": "[Music]", 
+    "end": 554, 
+    "index": 100, 
+    "start": 546
+  }, 
+  {
+    "content": "Hi scientists! Today, we are going to sing a song with some of my friends!  ", 
+    "end": 558, 
+    "index": 101, 
+    "start": 554
+  }, 
+  {
+    "content": "Let me introduce you to them. These are the Science Songbirds!", 
+    "end": 563, 
+    "index": 102, 
+    "start": 558
+  }, 
+  {
+    "content": "[Birds chirping]", 
+    "end": 565, 
+    "index": 103, 
+    "start": 563
+  }, 
+  {
+    "content": "They want to share a song about parents and their offspring, or babies!   ", 
+    "end": 571, 
+    "index": 104, 
+    "start": 566
+  }, 
+  {
+    "content": "Some animals take great care of their babies, while other animal babies don't even need their mom or dad.", 
+    "end": 578, 
+    "index": 105, 
+    "start": 571
+  }, 
+  {
+    "content": "There are lots of ways animals might take care of their babies. Let's look at some animals and see if we can figure out how!  ", 
+    "end": 586, 
+    "index": 106, 
+    "start": 578
+  }, 
+  {
+    "content": "What do you see in this picture?How is the mother dog caring for her puppies?  ", 
+    "end": 592, 
+    "index": 107, 
+    "start": 588
+  }, 
+  {
+    "content": "How about this? Do you see the baby birds with their mouths open? What is their mother doing?  ", 
+    "end": 599, 
+    "index": 108, 
+    "start": 593
+  }, 
+  {
+    "content": "What about this mouse and its baby?Can you see what's happening?  ", 
+    "end": 604, 
+    "index": 109, 
+    "start": 600
+  }, 
+  {
+    "content": "So what do all these pictures have in common? The parents are feeding their babies!  ", 
+    "end": 609, 
+    "index": 110, 
+    "start": 604
+  }, 
+  {
+    "content": "Scientists call babies 'offspring' and here to teach us a song about parents and their offspring  ", 
+    "end": 614, 
+    "index": 111, 
+    "start": 609
+  }, 
+  {
+    "content": "are our very own Science Songbirds!Listen to the Science Songbirds and try to sing along!   ", 
+    "end": 621, 
+    "index": 112, 
+    "start": 614
+  }, 
+  {
+    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring. \u266a", 
+    "end": 629, 
+    "index": 113, 
+    "start": 621
+  }, 
+  {
+    "content": "\u266a They give them food to eat. They give them food to eat, they give them food to eat. \u266a   ", 
+    "end": 636, 
+    "index": 114, 
+    "start": 630
+  }, 
+  {
+    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a", 
+    "end": 644, 
+    "index": 115, 
+    "start": 636
+  }, 
+  {
+    "content": "\u266a They give them food to eat \u266a", 
+    "end": 647, 
+    "index": 116, 
+    "start": 645
+  }, 
+  {
+    "content": "Great job! Now let's look at some more animals taking care of their offspring.  ", 
+    "end": 654, 
+    "index": 117, 
+    "start": 649
+  }, 
+  {
+    "content": "Look carefully! What do you see in this picture? ", 
+    "end": 658, 
+    "index": 118, 
+    "start": 654
+  }, 
+  {
+    "content": "How about these elephants? Can you see howthey're gathering around the baby? Why do they do that?", 
+    "end": 664, 
+    "index": 119, 
+    "start": 658
+  }, 
+  {
+    "content": "This bird is called a killdeer. Can you see how it's protecting its eggs?  ", 
+    "end": 671, 
+    "index": 120, 
+    "start": 667
+  }, 
+  {
+    "content": "How are all these parents in the pictures taking care of their babies? They are keeping them safe.", 
+    "end": 677, 
+    "index": 121, 
+    "start": 671
+  }, 
+  {
+    "content": "Parents take care of their offspring by protecting them from danger.  ", 
+    "end": 683, 
+    "index": 122, 
+    "start": 679
+  }, 
+  {
+    "content": "Science Songbirds, do you have something to say about that? ", 
+    "end": 686, 
+    "index": 123, 
+    "start": 683
+  }, 
+  {
+    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
+    "end": 693, 
+    "index": 124, 
+    "start": 686
+  }, 
+  {
+    "content": "\u266a Protect them from danger, protect them from danger, protect them from danger \u266a   ", 
+    "end": 702, 
+    "index": 125, 
+    "start": 695
+  }, 
+  {
+    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
+    "end": 708, 
+    "index": 126, 
+    "start": 702
+  }, 
+  {
+    "content": "\u266a Protect them from danger. \u266a   ", 
+    "end": 712, 
+    "index": 127, 
+    "start": 710
+  }, 
+  {
+    "content": "Beautiful! Now, let's take a look at a few more animal families!", 
+    "end": 718, 
+    "index": 128, 
+    "start": 713
+  }, 
+  {
+    "content": "Look at this mama bear and her cub. What is the cub doing? Is he trying to climb over the log?  ", 
+    "end": 727, 
+    "index": 129, 
+    "start": 719
+  }, 
+  {
+    "content": "What do you think his mother is doing?  ", 
+    "end": 730, 
+    "index": 130, 
+    "start": 728
+  }, 
+  {
+    "content": "How about this moose? Do you think the baby knows how to cross the river on its own?  ", 
+    "end": 736, 
+    "index": 131, 
+    "start": 731
+  }, 
+  {
+    "content": "Parents teach their babies many skills they need to survive.", 
+    "end": 742, 
+    "index": 132, 
+    "start": 738
+  }, 
+  {
+    "content": "Take it away, Science Songbirds!", 
+    "end": 745, 
+    "index": 133, 
+    "start": 742
+  }, 
+  {
+    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
+    "end": 754, 
+    "index": 134, 
+    "start": 747
+  }, 
+  {
+    "content": "\u266a They teach them lots of skills, they teach them lots of skills, they teach them lots of skills. \u266a  ", 
+    "end": 762, 
+    "index": 135, 
+    "start": 755
+  }, 
+  {
+    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
+    "end": 769, 
+    "index": 136, 
+    "start": 762
+  }, 
+  {
+    "content": "\u266a They teach them lots of skills. \u266a  ", 
+    "end": 773, 
+    "index": 137, 
+    "start": 770
+  }, 
+  {
+    "content": "And last but not least, let's look at a few more animals! What do you see in these pictures?", 
+    "end": 781, 
+    "index": 138, 
+    "start": 774
+  }, 
+  {
+    "content": "All these babies are snuggling up with their mamas! Even wild animals show affection to their offspring,", 
+    "end": 793, 
+    "index": 139, 
+    "start": 784
+  }, 
+  {
+    "content": "hugging them, rubbing heads with them, playing with them, even cleaning them.  ", 
+    "end": 799, 
+    "index": 140, 
+    "start": 793
+  }, 
+  {
+    "content": "You know the song by now! Join the Science Songbirds for our last verse! ", 
+    "end": 806, 
+    "index": 141, 
+    "start": 800
+  }, 
+  {
+    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
+    "end": 813, 
+    "index": 142, 
+    "start": 806
+  }, 
+  {
+    "content": "\u266a They love them very much, they love them very much, they love them very much. \u266a ", 
+    "end": 821, 
+    "index": 143, 
+    "start": 815
+  }, 
+  {
+    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
+    "end": 828, 
+    "index": 144, 
+    "start": 821
+  }, 
+  {
+    "content": "\u266a They love them very much! \u266a  ", 
+    "end": 832, 
+    "index": 145, 
+    "start": 830
+  }, 
+  {
+    "content": "That was fun, scientists! Let's head back to the Discovery Room!", 
+    "end": 839, 
+    "index": 146, 
+    "start": 834
+  }, 
+  {
+    "content": "What a great field trip! Let's go over all the things that we did today! ", 
+    "end": 844, 
+    "index": 147, 
+    "start": 841
+  }, 
+  {
+    "content": "We started our field trip in a library to talk about patterns, ", 
+    "end": 848, 
+    "index": 148, 
+    "start": 844
+  }, 
+  {
+    "content": "then we visited the greenhouse to make observations of a young dwarf banana plant.", 
+    "end": 853, 
+    "index": 149, 
+    "start": 848
+  }, 
+  {
+    "content": "That led us to make observations of the parent plant and made side-by-side observations.", 
+    "end": 859, 
+    "index": 150, 
+    "start": 853
+  }, 
+  {
+    "content": "We then made observations of parent and baby anole lizards and found that both baby and parents look very similar! ", 
+    "end": 867, 
+    "index": 151, 
+    "start": 859
+  }, 
+  {
+    "content": "Finally we sing a song with Mariela and the Science Songbirdsabout how parents help their offspring survive!", 
+    "end": 873, 
+    "index": 152, 
+    "start": 867
+  }, 
+  {
+    "content": "Do you remember the Question of the Day?Can you use the buzzword to answer the Question of the Day?", 
+    "end": 880, 
+    "index": 153, 
+    "start": 874
+  }, 
+  {
+    "content": "[Ding] Pause the video now to try to answer theQuestion of the Day using the buzzword!", 
+    "end": 885, 
+    "index": 154, 
+    "start": 880
+  }, 
+  {
+    "content": "How do parents make sure their babies stay alive? ", 
+    "end": 888, 
+    "index": 155, 
+    "start": 885
+  }, 
+  {
+    "content": "Okay scientists, it's time to count our check marks.How many times did you hear the buzzword?  ", 
+    "end": 894, 
+    "index": 156, 
+    "start": 889
+  }, 
+  {
+    "content": "[Ding] Pause the video now to count your check marks or tally marks!", 
+    "end": 899, 
+    "index": 157, 
+    "start": 895
+  }, 
+  {
+    "content": "Drum roll please! And the answer is...  ", 
+    "end": 904, 
+    "index": 158, 
+    "start": 899
+  }, 
+  {
+    "content": "Drum roll please! And the answer is...  15!", 
+    "end": 905, 
+    "index": 159, 
+    "start": 904
+  }, 
+  {
+    "content": "We hope you had fun on this Virtual Field Trip at the California Science Center", 
+    "end": 909, 
+    "index": 160, 
+    "start": 906
+  }, 
+  {
+    "content": "and we look forward to seeing you next time!", 
+    "end": 911, 
+    "index": 161, 
+    "start": 909
+  }, 
+  {
+    "content": "For more Virtual Field Trip fun, visit our website!", 
+    "end": 922, 
+    "index": 162, 
+    "start": 917
+  }
+]

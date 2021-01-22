@@ -71,15 +71,37 @@
 }
 
 
-.main-page {
+.upper-page {
   width: 100%;
-  height: 90%;
+  height: 50vh;
   display: flex;
 }
+
+.lower-page {
+  width: 100%;
+  height: 45vh;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
 .split-left {
-  width: 50vw;
-  height: 65vh;
-  margin-left: 2%;
+  width: 30vw;
+  height: 45vh;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  right: 0;
+  border-style: solid;
+  border-width: 1px;
+  margin: 1vw 2vw 2vw 5vw;
+  border: 1.5px solid gray;
+  border-radius: 25px;
+  display: block;
+  z-index: 1;
+}
+.split-center {
+  width: 40vw;
+  height: 45vh;
   margin-top: 1%;
   overflow-x: hidden;
   overflow-y: hidden;
@@ -89,21 +111,21 @@
   outline: none;
 }
 .split-right {
-  width: 47vw;
-  height: 85vh;
+  width: 30vw;
+  height: 45vh;
   overflow-x: hidden;
   overflow-y: hidden;
   right: 0;
   border-style: solid;
   border-width: 1px;
-  margin: 1% 2% 2% 2%;
+  margin: 1vw 5vw 2vw 2vw;
   border: 1.5px solid gray;
   border-radius: 25px;
   display: block;
   z-index: 1;
 }
 .main-video {
-  height: 75%;
+  height: 30vh;
   margin-bottom: 25px;
   
 }
@@ -116,8 +138,9 @@
 
 .progressBar-container {
   top: 0px;
-  height: 200px;
-  width: 100%;
+  height: 5vh;
+  width: 90vw;
+  display: inline-block;
 }
 
 .progressBar {
@@ -131,11 +154,35 @@
   font-size: 1.5em;
   color: black;
   margin-top: -57px;
-  margin-left: 90%; 
+  margin-left: 95%; 
   position: relative;
   z-index: 10;
 }
 
+.container-wrapper {
+  max-width: 80%;
+  margin: auto;
+  display: grid;
+  grid-auto-flow: row;
+}
+
+.container-wrapper > div {
+  padding: 1px 0px;
+  margin-top: 1px;
+  text-align: center;
+}
+
+.voice-button{
+  font-size: large;
+  display: inline-block;
+  font-weight: 500; 
+  border: solid dodgerblue;
+  color: dodgerblue;
+  border-width: 2px;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 0px 5px 0px 5px;
+}
 
 .search-bar-top {
   display: inline-flex;
@@ -154,5 +201,43 @@
   font-weight: 500; 
   text-align: right;
   margin-bottom: 10px;
+  width: 100%;
+}
+
+.segments-container {
+  
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 100%;
+}
+
+.text-option-item {
+  display: inline-flex;
+  margin: 1vw 1vw 0 1vw;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  width: 21vw;
+  height: 30vh;
+  overflow-y: hidden;
+  border-style: solid;
+  border-width: 1px;
+  border: 1.5px solid gray;
+  border-radius: 20px;
+}
+
+.text-option-text {
+  display: block;
+  text-align: left;
+  margin: 1vh;
+  width: 100%;
+  font-size: 23px;
+  line-height: 1.5;
+}
+.text-option-meta {
+  margin-bottom: 1vh;
+  display: inline-flex;
+  justify-content: space-between;
   width: 100%;
 }
