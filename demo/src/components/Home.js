@@ -15,7 +15,6 @@ import Divider from '@material-ui/core/Divider';
 import {clips} from '../scripts';
 import { Clickable } from 'react-clickable';
 import Blink from 'react-blink-text';
-import KeyboardEventHandler from 'react-keyboard-event-handler';
 
 class Home extends Component {
     constructor(props) {
@@ -29,17 +28,17 @@ class Home extends Component {
             videoID: 'GMVbQ1UsMP8',
             listening: false,
             transcript:'',
-            current_idx: 0,
             option_suggestions: [],
             option_indexes: [],
             time_options: [1, 20, 130, 200, 300],
             content_options: ["hi", "hi", "here", "here", "hi"],
             keyword_indexes: [[],[],[],[]],
-            
+            current_level: 1,
         }
         this.handleDrawerOpen = this.handleDrawerOpen.bind(this);
         this.handleDrawerClose = this.handleDrawerClose.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
+        this.jumpVideo  = this.jumpVideo.bind(this);
     }
 
 
@@ -78,10 +77,20 @@ class Home extends Component {
           time_options: [],
           content_options: [],
           keyword_indexes: [],
+          current_level: 0,
         })
         console.log("changed the video", videoID);
         this.handleDrawerClose();
-      }
+    }
+
+    jumpVideo(time, abs=false){
+        if(abs){
+            this.player.seekTo(time);
+        }
+        else{
+            this.player.seekTo(this.state.playedSeconds + time);
+        }
+    }
     
     
     
@@ -134,7 +143,7 @@ class Home extends Component {
                 </div>
                 <div className="split-center"  tabIndex="1" >
                     <Row className="main-video">
-                        <ReactPlayer ref={this.ref} playing={playing}
+                        <ReactPlayer ref={this.ref} playing={this.state.playing}
                             playbackRate={playbackRate} id="video"  width="100%" height="100%" controls url = {`https://www.youtube.com/watch?v=${videoID}`} onPause={this._onPause}
                             onPlay={this._onPlay}
                             onReady={this._onReady}
@@ -166,22 +175,12 @@ class Home extends Component {
                     <form onSubmit={this.onRequestSearchHandler}>
                         <input type="text" className="search-bar"/>
                     </form>
-                    {/* {this.state.option_indexes.length > 4?
-                        <div >
-                        {this.state.textOptionsIndex === 0?
-                        <div className="time-option"><div className="voice-command">"Show Next" </div> {'\xa0\xa0'}{this.state.textOptionsIndex+1} / {Math.ceil(this.state.option_indexes.length/4) } </div>
-                        :<div >{this.state.textOptionsIndex + 1 >= Math.ceil(this.state.option_indexes.length/4)?
-                            <div className="time-option"><div className="voice-command" >"Show Previous"</div> {'\xa0\xa0'}{this.state.textOptionsIndex+1} / {Math.ceil(this.state.option_indexes.length/4) } </div>
-                            :<div className="time-option"><div className="voice-command" >"Show Previous / Next" </div>{'\xa0\xa0'}{this.state.textOptionsIndex+1} / {Math.ceil(this.state.option_indexes.length/4) } </div>}</div>}
-                        </div>
-                    :
-                    null} */}
                     </div>    
                 </Container>
                 <Container className="lower-page">
 
                 <Timeline   videoTime={this.state.playedSeconds} duration={this.state.duration} ></Timeline>
-                <Segments videoID={this.state.videoID} videoTime={this.state.playedSeconds} option_indexes = {this.state.option_indexes} time_options = {this.state.time_options} content_options = {this.state.content_options} keyword_indexes = {this.state.keyword_indexes}></Segments>
+                <Segments videoID={this.state.videoID} videoTime={this.state.playedSeconds} jumpVideo = {this.jumpVideo} current_level = {this.state.current_level}></Segments>
                 </Container>
             </div>
         )
