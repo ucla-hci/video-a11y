@@ -64,6 +64,7 @@
     "react-player": "^2.7.2",
     "react-refresh": "^0.8.3",
     "react-router-dom": "^5.2.0",
+    "react-simple-timefield": "^3.2.3",
     "react-spinners": "^0.10.4",
     "resolve": "1.18.1",
     "resolve-url-loader": "^3.1.2",

@@ -15,6 +15,15 @@ import Divider from '@material-ui/core/Divider';
 import {clips} from '../scripts';
 import { Clickable } from 'react-clickable';
 import Blink from 'react-blink-text';
+import TimeField from 'react-simple-timefield';
+import KeyboardEventHandler from 'react-keyboard-event-handler';
+
+function deformatTime(string) {
+    const arr = string.split(':');
+    var minutes = parseInt(arr[0]) * 60;
+    var seconds = parseInt(arr[1]);
+    return minutes + seconds;
+}
 
 class Home extends Component {
     constructor(props) {
@@ -28,17 +37,14 @@ class Home extends Component {
             videoID: 'GMVbQ1UsMP8',
             listening: false,
             transcript:'',
-            option_suggestions: [],
-            option_indexes: [],
-            time_options: [1, 20, 130, 200, 300],
-            content_options: ["hi", "hi", "here", "here", "hi"],
-            keyword_indexes: [[],[],[],[]],
-            current_level: 1,
+            timeSeconds: '12:34:56',
         }
         this.handleDrawerOpen = this.handleDrawerOpen.bind(this);
         this.handleDrawerClose = this.handleDrawerClose.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
         this.jumpVideo  = this.jumpVideo.bind(this);
+        this.onTimeChange = this.onTimeChange.bind(this);
+        this.state.handleKey = this.handleKey.bind(this);
     }
 
 
@@ -77,7 +83,6 @@ class Home extends Component {
           time_options: [],
           content_options: [],
           keyword_indexes: [],
-          current_level: 0,
         })
         console.log("changed the video", videoID);
         this.handleDrawerClose();
@@ -91,11 +96,26 @@ class Home extends Component {
             this.player.seekTo(this.state.playedSeconds + time);
         }
     }
+    onTimeChange(event, value) {
+        const newTime = value.replace(/-/g, ':');
+        const timeSeconds = newTime.padEnd(8, this.state.timeSeconds.substr(5, 3));
+    
+        this.setState({timeSeconds});
+    }
+    handleKey = (key) => {
+        console.log(key, this.state.timeSeconds);
+        var time = deformatTime(this.state.timeSeconds);
+        switch (key) {
+        case 'enter':
+            this.jumpVideo(time, true);
+            break;
+        }
+    }
     
     
     
     render() {
-        const { videoID, playing, playbackRate, listening, transcript} = this.state;
+        const { videoID, playing, playbackRate, listening, transcript, timeSeconds} = this.state;
         const { addFlag, flagClickHandler, showFlags, addParticipationPoint } = this;
 
         return (
@@ -137,9 +157,12 @@ class Home extends Component {
                 </div>
                 <Container className="upper-page">
                 <div className="split-left"  tabIndex="1" >
-                    <div className="search-bar-top">
-                        <div className="last-command">{this.state.last_query}</div>
-                    </div>
+                        <img src={"space-bar-icon-25.png"} style={{width: '50%', marginTop: '3vh'}} alt={"Icon of up, down, left, right keys from keyboard"}/>
+                        <div className="text-option-text">
+                            ⬆/⬇: Change level of unit<br/>
+                            ⬅: Jump to nearest past unit<br/>
+                            ⬅: Jump to nearest future unit
+                        </div>
                 </div>
                 <div className="split-center"  tabIndex="1" >
                     <Row className="main-video">
@@ -169,18 +192,28 @@ class Home extends Component {
                     </div>
                 </div>
                 <div className="split-right" >
-                    <div className="search-bar-top">
+                    <KeyboardEventHandler
+                    handleKeys={['enter']}
+                    onKeyEvent={(key, e) => this.handleKey(key)}>
+                    {/* <div className="search-bar-top">
                         <div className="last-command">{this.state.last_query}</div>
                     </div>
                     <form onSubmit={this.onRequestSearchHandler}>
                         <input type="text" className="search-bar"/>
-                    </form>
-                    </div>    
+                    </form> */}
+                    <div className="text-option-text"> Jump to: </div>
+                    <TimeField
+                        value={timeSeconds} onChange={this.onTimeChange}
+                        style={{ border: '2px solid #666', fontSize: 42, width: 130,
+                        padding: '5px 8px', color: '#333', borderRadius: 5}}
+                    />
+                    </KeyboardEventHandler>
+                </div>    
                 </Container>
                 <Container className="lower-page">
 
                 <Timeline   videoTime={this.state.playedSeconds} duration={this.state.duration} ></Timeline>
-                <Segments videoID={this.state.videoID} videoTime={this.state.playedSeconds} jumpVideo = {this.jumpVideo} current_level = {this.state.current_level}></Segments>
+                <Segments videoID={this.state.videoID} videoTime={this.state.playedSeconds} jumpVideo = {this.jumpVideo} ></Segments>
                 </Container>
             </div>
         )

@@ -92,11 +92,10 @@
   overflow-x: hidden;
   overflow-y: hidden;
   right: 0;
-  border-style: solid;
   border-width: 1px;
   margin: 1vw 2vw 2vw 5vw;
-  border: 1.5px solid gray;
-  border-radius: 25px;
+  /* border: 0.5px solid gray; */
+  border-radius: 5px;
   display: block;
   z-index: 1;
 }
@@ -231,7 +230,8 @@
 .text-option-text {
   display: block;
   text-align: left;
-  margin: 1vh;
+  margin: 1.0vh;
+  margin-left: 1.0vw;
   width: 100%;
   font-size: 23px;
   line-height: 1.5;
