@@ -18,6 +18,20 @@ import Blink from 'react-blink-text';
 import TimeField from 'react-simple-timefield';
 import KeyboardEventHandler from 'react-keyboard-event-handler';
 
+
+function formatTime(time) {
+    console.log(time);
+    time = Math.round(time);
+    var minutes = Math.floor(time / 60),
+        seconds = time - minutes * 60;
+    
+    seconds = seconds < 10 ? '0' + seconds : seconds;
+    var time = minutes + ":" + seconds;
+    if(time.length < 5)
+        time = 0 + time;
+    return time;
+}
+
 function deformatTime(string) {
     const arr = string.split(':');
     var minutes = parseInt(arr[0]) * 60;
@@ -37,7 +51,9 @@ class Home extends Component {
             videoID: 'GMVbQ1UsMP8',
             listening: false,
             transcript:'',
-            timeSeconds: '12:34:56',
+            time: '00:00',
+            starts: [], 
+            mid_indexes: [],
         }
         this.handleDrawerOpen = this.handleDrawerOpen.bind(this);
         this.handleDrawerClose = this.handleDrawerClose.bind(this);
@@ -49,6 +65,30 @@ class Home extends Component {
 
 
     componentDidMount() {
+
+        var json = require('../GMVbQ1UsMP8.json');
+        var starts = [];
+        var contents = [];
+        for (var i = 0, l = json.length; i < l; i++) {
+        var node = json[i];
+        starts.push(node['start']);
+        contents.push(node['content']);
+        }
+
+        json = require('../mid_level.json');
+        var mid_indexes = [];
+        var mid_contents = [];
+        for (var i = 0, l = json.length; i < l; i++) {
+        node = json[i];
+        mid_indexes.push(node['index']);
+        mid_contents.push(node['content']);
+        }
+        console.log("here", mid_indexes);
+
+        
+
+        this.setState({starts: starts, contents:  contents, mid_indexes: mid_indexes, mid_contents: mid_contents});
+
     }
 
 
@@ -95,19 +135,26 @@ class Home extends Component {
         else{
             this.player.seekTo(this.state.playedSeconds + time);
         }
+       
     }
+
     onTimeChange(event, value) {
         const newTime = value.replace(/-/g, ':');
-        const timeSeconds = newTime.padEnd(8, this.state.timeSeconds.substr(5, 3));
+        const time = newTime.substr(0, 5);
+        console.log(newTime, time);
     
-        this.setState({timeSeconds});
+        this.setState({time});
     }
     handleKey = (key) => {
-        console.log(key, this.state.timeSeconds);
-        var time = deformatTime(this.state.timeSeconds);
+        console.log(key, this.state.time);
+        var time = deformatTime(this.state.time);
         switch (key) {
         case 'enter':
             this.jumpVideo(time, true);
+            this.setState({entered_time: time});
+            break;
+        case 'space':
+            this.setState({playing: !this.state.playing});
             break;
         }
     }
@@ -115,11 +162,15 @@ class Home extends Component {
     
     
     render() {
-        const { videoID, playing, playbackRate, listening, transcript, timeSeconds} = this.state;
+        const { videoID, playing, playbackRate, listening, transcript, time} = this.state;
         const { addFlag, flagClickHandler, showFlags, addParticipationPoint } = this;
 
         return (
             <div className="Home">
+                <KeyboardEventHandler
+                    handleKeys={['space']}
+                    onKeyEvent={(key, e) => this.handleKey(key)}>
+                </KeyboardEventHandler>
                 <div className="header-bar">
                     <div className="header-title">
                         <Header as="h2">
@@ -203,7 +254,7 @@ class Home extends Component {
                     </form> */}
                     <div className="text-option-text"> Jump to: </div>
                     <TimeField
-                        value={timeSeconds} onChange={this.onTimeChange}
+                        value={formatTime(this.state.playedSeconds)} onChange={this.onTimeChange}
                         style={{ border: '2px solid #666', fontSize: 42, width: 130,
                         padding: '5px 8px', color: '#333', borderRadius: 5}}
                     />
@@ -213,7 +264,7 @@ class Home extends Component {
                 <Container className="lower-page">
 
                 <Timeline   videoTime={this.state.playedSeconds} duration={this.state.duration} ></Timeline>
-                <Segments videoID={this.state.videoID} videoTime={this.state.playedSeconds} jumpVideo = {this.jumpVideo} ></Segments>
+                <Segments videoID={this.state.videoID} videoTime={this.state.playedSeconds} jumpVideo = {this.jumpVideo} starts =  {this.state.starts} contents = {this.state.contents} mid_indexes = {this.state.mid_indexes} mid_contents = {this.state.mid_contents} entered_time = {this.state.entered_time}></Segments>
                 </Container>
             </div>
         )

@@ -116,10 +116,9 @@
   overflow-x: hidden;
   overflow-y: hidden;
   right: 0;
-  border-style: solid;
   border-width: 1px;
   margin: 1vw 5vw 2vw 2vw;
-  border: 1.5px solid gray;
+  /* border: 1.5px solid gray; */
   border-radius: 25px;
   display: block;
   z-index: 1;
@@ -224,6 +223,20 @@
   border-style: solid;
   border-width: 1px;
   border: 1.5px solid gray;
+  border-radius: 20px;
+}
+
+.mid-text-option-item {
+  display: inline-flex;
+  margin: 1vw 1vw 0 1vw;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  width: 21vw;
+  height: 30vh;
+  overflow-y: hidden;
+  border-style: solid;
+  border-width: 1px;
+  border: 1.5px solid ;
   border-radius: 20px;
 }
 
