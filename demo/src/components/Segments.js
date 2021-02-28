@@ -125,8 +125,15 @@ export default class Segments extends React.Component {
           case 'right':
             new_idx = current_idx + 1;
             var time = this.props.starts[new_idx];
+            // this.state.speech.speak({
+            //     text: "Skipped" + (this.props.starts[new_idx] - this.props.starts[current_idx]).toString() + "seconds"
+            // }).then(() => {
+            //     console.log("Success !")
+            // }).catch(e => {
+            //     console.error("An error occurred :", e)
+            // })
             this.state.speech.speak({
-                text: "Skipped" + (this.props.starts[new_idx] - this.props.starts[current_idx]).toString() + "seconds"
+                text: this.props.dynamic[new_idx].toString()
             }).then(() => {
                 console.log("Success !")
             }).catch(e => {
@@ -156,7 +163,7 @@ export default class Segments extends React.Component {
 
 
     render() {
-        const { videoID, videoTime, jumpVideo, starts, contents, mid_indexes, mid_contents} = this.props;
+        const { videoID, videoTime, jumpVideo, starts, contents, mid_indexes, mid_contents, dynamic} = this.props;
         const { current_level } = this.state;
         const [current_idx, current_mid_idx] = this.align_segment(videoTime, starts, mid_indexes);
         if (current_level === 1){

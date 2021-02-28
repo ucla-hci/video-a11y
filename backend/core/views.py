@@ -17,6 +17,34 @@ from collections import OrderedDict
 from django.contrib.staticfiles import finders
 
 
+@csrf_exempt
+@api_view(["POST"])
+def find_sentence(request):
+    found = False
+    video_id=request.data['videoID']
+    mixed = request.data['mixed']
+    if(mixed):
+        start_time = request.data['startTime']
+        end_time = request.data['endTime']
+    corpus = [transcript]
+    corpus_time = []
+    with open('../demo/public/'+video_id+'.json') as subtitle:
+        sjson = subtitle.read()
+        sjdata = json.loads(sjson)
+        if(mixed):
+            for line in sjdata:
+                if(line['start'] > start_time and line['end'] < end_time):
+                    corpus.append(line['content'])
+                    corpus_time.append(line['start'])
+        else:
+            for line in sjdata:
+                corpus.append(line['content'])
+                corpus_time.append(line['start'])
+    
+    return Response({'time_options': result_times, 'content_options': result_content, 'keyword_indexes': keyword_indexes, 'found': found})
+
+
+
 class SessionViewSet(viewsets.ModelViewSet):
     """
     This viewset automatically provides `list`, `create`, `retrieve`,
