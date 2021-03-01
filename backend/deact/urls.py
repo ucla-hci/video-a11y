@@ -23,9 +23,11 @@ from django.conf.urls import include
 router = DefaultRouter()
 router.register('sessions', SessionViewSet)
 router.register('navigations', NavigationViewSet)
+from core.views import index
 
 
 urlpatterns = [
     path('backend/', include(router.urls)),
     path('admin/', admin.site.urls),
+    path('', index, name="index"),
 ]

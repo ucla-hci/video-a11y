@@ -16,7 +16,11 @@ import numpy as np
 from collections import OrderedDict 
 from django.contrib.staticfiles import finders
 
+def index(request):
+    return render(request, "build/index.html")
 
+
+    
 @csrf_exempt
 @api_view(["POST"])
 def find_sentence(request):
