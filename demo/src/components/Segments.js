@@ -26,7 +26,10 @@ export default class Segments extends React.Component {
         this.state = {
             hoverPreview: false,
             current_level: 0,
-            test_idx: 0
+            test_idx: 0,
+            key_count: 0,
+            cur_count: 0,
+            timestamp: 0
         };
 
         this.handleKey = this.handleKey.bind(this);
@@ -127,30 +130,58 @@ export default class Segments extends React.Component {
           case 'right':
             //new_idx = current_idx + 1;
             //Home.setState({playing: false});
+            var date = new Date();
+            var cur_timestamp=date.getTime();
             new_idx = this.state.test_idx + 1;
             var time = this.props.starts[new_idx];
+            //key_count === 0
+            this.status.cur_count = this.state.key_count + 1;
+            if (this.status.cur_count ===1 && this.state.key_count ===0 && this.state.timestamp ===0){
+              this.state.timestamp = cur_timestamp;
+              //this.state.speech.speak({text: "wait"})
+              this.state.key_count = 1;
+            }
+            if (this.status.cur_count === 2 && this.state.key_count ===1){
+              if(cur_timestamp - this.state.timestamp < 1000){
+                this.state.speech.speak({text: "Keywords"});
+                this.state.key_count = 0;
+                this.state.cur_count = 0;
+                this.status.timestamp = 0;
+              }
+            }
 
-            this.state.speech.stop();
-            console.log("Stop the speech !")
+            if (this.status.cur_count === 2 && this.state.key_count ===1){
+              if(cur_timestamp - this.state.timestamp >= 1000){
+                this.state.speech.speak({text: "Sentences"});
+                this.state.timestamp = cur_timestamp;
+                this.status.cur_count = 1;
+                this.state.key_count = 1;
+              }
+            }
 
-            this.state.speech.speak({
-                text: "Skipped" + (this.props.starts[new_idx] - this.props.starts[current_idx]).toString() + "seconds"
-            }).then(() => {
-                console.log("Success !")
-            }).catch(e => {
-                console.error("An error occurred :", e)
-            })
-            this.state.speech.speak({
-                text: this.props.dynamic[new_idx].toString()
-            }).then(() => {
-                console.log("Success !")
-            }).catch(e => {
-                console.error("An error occurred :", e)
-            })
+            //break;
+            
+            //this.state.speech.stop();
+            //console.log("Stop the speech !")
+
+            // this.state.speech.speak({
+            //     text: "Skipped" + (this.props.starts[new_idx] - this.props.starts[current_idx]).toString() + "seconds"
+            // }).then(() => {
+            //     console.log("Success !")
+            // }).catch(e => {
+            //     console.error("An error occurred :", e)
+            // })
+            // this.state.speech.speak({
+            //     text: this.props.dynamic[new_idx].toString()
+            // }).then(() => {
+            //     console.log("Success !")
+            // }).catch(e => {
+            //     console.error("An error occurred :", e)
+            // })
             jumpVideo(time, true);
             current_idx = new_idx;
             this.state.test_idx = current_idx;
-            //Home.setState({playing: true});
+            // //Home.setState({playing: true});
             break;
           case 'up':
             this.state.speech.speak({
