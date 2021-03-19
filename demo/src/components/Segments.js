@@ -26,6 +26,7 @@ export default class Segments extends React.Component {
         this.state = {
             hoverPreview: false,
             current_level: 0,
+            test_idx: 0
         };
 
         this.handleKey = this.handleKey.bind(this);
@@ -121,17 +122,24 @@ export default class Segments extends React.Component {
                 console.error("An error occurred :", e)
             })
             jumpVideo(time, true);
+            current_idx = new_idx;
             break;
           case 'right':
-            new_idx = current_idx + 1;
+            //new_idx = current_idx + 1;
+            //Home.setState({playing: false});
+            new_idx = this.state.test_idx + 1;
             var time = this.props.starts[new_idx];
-            // this.state.speech.speak({
-            //     text: "Skipped" + (this.props.starts[new_idx] - this.props.starts[current_idx]).toString() + "seconds"
-            // }).then(() => {
-            //     console.log("Success !")
-            // }).catch(e => {
-            //     console.error("An error occurred :", e)
-            // })
+
+            this.state.speech.stop();
+            console.log("Stop the speech !")
+
+            this.state.speech.speak({
+                text: "Skipped" + (this.props.starts[new_idx] - this.props.starts[current_idx]).toString() + "seconds"
+            }).then(() => {
+                console.log("Success !")
+            }).catch(e => {
+                console.error("An error occurred :", e)
+            })
             this.state.speech.speak({
                 text: this.props.dynamic[new_idx].toString()
             }).then(() => {
@@ -140,8 +148,18 @@ export default class Segments extends React.Component {
                 console.error("An error occurred :", e)
             })
             jumpVideo(time, true);
+            current_idx = new_idx;
+            this.state.test_idx = current_idx;
+            //Home.setState({playing: true});
             break;
           case 'up':
+            this.state.speech.speak({
+                text: "scene level"
+            }).then(() => {
+                console.log("Success !")
+            }).catch(e => {
+                console.error("An error occurred :", e)
+            })
             this.setState({current_level: 1});
             return;
         }

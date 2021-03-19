@@ -203,6 +203,10 @@ class Home extends Component {
             break;
         case 'tab':
             this.inspectFrame();
+        case 'w':
+            this.jumpVideo(time, true);
+            this.setState({entered_time: time});
+            break;
         }
     }
 
@@ -370,7 +374,7 @@ class Home extends Component {
                 </div>
                 <div className="split-right" >
                     <KeyboardEventHandler
-                    handleKeys={['enter']}
+                    handleKeys={['w']}
                     onKeyEvent={(key, e) => this.handleKey(key)}>
                     {/* <div className="search-bar-top">
                         <div className="last-command">{this.state.last_query}</div>
@@ -385,6 +389,8 @@ class Home extends Component {
                         padding: '5px 8px', color: '#333', borderRadius: 5}}
                     />
                     </KeyboardEventHandler>
+
+
                 </div>    
                 </Container>
                 <Container className="lower-page">
