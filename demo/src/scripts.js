@@ -1,13 +1,15 @@
 const clips = [ 
     {
-        title: 'Makeup Tutorial',
-        image: '/cake.png',
-        videoID: 'cYc7D9n8R0U',
+        title: 'Science virtual trip',
+        videoID: 'GMVbQ1UsMp8',
     },
     {
-        title: 'Short Film',
-        image: '/buns.png',
-        videoID: 'awCBK_2ZQhU',
+        title: 'The rainbow flame demo',
+        videoID: 'TOyDzOc2AaI',
+    },
+    {
+        title: 'How an egloo keeps you warm',
+        videoID: '1L7EI0vKVuU',
     },
 ]
 

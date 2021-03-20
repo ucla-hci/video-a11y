@@ -25,11 +25,9 @@ export default class Segments extends React.Component {
         super(props);
         this.state = {
             hoverPreview: false,
-            current_level: 0,
         };
 
         this.handleKey = this.handleKey.bind(this);
-        this.align_segment = this.align_segment.bind(this);
     }
 
     componentDidMount() {
@@ -46,7 +44,7 @@ export default class Segments extends React.Component {
              'splitSentences': true,
              'listeners': {
                  'onvoiceschanged': (voices) => {
-                     console.log("Event voiceschanged", voices)
+                    //  console.log("Event voiceschanged", voices)
                  }
              }}).then((data) => {
             // The "data" object contains the list of available voices and the voice synthesis params
@@ -60,7 +58,7 @@ export default class Segments extends React.Component {
       if (current_state.entered_time !== props.entered_time) {
         if(!current_state.speech) return;
 
-        var closest_past = Math.max.apply(Math, props.starts.filter(function(x, index){return x <= props.entered_time}));
+        var closest_past = Math.max.apply(Math, props.scene_starts.filter(function(x, index){return x <= props.entered_time}));
         var closest_index = props.starts.findIndex( x => x == closest_past );
         var closest_mid_past = Math.max.apply(Math, props.mid_indexes.filter(function(x){return x <= closest_index + 1}));
         var closest_mid_index = props.mid_indexes.findIndex( x => x == closest_mid_past );
@@ -80,19 +78,19 @@ export default class Segments extends React.Component {
 
 
     handleKey = (key, jumpVideo, current_idx) => {
-      console.log(key, current_idx, this.state.current_level);
+      console.log(key, current_idx, this.props.current_level);
       var new_idx;
       if(this.state.current_level === 1){
         switch (key) {
           case 'left':
             new_idx = current_idx <= 0? 0 : current_idx-1;
-            var time = this.props.starts[this.props.mid_indexes[new_idx]];
+            var time = this.props.scene_starts[this.props.mid_indexes[new_idx]];
             jumpVideo(time, true);
             break;
           case 'right':
             new_idx = current_idx === len? current_idx : current_idx+1;
             var len = this.props.mid_indexes.length;
-            var time = this.props.starts[this.props.mid_indexes[new_idx]];
+            var time = this.props.scene_starts[this.props.mid_indexes[new_idx]];
             console.log(time);
             jumpVideo(time, true);
             break;
@@ -114,7 +112,7 @@ export default class Segments extends React.Component {
             new_idx = current_idx-1;
             var time = this.props.starts[new_idx];
             this.state.speech.speak({
-                text: "Go back" + (this.props.starts[current_idx] - time).toString() +"seconds"
+                text: "Go back" + (this.props.scene_starts[current_idx] - time).toString() +"seconds"
             }).then(() => {
                 console.log("Success !")
             }).catch(e => {
@@ -124,9 +122,9 @@ export default class Segments extends React.Component {
             break;
           case 'right':
             new_idx = current_idx + 1;
-            var time = this.props.starts[new_idx];
+            var time = this.props.scene_starts[new_idx];
             // this.state.speech.speak({
-            //     text: "Skipped" + (this.props.starts[new_idx] - this.props.starts[current_idx]).toString() + "seconds"
+            //     text: "Skipped" + (this.props.scene_starts[new_idx] - this.props.scene_starts[current_idx]).toString() + "seconds"
             // }).then(() => {
             //     console.log("Success !")
             // }).catch(e => {
@@ -148,39 +146,22 @@ export default class Segments extends React.Component {
       }
     }
 
-    align_segment(time, segment_starts, mid_indexes) {
-      time = Math.round(time);
-      time = !time ? 0 : time;
-      var closest_past = Math.max.apply(Math, segment_starts.filter(function(x, index){return x <= time}));
-      var closest_index = segment_starts.findIndex( x => x == closest_past );
-      var closest_mid_past = Math.max.apply(Math, mid_indexes.filter(function(x){return x <= closest_index + 1}));
-      var closest_mid_index = mid_indexes.findIndex( x => x == closest_mid_past );
-      console.log(closest_mid_past,  closest_mid_index);
-      closest_index = closest_index < 0? 0 : closest_index;
-      closest_mid_index = closest_mid_index < 0? 0: closest_mid_index;
-      return [closest_index, closest_mid_index];
-    }
 
 
     render() {
-        const { videoID, videoTime, jumpVideo, starts, contents, mid_indexes, mid_contents, dynamic} = this.props;
-        const { current_level } = this.state;
-        const [current_idx, current_mid_idx] = this.align_segment(videoTime, starts, mid_indexes);
+        const { videoID, videoTime, jumpVideo, scene_starts, scene_labels, mid_indexes, mid_contents, current_idx, current_mid_idx, current_level} = this.props;
         if (current_level === 1){
           return(
             <div className="segments-container">
-              <KeyboardEventHandler
-                handleKeys={['left', 'up', 'right', 'down']}
-                onKeyEvent={(key, e) => this.handleKey(key, jumpVideo, current_mid_idx)} />
                 {mid_indexes.slice(current_mid_idx, current_mid_idx + 4).map((mid_index, idx) => {
                     var keywords = []
                     return(
-                      <Clickable onClick={() => this.onClick(mid_index-1)}>
+                      <div onClick={() => this.onClick(mid_index-1)}>
                       <div className="mid-text-option-item">
                         <div className="text-option-text">
                           <div className="text-option-meta">
                             <div className="time-option">
-                            {formatTime(starts[mid_index-1])} 
+                            {formatTime(scene_starts[mid_index-1])} 
                             </div>
                           </div>
                           <div className="text-option">
@@ -192,7 +173,7 @@ export default class Segments extends React.Component {
                           </div>
                         </div>
                       </div>
-                      </Clickable>  )
+                      </div>  )
                      })}
                     
             </div>)
@@ -200,38 +181,25 @@ export default class Segments extends React.Component {
         
         return (
             <div className="segments-container">
-              <KeyboardEventHandler
-                handleKeys={['left', 'up', 'right', 'down']}
-                onKeyEvent={(key, e) => this.handleKey(key, jumpVideo, current_idx)} />
-                {starts.slice(current_idx, current_idx + 4).map((time, idx) => {
+                {scene_starts.slice(current_idx, current_idx + 4).map((time, idx) => {
                     var index = current_idx + idx;
                     var keywords = []
-                    var tokenized_subtitle = contents[index].split(" ")
-                    var i = tokenized_subtitle.indexOf("");
-                    if (i !== -1) tokenized_subtitle.splice(i, 1);
-                    if (contents[index].length > 160 && !contents[index].includes('...') ){
-                      var joined = tokenized_subtitle.join(' ');
-                      contents[index] = joined;
-                    }
                     return(
-                      <Clickable onClick={() => this.onClick(index)}>
+                      <div >
                       <div className="text-option-item">
                         <div className="text-option-text">
-                          <div className="text-option-meta">
-                            <div className="time-option">
-                            {formatTime(time)} 
-                            </div>
+                          <div className="scene-number">
+                            Scene #{scene_labels[index]} 
+                          </div>
+                          <div className="scene-time">
+                           {formatTime(time)} 
                           </div>
                           <div className="text-option">
-                          <Highlighter
-                              searchWords={keywords}
-                              autoEscape={true}
-                              textToHighlight={contents[index]}
-                          />
+
                           </div>
                         </div>
                       </div>
-                      </Clickable> )
+                      </div> )
                      })}
             </div>
         );

@@ -1,0 +1,4061 @@
+
+Processing video for object annotations.
+
+Finished processing.
+
+Entity description: car
+Entity id: /m/0k4j
+Segment: 0.0s to 2.627625s
+Confidence: 0.9276270866394043
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.7352363467216492
+	top   : 0.7542961239814758
+	right : 0.7719200253486633
+	bottom: 0.8158590793609619
+
+
+Entity description: building
+Entity id: /m/0cgh4
+Segment: 0.0s to 2.627625s
+Confidence: 0.6238905191421509
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.0
+	top   : 0.021045714616775513
+	right : 0.6704310178756714
+	bottom: 0.8948343992233276
+
+
+Entity description: car
+Entity id: /m/0k4j
+Segment: 2.75275s to 2.75275s
+Confidence: 0.8951261639595032
+Time offset of the first frame: 2.75275s
+Bounding box position:
+	left  : 0.8953684568405151
+	top   : 0.654000461101532
+	right : 0.9992141723632812
+	bottom: 0.8239853978157043
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 5.75575s to 6.25625s
+Confidence: 0.6238144636154175
+Time offset of the first frame: 5.75575s
+Bounding box position:
+	left  : 0.3253832161426544
+	top   : 0.012806981801986694
+	right : 0.9923462867736816
+	bottom: 0.9820699691772461
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 5.880875s to 8.008s
+Confidence: 0.6575167179107666
+Time offset of the first frame: 5.880875s
+Bounding box position:
+	left  : 0.06474438309669495
+	top   : 0.21964040398597717
+	right : 0.4482364356517792
+	bottom: 0.9944956302642822
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 8.25825s to 9.5095s
+Confidence: 0.9759678840637207
+Time offset of the first frame: 8.25825s
+Bounding box position:
+	left  : 0.8409059047698975
+	top   : 0.5270887017250061
+	right : 0.889661967754364
+	bottom: 0.7459980845451355
+
+
+Entity description: pants
+Entity id: /m/07mhn
+Segment: 8.75875s to 8.75875s
+Confidence: 0.5354201793670654
+Time offset of the first frame: 8.75875s
+Bounding box position:
+	left  : 0.8429385423660278
+	top   : 0.49459919333457947
+	right : 0.9221707582473755
+	bottom: 0.750154435634613
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 9.634625s to 10.01s
+Confidence: 0.958874523639679
+Time offset of the first frame: 9.634625s
+Bounding box position:
+	left  : 0.779601514339447
+	top   : 0.48681527376174927
+	right : 0.8343275785446167
+	bottom: 0.7547414302825928
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 9.75975s to 10.135125s
+Confidence: 0.5890611410140991
+Time offset of the first frame: 9.75975s
+Bounding box position:
+	left  : 0.07080507278442383
+	top   : 0.17665255069732666
+	right : 0.9810353517532349
+	bottom: 0.9910018444061279
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 10.5105s to 11.136125s
+Confidence: 0.8228483200073242
+Time offset of the first frame: 10.5105s
+Bounding box position:
+	left  : 0.2043277621269226
+	top   : 0.8622986674308777
+	right : 0.229315847158432
+	bottom: 0.9717184901237488
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 10.5105s to 10.76075s
+Confidence: 0.7914627194404602
+Time offset of the first frame: 10.5105s
+Bounding box position:
+	left  : 0.18189983069896698
+	top   : 0.8684391379356384
+	right : 0.20927615463733673
+	bottom: 0.956386387348175
+
+
+Entity description: lighting
+Entity id: /m/019sc6
+Segment: 10.5105s to 10.5105s
+Confidence: 0.5964216589927673
+Time offset of the first frame: 10.5105s
+Bounding box position:
+	left  : 0.42321711778640747
+	top   : 0.0013524740934371948
+	right : 0.6081342101097107
+	bottom: 0.2449083924293518
+
+
+Entity description: building
+Entity id: /m/0cgh4
+Segment: 10.635625s to 12.637625s
+Confidence: 0.5754233002662659
+Time offset of the first frame: 10.635625s
+Bounding box position:
+	left  : 0.2523593008518219
+	top   : 0.762409508228302
+	right : 0.4059542119503021
+	bottom: 0.9169661402702332
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 10.885875s to 11.136125s
+Confidence: 0.7979032397270203
+Time offset of the first frame: 10.885875s
+Bounding box position:
+	left  : 0.5632538199424744
+	top   : 0.8362680077552795
+	right : 0.588236927986145
+	bottom: 0.9867785573005676
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 13.013s to 17.26725s
+Confidence: 0.9669296741485596
+Time offset of the first frame: 13.013s
+Bounding box position:
+	left  : 0.26048848032951355
+	top   : 0.21889322996139526
+	right : 0.4787231981754303
+	bottom: 0.9992448687553406
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 13.638625s to 14.014s
+Confidence: 0.5283888578414917
+Time offset of the first frame: 13.638625s
+Bounding box position:
+	left  : 0.46085673570632935
+	top   : 0.2979627549648285
+	right : 0.5872123837471008
+	bottom: 0.3731103837490082
+
+
+Entity description: top
+Entity id: /m/03gx245
+Segment: 14.76475s to 17.142125s
+Confidence: 0.5676084160804749
+Time offset of the first frame: 14.76475s
+Bounding box position:
+	left  : 0.18895909190177917
+	top   : 0.3258660137653351
+	right : 0.4915544092655182
+	bottom: 0.6794133186340332
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 15.390375s to 15.5155s
+Confidence: 0.5245221853256226
+Time offset of the first frame: 15.390375s
+Bounding box position:
+	left  : 0.45841020345687866
+	top   : 0.29228687286376953
+	right : 0.608110249042511
+	bottom: 0.35859590768814087
+
+
+Entity description: top
+Entity id: /m/03gx245
+Segment: 17.392375s to 17.5175s
+Confidence: 0.6987214088439941
+Time offset of the first frame: 17.392375s
+Bounding box position:
+	left  : 0.19260431826114655
+	top   : 0.3274005651473999
+	right : 0.49177658557891846
+	bottom: 0.6786311864852905
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 17.5175s to 17.5175s
+Confidence: 0.8553869128227234
+Time offset of the first frame: 17.5175s
+Bounding box position:
+	left  : 0.32811805605888367
+	top   : 0.1704065501689911
+	right : 0.5013525485992432
+	bottom: 0.9675941467285156
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 17.642625s to 19.144125s
+Confidence: 0.5600860118865967
+Time offset of the first frame: 17.642625s
+Bounding box position:
+	left  : 0.39025381207466125
+	top   : 0.37981152534484863
+	right : 0.6753488779067993
+	bottom: 0.9920027256011963
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 17.642625s to 17.642625s
+Confidence: 0.5136294364929199
+Time offset of the first frame: 17.642625s
+Bounding box position:
+	left  : 0.4630049765110016
+	top   : 0.2920089364051819
+	right : 0.6062726974487305
+	bottom: 0.3560029864311218
+
+
+Entity description: lighting
+Entity id: /m/019sc6
+Segment: 18.5185s to 18.5185s
+Confidence: 0.522010326385498
+Time offset of the first frame: 18.5185s
+Bounding box position:
+	left  : 0.6220300197601318
+	top   : 0.36307448148727417
+	right : 0.9742352962493896
+	bottom: 0.948305606842041
+
+
+Entity description: bag
+Entity id: /m/0n5v01m
+Segment: 19.26925s to 20.145125s
+Confidence: 0.7636139988899231
+Time offset of the first frame: 19.26925s
+Bounding box position:
+	left  : 0.5113151669502258
+	top   : 0.3621571958065033
+	right : 0.8419753909111023
+	bottom: 0.9137907028198242
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 19.76975s to 23.023s
+Confidence: 0.6747925877571106
+Time offset of the first frame: 19.76975s
+Bounding box position:
+	left  : 0.7252903580665588
+	top   : 0.36473405361175537
+	right : 0.998979389667511
+	bottom: 0.9822479486465454
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 19.894875s to 23.148125s
+Confidence: 0.984129786491394
+Time offset of the first frame: 19.894875s
+Bounding box position:
+	left  : 0.6390256881713867
+	top   : 0.26337751746177673
+	right : 0.9997225403785706
+	bottom: 0.9820688962936401
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 20.27025s to 23.148125s
+Confidence: 0.7070302963256836
+Time offset of the first frame: 20.27025s
+Bounding box position:
+	left  : 0.32712432742118835
+	top   : 0.35374048352241516
+	right : 0.6746526956558228
+	bottom: 0.9545947313308716
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 20.645625s to 20.645625s
+Confidence: 0.5663347244262695
+Time offset of the first frame: 20.645625s
+Bounding box position:
+	left  : 0.8081954717636108
+	top   : 0.5397884249687195
+	right : 0.910293459892273
+	bottom: 0.7328738570213318
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 21.5215s to 21.5215s
+Confidence: 0.5194852352142334
+Time offset of the first frame: 21.5215s
+Bounding box position:
+	left  : 0.8116825222969055
+	top   : 0.8162229657173157
+	right : 0.9220165610313416
+	bottom: 0.9204774498939514
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 23.27325s to 23.398375s
+Confidence: 0.6421574950218201
+Time offset of the first frame: 23.27325s
+Bounding box position:
+	left  : 0.30351686477661133
+	top   : 0.0
+	right : 0.9686815738677979
+	bottom: 0.9975279569625854
+
+
+Entity description: fish
+Entity id: /m/0ch_cf
+Segment: 23.398375s to 23.77375s
+Confidence: 0.7260153889656067
+Time offset of the first frame: 23.398375s
+Bounding box position:
+	left  : 0.1671716570854187
+	top   : 0.16398708522319794
+	right : 0.30219200253486633
+	bottom: 0.32662463188171387
+
+
+Entity description: fish
+Entity id: /m/0ch_cf
+Segment: 23.398375s to 23.77375s
+Confidence: 0.7390544414520264
+Time offset of the first frame: 23.398375s
+Bounding box position:
+	left  : 0.43028515577316284
+	top   : 0.4094802737236023
+	right : 0.5968495011329651
+	bottom: 0.6481478810310364
+
+
+Entity description: fish
+Entity id: /m/0ch_cf
+Segment: 23.648625s to 23.77375s
+Confidence: 0.5351647138595581
+Time offset of the first frame: 23.648625s
+Bounding box position:
+	left  : 0.5336609482765198
+	top   : 0.1776869297027588
+	right : 0.5994301438331604
+	bottom: 0.410112202167511
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 23.898875s to 24.899875s
+Confidence: 0.6016240119934082
+Time offset of the first frame: 23.898875s
+Bounding box position:
+	left  : 0.0014336705207824707
+	top   : 0.0017721354961395264
+	right : 0.9884244799613953
+	bottom: 0.9927462339401245
+
+
+Entity description: fish
+Entity id: /m/0ch_cf
+Segment: 24.27425s to 26.026s
+Confidence: 0.6921520233154297
+Time offset of the first frame: 24.27425s
+Bounding box position:
+	left  : 0.16469642519950867
+	top   : 0.16316232085227966
+	right : 0.30062124133110046
+	bottom: 0.32731112837791443
+
+
+Entity description: animal
+Entity id: /m/0jbk
+Segment: 24.399375s to 26.026s
+Confidence: 0.6979396343231201
+Time offset of the first frame: 24.399375s
+Bounding box position:
+	left  : 0.4245680868625641
+	top   : 0.4173663556575775
+	right : 0.5971076488494873
+	bottom: 0.6537898778915405
+
+
+Entity description: fish
+Entity id: /m/0ch_cf
+Segment: 24.399375s to 26.026s
+Confidence: 0.5174292325973511
+Time offset of the first frame: 24.399375s
+Bounding box position:
+	left  : 0.5319849252700806
+	top   : 0.18057169020175934
+	right : 0.6016169786453247
+	bottom: 0.4097433090209961
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 26.27625s to 27.77775s
+Confidence: 0.5335279107093811
+Time offset of the first frame: 26.27625s
+Bounding box position:
+	left  : 0.2407933622598648
+	top   : 0.4336012303829193
+	right : 0.5737767815589905
+	bottom: 0.98565673828125
+
+
+Entity description: fish
+Entity id: /m/0ch_cf
+Segment: 26.401375s to 26.401375s
+Confidence: 0.7832463383674622
+Time offset of the first frame: 26.401375s
+Bounding box position:
+	left  : 0.42155101895332336
+	top   : 0.4009975790977478
+	right : 0.5944754481315613
+	bottom: 0.636335551738739
+
+
+Entity description: fish
+Entity id: /m/0ch_cf
+Segment: 26.401375s to 26.401375s
+Confidence: 0.7218235731124878
+Time offset of the first frame: 26.401375s
+Bounding box position:
+	left  : 0.1666894406080246
+	top   : 0.16181421279907227
+	right : 0.2997729480266571
+	bottom: 0.32812148332595825
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 26.5265s to 31.28125s
+Confidence: 0.6341386437416077
+Time offset of the first frame: 26.5265s
+Bounding box position:
+	left  : 0.3737108111381531
+	top   : 0.3731183707714081
+	right : 0.6213667392730713
+	bottom: 0.7152713537216187
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 26.651625s to 31.78175s
+Confidence: 0.9946028590202332
+Time offset of the first frame: 26.651625s
+Bounding box position:
+	left  : 0.3055236041545868
+	top   : 0.1352137327194214
+	right : 0.6972900629043579
+	bottom: 0.8667672276496887
+
+
+Entity description: glasses
+Entity id: /m/0jyfg
+Segment: 26.651625s to 31.5315s
+Confidence: 0.7224140763282776
+Time offset of the first frame: 26.651625s
+Bounding box position:
+	left  : 0.40434688329696655
+	top   : 0.15878212451934814
+	right : 0.5423411130905151
+	bottom: 0.2378164529800415
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 29.654625s to 31.78175s
+Confidence: 0.5351137518882751
+Time offset of the first frame: 29.654625s
+Bounding box position:
+	left  : 0.059610333293676376
+	top   : 0.017268836498260498
+	right : 0.8338116407394409
+	bottom: 0.9901106357574463
+
+
+Entity description: cabinetry
+Entity id: /m/01s105
+Segment: 32.78275s to 32.78275s
+Confidence: 0.5858838558197021
+Time offset of the first frame: 32.78275s
+Bounding box position:
+	left  : 0.6189889311790466
+	top   : 0.28280726075172424
+	right : 0.7413809895515442
+	bottom: 0.9366645812988281
+
+
+Entity description: cabinetry
+Entity id: /m/01s105
+Segment: 34.409375s to 35.5355s
+Confidence: 0.6024083495140076
+Time offset of the first frame: 34.409375s
+Bounding box position:
+	left  : 0.1105511263012886
+	top   : 0.26527413725852966
+	right : 0.3062230348587036
+	bottom: 0.9836210012435913
+
+
+Entity description: cabinetry
+Entity id: /m/01s105
+Segment: 34.5345s to 35.660625s
+Confidence: 0.6037565469741821
+Time offset of the first frame: 34.5345s
+Bounding box position:
+	left  : 0.6505719423294067
+	top   : 0.29636597633361816
+	right : 0.8227928876876831
+	bottom: 0.9895893335342407
+
+
+Entity description: cabinetry
+Entity id: /m/01s105
+Segment: 35.160125s to 35.78575s
+Confidence: 0.5330256223678589
+Time offset of the first frame: 35.160125s
+Bounding box position:
+	left  : 0.45799216628074646
+	top   : 0.5826640725135803
+	right : 0.5201435089111328
+	bottom: 0.8135078549385071
+
+
+Entity description: cabinetry
+Entity id: /m/01s105
+Segment: 35.160125s to 35.160125s
+Confidence: 0.5361064076423645
+Time offset of the first frame: 35.160125s
+Bounding box position:
+	left  : 0.5259637236595154
+	top   : 0.42879360914230347
+	right : 0.6180781722068787
+	bottom: 0.8711150288581848
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 40.04s to 46.671625s
+Confidence: 0.9965510964393616
+Time offset of the first frame: 40.04s
+Bounding box position:
+	left  : 0.33138352632522583
+	top   : 0.17331919074058533
+	right : 0.6975283026695251
+	bottom: 0.9922409057617188
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 40.04s to 46.671625s
+Confidence: 0.7278527617454529
+Time offset of the first frame: 40.04s
+Bounding box position:
+	left  : 0.3429730534553528
+	top   : 0.41940128803253174
+	right : 0.6880860924720764
+	bottom: 0.9902869462966919
+
+
+Entity description: sneakers
+Entity id: /m/09kjlm
+Segment: 40.165125s to 43.168125s
+Confidence: 0.5347708463668823
+Time offset of the first frame: 40.165125s
+Bounding box position:
+	left  : 0.05699995532631874
+	top   : 0.8084514141082764
+	right : 0.259621262550354
+	bottom: 0.9248815774917603
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 40.165125s to 40.29025s
+Confidence: 0.5129132270812988
+Time offset of the first frame: 40.165125s
+Bounding box position:
+	left  : 0.04164709895849228
+	top   : 0.6873233318328857
+	right : 0.16382691264152527
+	bottom: 0.8106156587600708
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 41.5415s to 42.79275s
+Confidence: 0.5220231413841248
+Time offset of the first frame: 41.5415s
+Bounding box position:
+	left  : 0.04169720038771629
+	top   : 0.6876745223999023
+	right : 0.16377530992031097
+	bottom: 0.8100001811981201
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 42.167125s to 42.417375s
+Confidence: 0.5071483850479126
+Time offset of the first frame: 42.167125s
+Bounding box position:
+	left  : 0.0024711787700653076
+	top   : 0.7500666379928589
+	right : 0.28758320212364197
+	bottom: 0.9923407435417175
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 44.5445s to 45.79575s
+Confidence: 0.5333464741706848
+Time offset of the first frame: 44.5445s
+Bounding box position:
+	left  : 0.041245993226766586
+	top   : 0.6867725253105164
+	right : 0.16293321549892426
+	bottom: 0.8126737475395203
+
+
+Entity description: sneakers
+Entity id: /m/09kjlm
+Segment: 44.669625s to 45.670625s
+Confidence: 0.5490558743476868
+Time offset of the first frame: 44.669625s
+Bounding box position:
+	left  : 0.060275934636592865
+	top   : 0.8034979701042175
+	right : 0.26750972867012024
+	bottom: 0.9216768145561218
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 46.79675s to 47.422375s
+Confidence: 0.8068869709968567
+Time offset of the first frame: 46.79675s
+Bounding box position:
+	left  : 0.05161261558532715
+	top   : 0.04562094807624817
+	right : 0.8313309550285339
+	bottom: 1.0
+
+
+Entity description: hat
+Entity id: /m/02dl1y
+Segment: 47.5475s to 51.051s
+Confidence: 0.614656388759613
+Time offset of the first frame: 47.5475s
+Bounding box position:
+	left  : 0.5878247618675232
+	top   : 0.6538382172584534
+	right : 0.7312385439872742
+	bottom: 0.7879340052604675
+
+
+Entity description: hat
+Entity id: /m/02dl1y
+Segment: 51.176125s to 53.30325s
+Confidence: 0.5685195326805115
+Time offset of the first frame: 51.176125s
+Bounding box position:
+	left  : 0.588317334651947
+	top   : 0.5836291313171387
+	right : 0.7277733087539673
+	bottom: 0.7209054231643677
+
+
+Entity description: hat
+Entity id: /m/02dl1y
+Segment: 55.30525s to 56.681625s
+Confidence: 0.5898706912994385
+Time offset of the first frame: 55.30525s
+Bounding box position:
+	left  : 0.5883798599243164
+	top   : 0.5842986702919006
+	right : 0.7268186211585999
+	bottom: 0.718896210193634
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 56.5565s to 59.80975s
+Confidence: 0.5448996424674988
+Time offset of the first frame: 56.5565s
+Bounding box position:
+	left  : 0.039389319717884064
+	top   : 0.6796756386756897
+	right : 0.17011120915412903
+	bottom: 0.8133416771888733
+
+
+Entity description: sneakers
+Entity id: /m/09kjlm
+Segment: 56.681625s to 61.5615s
+Confidence: 0.5494099259376526
+Time offset of the first frame: 56.681625s
+Bounding box position:
+	left  : 0.05474332720041275
+	top   : 0.8051024675369263
+	right : 0.26678043603897095
+	bottom: 0.9316489696502686
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 56.80675s to 56.80675s
+Confidence: 0.5551347732543945
+Time offset of the first frame: 56.80675s
+Bounding box position:
+	left  : 0.2699892818927765
+	top   : 0.09544989466667175
+	right : 0.7369294762611389
+	bottom: 0.9747729301452637
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 57.057s to 61.5615s
+Confidence: 0.998706579208374
+Time offset of the first frame: 57.057s
+Bounding box position:
+	left  : 0.32646381855010986
+	top   : 0.14911659061908722
+	right : 0.7062708735466003
+	bottom: 0.9964267015457153
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 57.057s to 61.5615s
+Confidence: 0.7719838619232178
+Time offset of the first frame: 57.057s
+Bounding box position:
+	left  : 0.3261992633342743
+	top   : 0.4614517390727997
+	right : 0.7037112712860107
+	bottom: 0.9964799880981445
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 61.436375s to 61.5615s
+Confidence: 0.5528804063796997
+Time offset of the first frame: 61.436375s
+Bounding box position:
+	left  : 0.041834987699985504
+	top   : 0.6864454746246338
+	right : 0.16255640983581543
+	bottom: 0.8108606338500977
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 61.686625s to 74.449375s
+Confidence: 0.9936944246292114
+Time offset of the first frame: 61.686625s
+Bounding box position:
+	left  : 0.14427003264427185
+	top   : 0.13887065649032593
+	right : 0.8972585201263428
+	bottom: 0.9911954402923584
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 61.686625s to 74.449375s
+Confidence: 0.7630355358123779
+Time offset of the first frame: 61.686625s
+Bounding box position:
+	left  : 0.31297144293785095
+	top   : 0.4565961956977844
+	right : 0.7117520570755005
+	bottom: 0.9951009154319763
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 61.686625s to 74.449375s
+Confidence: 0.6531167030334473
+Time offset of the first frame: 61.686625s
+Bounding box position:
+	left  : 0.042305804789066315
+	top   : 0.6874046921730042
+	right : 0.1615159809589386
+	bottom: 0.8116891980171204
+
+
+Entity description: sneakers
+Entity id: /m/09kjlm
+Segment: 61.686625s to 74.449375s
+Confidence: 0.5868470072746277
+Time offset of the first frame: 61.686625s
+Bounding box position:
+	left  : 0.05880168452858925
+	top   : 0.8050930500030518
+	right : 0.26855653524398804
+	bottom: 0.9224903583526611
+
+
+Entity description: animal
+Entity id: /m/0jbk
+Segment: 74.82475s to 75.200125s
+Confidence: 0.7554069757461548
+Time offset of the first frame: 74.82475s
+Bounding box position:
+	left  : 0.0052097514271736145
+	top   : 0.19335412979125977
+	right : 0.13477087020874023
+	bottom: 0.3728110194206238
+
+
+Entity description: animal
+Entity id: /m/0jbk
+Segment: 75.200125s to 76.201125s
+Confidence: 0.7485085129737854
+Time offset of the first frame: 75.200125s
+Bounding box position:
+	left  : 0.14303845167160034
+	top   : 0.29195114970207214
+	right : 0.22599530220031738
+	bottom: 0.4405995309352875
+
+
+Entity description: animal
+Entity id: /m/0jbk
+Segment: 76.32625s to 76.82675s
+Confidence: 0.7396836280822754
+Time offset of the first frame: 76.32625s
+Bounding box position:
+	left  : 0.6589723825454712
+	top   : 0.2886303663253784
+	right : 0.7923235297203064
+	bottom: 0.4625421166419983
+
+
+Entity description: animal
+Entity id: /m/0jbk
+Segment: 77.32725s to 80.455375s
+Confidence: 0.7305197715759277
+Time offset of the first frame: 77.32725s
+Bounding box position:
+	left  : 0.9144750237464905
+	top   : 0.1463138461112976
+	right : 0.9991849660873413
+	bottom: 0.33525678515434265
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 80.83075s to 80.955875s
+Confidence: 0.697465181350708
+Time offset of the first frame: 80.83075s
+Bounding box position:
+	left  : 0.5091391205787659
+	top   : 0.6937494874000549
+	right : 0.9855946898460388
+	bottom: 1.0
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 80.83075s to 80.83075s
+Confidence: 0.5222368836402893
+Time offset of the first frame: 80.83075s
+Bounding box position:
+	left  : 0.7813577055931091
+	top   : 0.3849138915538788
+	right : 0.9659579396247864
+	bottom: 0.6221616268157959
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 81.206125s to 96.971875s
+Confidence: 0.9969882965087891
+Time offset of the first frame: 81.206125s
+Bounding box position:
+	left  : 0.3657383322715759
+	top   : 0.2041129171848297
+	right : 0.7481003403663635
+	bottom: 0.9974839687347412
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 81.206125s to 96.971875s
+Confidence: 0.725965142250061
+Time offset of the first frame: 81.206125s
+Bounding box position:
+	left  : 0.36990886926651
+	top   : 0.38592949509620667
+	right : 0.7426726222038269
+	bottom: 0.994619607925415
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 81.206125s to 81.83175s
+Confidence: 0.5365860462188721
+Time offset of the first frame: 81.206125s
+Bounding box position:
+	left  : 0.04106516018509865
+	top   : 0.6886780261993408
+	right : 0.16000978648662567
+	bottom: 0.8111288547515869
+
+
+Entity description: sneakers
+Entity id: /m/09kjlm
+Segment: 81.33125s to 90.715625s
+Confidence: 0.574542224407196
+Time offset of the first frame: 81.33125s
+Bounding box position:
+	left  : 0.05511397868394852
+	top   : 0.808657705783844
+	right : 0.26442164182662964
+	bottom: 0.9265684485435486
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 81.706625s to 82.957875s
+Confidence: 0.5097339749336243
+Time offset of the first frame: 81.706625s
+Bounding box position:
+	left  : 0.0034248679876327515
+	top   : 0.7455635666847229
+	right : 0.2896052598953247
+	bottom: 0.9922760128974915
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 83.458375s to 96.971875s
+Confidence: 0.6161401867866516
+Time offset of the first frame: 83.458375s
+Bounding box position:
+	left  : 0.0026555657386779785
+	top   : 0.7379571795463562
+	right : 0.2880628705024719
+	bottom: 0.9920823574066162
+
+
+Entity description: sunglasses
+Entity id: /m/017ftj
+Segment: 86.461375s to 86.461375s
+Confidence: 0.5761553645133972
+Time offset of the first frame: 86.461375s
+Bounding box position:
+	left  : 0.368977814912796
+	top   : 0.26330655813217163
+	right : 0.4942828416824341
+	bottom: 0.3488476872444153
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 86.83675s to 88.463375s
+Confidence: 0.5146454572677612
+Time offset of the first frame: 86.83675s
+Bounding box position:
+	left  : 0.003481060266494751
+	top   : 0.7484269142150879
+	right : 0.2861287295818329
+	bottom: 0.9910539388656616
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 97.097s to 115.240125s
+Confidence: 0.9954514503479004
+Time offset of the first frame: 97.097s
+Bounding box position:
+	left  : 0.4351370632648468
+	top   : 0.21630817651748657
+	right : 0.5894685387611389
+	bottom: 0.9892016649246216
+
+
+Entity description: pants
+Entity id: /m/07mhn
+Segment: 97.097s to 99.224125s
+Confidence: 0.8285070657730103
+Time offset of the first frame: 97.097s
+Bounding box position:
+	left  : 0.44837626814842224
+	top   : 0.5886362791061401
+	right : 0.5485209226608276
+	bottom: 0.9983197450637817
+
+
+Entity description: top
+Entity id: /m/03gx245
+Segment: 97.097s to 114.86475s
+Confidence: 0.8610132336616516
+Time offset of the first frame: 97.097s
+Bounding box position:
+	left  : 0.45197516679763794
+	top   : 0.3443138003349304
+	right : 0.5715815424919128
+	bottom: 0.7095137238502502
+
+
+Entity description: luggage & bags
+Entity id: /m/0hf58v5
+Segment: 97.097s to 97.722625s
+Confidence: 0.633946418762207
+Time offset of the first frame: 97.097s
+Bounding box position:
+	left  : 0.32462915778160095
+	top   : 0.4714115262031555
+	right : 0.378999263048172
+	bottom: 0.6655089259147644
+
+
+Entity description: picture frame
+Entity id: /m/06z37_
+Segment: 97.34725s to 99.224125s
+Confidence: 0.5296934247016907
+Time offset of the first frame: 97.34725s
+Bounding box position:
+	left  : 0.0
+	top   : 0.1416098028421402
+	right : 0.1178683340549469
+	bottom: 0.5123428106307983
+
+
+Entity description: lighting
+Entity id: /m/019sc6
+Segment: 97.34725s to 97.34725s
+Confidence: 0.5193091630935669
+Time offset of the first frame: 97.34725s
+Bounding box position:
+	left  : 0.15413492918014526
+	top   : 0.011628538370132446
+	right : 0.24876555800437927
+	bottom: 0.2802560329437256
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 103.978875s to 104.979875s
+Confidence: 0.5655786991119385
+Time offset of the first frame: 103.978875s
+Bounding box position:
+	left  : 0.6162166595458984
+	top   : 0.2294904589653015
+	right : 0.7854034900665283
+	bottom: 0.5631363987922668
+
+
+Entity description: pants
+Entity id: /m/07mhn
+Segment: 113.113s to 115.115s
+Confidence: 0.8564066290855408
+Time offset of the first frame: 113.113s
+Bounding box position:
+	left  : 0.3332556486129761
+	top   : 0.7716246843338013
+	right : 0.5344309210777283
+	bottom: 1.0
+
+
+Entity description: picture frame
+Entity id: /m/06z37_
+Segment: 113.6135s to 115.490375s
+Confidence: 0.5520393252372742
+Time offset of the first frame: 113.6135s
+Bounding box position:
+	left  : 0.0
+	top   : 0.13985806703567505
+	right : 0.11636469513177872
+	bottom: 0.5120079517364502
+
+
+Entity description: luggage & bags
+Entity id: /m/0hf58v5
+Segment: 113.738625s to 115.490375s
+Confidence: 0.6667810082435608
+Time offset of the first frame: 113.738625s
+Bounding box position:
+	left  : 0.3224678635597229
+	top   : 0.4526784121990204
+	right : 0.3844633102416992
+	bottom: 0.6722180843353271
+
+
+Entity description: bag
+Entity id: /m/0n5v01m
+Segment: 114.739625s to 115.115s
+Confidence: 0.656970202922821
+Time offset of the first frame: 114.739625s
+Bounding box position:
+	left  : 0.3184780478477478
+	top   : 0.4991735816001892
+	right : 0.37981337308883667
+	bottom: 0.6707361340522766
+
+
+Entity description: cabinetry
+Entity id: /m/01s105
+Segment: 115.240125s to 115.490375s
+Confidence: 0.5357199907302856
+Time offset of the first frame: 115.240125s
+Bounding box position:
+	left  : 0.6039732098579407
+	top   : 0.0019562840461730957
+	right : 0.9335902333259583
+	bottom: 0.99535071849823
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 115.6155s to 119.494375s
+Confidence: 0.6158971190452576
+Time offset of the first frame: 115.6155s
+Bounding box position:
+	left  : 0.0033611953258514404
+	top   : 0.1849806010723114
+	right : 0.295392245054245
+	bottom: 0.9905961751937866
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 116.241125s to 116.6165s
+Confidence: 0.6587657332420349
+Time offset of the first frame: 116.241125s
+Bounding box position:
+	left  : 0.5790136456489563
+	top   : 0.15842625498771667
+	right : 0.9983317255973816
+	bottom: 0.9932762384414673
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 119.86975s to 122.87275s
+Confidence: 0.6147931218147278
+Time offset of the first frame: 119.86975s
+Bounding box position:
+	left  : 0.00029203295707702637
+	top   : 0.17193207144737244
+	right : 0.2985036075115204
+	bottom: 0.9948774576187134
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 119.86975s to 124.37425s
+Confidence: 0.5486590266227722
+Time offset of the first frame: 119.86975s
+Bounding box position:
+	left  : 0.5758455991744995
+	top   : 0.2132960855960846
+	right : 1.0
+	bottom: 0.9940292835235596
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 120.745625s to 124.37425s
+Confidence: 0.7404686212539673
+Time offset of the first frame: 120.745625s
+Bounding box position:
+	left  : 0.5432798862457275
+	top   : 0.7412127256393433
+	right : 0.7148748636245728
+	bottom: 0.8732099533081055
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 120.745625s to 124.37425s
+Confidence: 0.5747079253196716
+Time offset of the first frame: 120.745625s
+Bounding box position:
+	left  : 0.43481385707855225
+	top   : 0.7498475909233093
+	right : 0.5468147993087769
+	bottom: 0.8546616435050964
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 120.745625s to 124.37425s
+Confidence: 0.5337116122245789
+Time offset of the first frame: 120.745625s
+Bounding box position:
+	left  : 0.5569642782211304
+	top   : 0.5808785557746887
+	right : 0.6805713176727295
+	bottom: 0.7459239363670349
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 120.745625s to 122.87275s
+Confidence: 0.5330687761306763
+Time offset of the first frame: 120.745625s
+Bounding box position:
+	left  : 0.28700166940689087
+	top   : 0.717086136341095
+	right : 0.4341523051261902
+	bottom: 0.829267680644989
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 120.745625s to 123.123s
+Confidence: 0.5320807695388794
+Time offset of the first frame: 120.745625s
+Bounding box position:
+	left  : 0.24047257006168365
+	top   : 0.5869884490966797
+	right : 0.3428645133972168
+	bottom: 0.7261950969696045
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 120.745625s to 120.87075s
+Confidence: 0.6050838232040405
+Time offset of the first frame: 120.745625s
+Bounding box position:
+	left  : 0.3151501417160034
+	top   : 0.6437324285507202
+	right : 0.4393065571784973
+	bottom: 0.7298340797424316
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 120.745625s to 123.6235s
+Confidence: 0.5369464755058289
+Time offset of the first frame: 120.745625s
+Bounding box position:
+	left  : 0.02429947257041931
+	top   : 0.5768409967422485
+	right : 0.1092744916677475
+	bottom: 0.7655719518661499
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 120.745625s to 121.496375s
+Confidence: 0.5350251197814941
+Time offset of the first frame: 120.745625s
+Bounding box position:
+	left  : 0.04470864310860634
+	top   : 0.7680431604385376
+	right : 0.2728128135204315
+	bottom: 0.9994341731071472
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 120.87075s to 124.37425s
+Confidence: 0.987153947353363
+Time offset of the first frame: 120.87075s
+Bounding box position:
+	left  : 0.3445899188518524
+	top   : 0.32308515906333923
+	right : 0.5983521938323975
+	bottom: 0.6020938754081726
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 120.87075s to 124.37425s
+Confidence: 0.8545559048652649
+Time offset of the first frame: 120.87075s
+Bounding box position:
+	left  : 0.34194841980934143
+	top   : 0.3206862807273865
+	right : 0.5834597945213318
+	bottom: 0.5923597812652588
+
+
+Entity description: bookcase
+Entity id: /m/03__z0
+Segment: 121.246125s to 123.748625s
+Confidence: 0.5352365970611572
+Time offset of the first frame: 121.246125s
+Bounding box position:
+	left  : 0.7076740264892578
+	top   : 0.32872122526168823
+	right : 0.9943276643753052
+	bottom: 0.8013326525688171
+
+
+Entity description: bagged packaged goods
+Entity id: /j/5wqldn
+Segment: 124.499375s to 130.13s
+Confidence: 0.6451826095581055
+Time offset of the first frame: 124.499375s
+Bounding box position:
+	left  : 0.3057282269001007
+	top   : 0.3985186815261841
+	right : 0.7247775793075562
+	bottom: 0.8911782503128052
+
+
+Entity description: tubed packaged goods
+Entity id: /j/1971bm
+Segment: 124.499375s to 129.003875s
+Confidence: 0.6932246685028076
+Time offset of the first frame: 124.499375s
+Bounding box position:
+	left  : 0.1913396567106247
+	top   : 0.0024927109479904175
+	right : 0.607373833656311
+	bottom: 0.4048004746437073
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 124.499375s to 130.13s
+Confidence: 0.6651439070701599
+Time offset of the first frame: 124.499375s
+Bounding box position:
+	left  : 0.6802303791046143
+	top   : 0.0
+	right : 0.9951776266098022
+	bottom: 0.29487597942352295
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 124.499375s to 130.13s
+Confidence: 0.6443508267402649
+Time offset of the first frame: 124.499375s
+Bounding box position:
+	left  : 0.7491651773452759
+	top   : 0.6299229264259338
+	right : 0.9991776943206787
+	bottom: 1.0
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 125.6255s to 130.13s
+Confidence: 0.6853135824203491
+Time offset of the first frame: 125.6255s
+Bounding box position:
+	left  : 0.8548430800437927
+	top   : 0.12923014163970947
+	right : 1.0
+	bottom: 0.5457411408424377
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 127.6275s to 130.13s
+Confidence: 0.599293053150177
+Time offset of the first frame: 127.6275s
+Bounding box position:
+	left  : 0.7992361783981323
+	top   : 0.6448078751564026
+	right : 0.9963871240615845
+	bottom: 1.0
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 128.87875s to 129.504375s
+Confidence: 0.5280794501304626
+Time offset of the first frame: 128.87875s
+Bounding box position:
+	left  : 0.8770706057548523
+	top   : 0.14825016260147095
+	right : 1.0
+	bottom: 0.6658311486244202
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 129.003875s to 130.004875s
+Confidence: 0.55420982837677
+Time offset of the first frame: 129.003875s
+Bounding box position:
+	left  : 0.8895971179008484
+	top   : 0.6405760645866394
+	right : 1.0
+	bottom: 0.9961363673210144
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 130.255125s to 135.6355s
+Confidence: 0.9877505898475647
+Time offset of the first frame: 130.255125s
+Bounding box position:
+	left  : 0.346955269575119
+	top   : 0.0864810198545456
+	right : 0.6002352833747864
+	bottom: 0.6129831671714783
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 130.255125s to 135.6355s
+Confidence: 0.8557230830192566
+Time offset of the first frame: 130.255125s
+Bounding box position:
+	left  : 0.3471360206604004
+	top   : 0.25804048776626587
+	right : 0.5920487642288208
+	bottom: 0.5909364819526672
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 130.255125s to 135.6355s
+Confidence: 0.7294409275054932
+Time offset of the first frame: 130.255125s
+Bounding box position:
+	left  : 0.5423704385757446
+	top   : 0.7427780628204346
+	right : 0.7164852619171143
+	bottom: 0.8736352920532227
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 130.255125s to 135.6355s
+Confidence: 0.5822187662124634
+Time offset of the first frame: 130.255125s
+Bounding box position:
+	left  : 0.4344547390937805
+	top   : 0.7474873065948486
+	right : 0.5498014092445374
+	bottom: 0.8570411205291748
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 130.255125s to 135.6355s
+Confidence: 0.5226162672042847
+Time offset of the first frame: 130.255125s
+Bounding box position:
+	left  : 0.08739802241325378
+	top   : 0.47759366035461426
+	right : 0.2511129081249237
+	bottom: 0.7679339647293091
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 130.255125s to 135.6355s
+Confidence: 0.5308499336242676
+Time offset of the first frame: 130.255125s
+Bounding box position:
+	left  : 0.4159056842327118
+	top   : 0.8145656585693359
+	right : 0.638106107711792
+	bottom: 0.9983364343643188
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 130.255125s to 132.88275s
+Confidence: 0.513016402721405
+Time offset of the first frame: 130.255125s
+Bounding box position:
+	left  : 0.2395809292793274
+	top   : 0.6013543009757996
+	right : 0.34328413009643555
+	bottom: 0.715444028377533
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 130.255125s to 130.6305s
+Confidence: 0.502763032913208
+Time offset of the first frame: 130.255125s
+Bounding box position:
+	left  : 0.23259487748146057
+	top   : 0.7868587374687195
+	right : 0.43292638659477234
+	bottom: 0.9925829768180847
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 130.6305s to 131.005875s
+Confidence: 0.5315837860107422
+Time offset of the first frame: 130.6305s
+Bounding box position:
+	left  : 0.5542548894882202
+	top   : 0.5039495229721069
+	right : 0.6872926354408264
+	bottom: 0.7520768642425537
+
+
+Entity description: bookcase
+Entity id: /m/03__z0
+Segment: 130.755625s to 135.6355s
+Confidence: 0.5538513660430908
+Time offset of the first frame: 130.755625s
+Bounding box position:
+	left  : 0.7066978216171265
+	top   : 0.3286843001842499
+	right : 0.999247133731842
+	bottom: 0.8044748306274414
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 130.88075s to 133.758625s
+Confidence: 0.5244292616844177
+Time offset of the first frame: 130.88075s
+Bounding box position:
+	left  : 0.5540409088134766
+	top   : 0.5026062726974487
+	right : 0.6872884035110474
+	bottom: 0.7530505657196045
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 134.759625s to 134.88475s
+Confidence: 0.5074442625045776
+Time offset of the first frame: 134.759625s
+Bounding box position:
+	left  : 0.10846453160047531
+	top   : 0.7573293447494507
+	right : 0.2814890742301941
+	bottom: 0.8756637573242188
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.135s to 135.260125s
+Confidence: 0.519160270690918
+Time offset of the first frame: 135.135s
+Bounding box position:
+	left  : 0.552083432674408
+	top   : 0.5032205581665039
+	right : 0.6871376037597656
+	bottom: 0.7509509325027466
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.135s to 135.135s
+Confidence: 0.5028652548789978
+Time offset of the first frame: 135.135s
+Bounding box position:
+	left  : 0.23974230885505676
+	top   : 0.6013953685760498
+	right : 0.3444705307483673
+	bottom: 0.7171318531036377
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.6355s to 135.6355s
+Confidence: 0.5050352811813354
+Time offset of the first frame: 135.6355s
+Bounding box position:
+	left  : 0.2332516312599182
+	top   : 0.8029646277427673
+	right : 0.4357970058917999
+	bottom: 0.994758665561676
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 135.760625s to 135.88575s
+Confidence: 0.7656992673873901
+Time offset of the first frame: 135.760625s
+Bounding box position:
+	left  : 0.34755611419677734
+	top   : 0.2612895369529724
+	right : 0.5909311175346375
+	bottom: 0.5971452593803406
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.760625s to 136.010875s
+Confidence: 0.6936070322990417
+Time offset of the first frame: 135.760625s
+Bounding box position:
+	left  : 0.5430546402931213
+	top   : 0.7425521016120911
+	right : 0.7143428921699524
+	bottom: 0.8709661364555359
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.760625s to 136.136s
+Confidence: 0.61894690990448
+Time offset of the first frame: 135.760625s
+Bounding box position:
+	left  : 0.23229077458381653
+	top   : 0.775619387626648
+	right : 0.4347228705883026
+	bottom: 0.9917902946472168
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.760625s to 135.88575s
+Confidence: 0.6320055723190308
+Time offset of the first frame: 135.760625s
+Bounding box position:
+	left  : 0.43336009979248047
+	top   : 0.7461188435554504
+	right : 0.5506801009178162
+	bottom: 0.8556652665138245
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.760625s to 135.88575s
+Confidence: 0.557727575302124
+Time offset of the first frame: 135.760625s
+Bounding box position:
+	left  : 0.4171610474586487
+	top   : 0.8121853470802307
+	right : 0.6365630030632019
+	bottom: 0.9980888962745667
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.760625s to 135.88575s
+Confidence: 0.6051150560379028
+Time offset of the first frame: 135.760625s
+Bounding box position:
+	left  : 0.2855216860771179
+	top   : 0.7124350070953369
+	right : 0.436263769865036
+	bottom: 0.8327033519744873
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.760625s to 135.88575s
+Confidence: 0.5495507717132568
+Time offset of the first frame: 135.760625s
+Bounding box position:
+	left  : 0.06224234402179718
+	top   : 0.7739392518997192
+	right : 0.27160269021987915
+	bottom: 0.9888889789581299
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.760625s to 136.136s
+Confidence: 0.5465704202651978
+Time offset of the first frame: 135.760625s
+Bounding box position:
+	left  : 0.0863150879740715
+	top   : 0.477568119764328
+	right : 0.2508454918861389
+	bottom: 0.7717025279998779
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.760625s to 135.88575s
+Confidence: 0.5296279191970825
+Time offset of the first frame: 135.760625s
+Bounding box position:
+	left  : 0.5505151748657227
+	top   : 0.5045065879821777
+	right : 0.6872949600219727
+	bottom: 0.755253791809082
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.760625s to 135.760625s
+Confidence: 0.5176195502281189
+Time offset of the first frame: 135.760625s
+Bounding box position:
+	left  : 0.2414214015007019
+	top   : 0.6003667712211609
+	right : 0.34656840562820435
+	bottom: 0.7657049298286438
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 135.760625s to 135.760625s
+Confidence: 0.5080265402793884
+Time offset of the first frame: 135.760625s
+Bounding box position:
+	left  : 0.31526562571525574
+	top   : 0.6414483189582825
+	right : 0.4366377294063568
+	bottom: 0.730749785900116
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 135.88575s to 136.136s
+Confidence: 0.8191653490066528
+Time offset of the first frame: 135.88575s
+Bounding box position:
+	left  : 0.34000739455223083
+	top   : 0.08025878667831421
+	right : 0.598904013633728
+	bottom: 0.6219670176506042
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 136.38625s to 136.6365s
+Confidence: 0.5774426460266113
+Time offset of the first frame: 136.38625s
+Bounding box position:
+	left  : 0.028952419757843018
+	top   : 0.00757288932800293
+	right : 0.9343187212944031
+	bottom: 0.9928592443466187
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 142.517375s to 142.6425s
+Confidence: 0.6163601875305176
+Time offset of the first frame: 142.517375s
+Bounding box position:
+	left  : 0.0
+	top   : 0.2688814103603363
+	right : 1.0
+	bottom: 0.9888861179351807
+
+
+Entity description: shoe
+Entity id: /m/06rrc
+Segment: 142.767625s to 143.017875s
+Confidence: 0.5727392435073853
+Time offset of the first frame: 142.767625s
+Bounding box position:
+	left  : 0.3546343743801117
+	top   : 0.4588186740875244
+	right : 0.4489065110683441
+	bottom: 0.6605197191238403
+
+
+Entity description: shoe
+Entity id: /m/06rrc
+Segment: 142.767625s to 142.767625s
+Confidence: 0.6147960424423218
+Time offset of the first frame: 142.767625s
+Bounding box position:
+	left  : 0.4489358067512512
+	top   : 0.45803749561309814
+	right : 0.5518378615379333
+	bottom: 0.6608401536941528
+
+
+Entity description: animal
+Entity id: /m/0jbk
+Segment: 142.89275s to 144.6445s
+Confidence: 0.6817236542701721
+Time offset of the first frame: 142.89275s
+Bounding box position:
+	left  : 0.16806846857070923
+	top   : 0.45073872804641724
+	right : 0.5867939591407776
+	bottom: 0.9290384650230408
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 144.769625s to 145.019875s
+Confidence: 0.6154897809028625
+Time offset of the first frame: 144.769625s
+Bounding box position:
+	left  : 0.005488276481628418
+	top   : 0.24363677203655243
+	right : 0.9957002997398376
+	bottom: 0.9813048243522644
+
+
+Entity description: shoe
+Entity id: /m/06rrc
+Segment: 145.019875s to 145.270125s
+Confidence: 0.5784395337104797
+Time offset of the first frame: 145.019875s
+Bounding box position:
+	left  : 0.3560611605644226
+	top   : 0.4570615291595459
+	right : 0.4514386057853699
+	bottom: 0.6554528474807739
+
+
+Entity description: shoe
+Entity id: /m/06rrc
+Segment: 145.019875s to 145.019875s
+Confidence: 0.5018807649612427
+Time offset of the first frame: 145.019875s
+Bounding box position:
+	left  : 0.4458996653556824
+	top   : 0.45504772663116455
+	right : 0.5502435564994812
+	bottom: 0.6704715490341187
+
+
+Entity description: dog
+Entity id: /m/0bt9lr
+Segment: 145.520375s to 148.148s
+Confidence: 0.9166224002838135
+Time offset of the first frame: 145.520375s
+Bounding box position:
+	left  : 0.017447859048843384
+	top   : 0.019540011882781982
+	right : 0.9805854558944702
+	bottom: 0.974904477596283
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 145.6455s to 148.148s
+Confidence: 0.9128431677818298
+Time offset of the first frame: 145.6455s
+Bounding box position:
+	left  : 0.03660878539085388
+	top   : 0.0
+	right : 0.9041497707366943
+	bottom: 0.994613766670227
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 148.273125s to 177.051875s
+Confidence: 0.9895786046981812
+Time offset of the first frame: 148.273125s
+Bounding box position:
+	left  : 0.34761756658554077
+	top   : 0.09773286432027817
+	right : 0.6021497249603271
+	bottom: 0.6122668385505676
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 148.273125s to 176.801625s
+Confidence: 0.8552811741828918
+Time offset of the first frame: 148.273125s
+Bounding box position:
+	left  : 0.3431752026081085
+	top   : 0.26010072231292725
+	right : 0.5897121429443359
+	bottom: 0.5959138870239258
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 148.273125s to 176.301125s
+Confidence: 0.7330360412597656
+Time offset of the first frame: 148.273125s
+Bounding box position:
+	left  : 0.5416979193687439
+	top   : 0.7411022186279297
+	right : 0.7162959575653076
+	bottom: 0.8728464841842651
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 148.273125s to 176.176s
+Confidence: 0.5788774490356445
+Time offset of the first frame: 148.273125s
+Bounding box position:
+	left  : 0.43460315465927124
+	top   : 0.7465052008628845
+	right : 0.5494040846824646
+	bottom: 0.8581088185310364
+
+
+Entity description: bookcase
+Entity id: /m/03__z0
+Segment: 148.273125s to 169.294125s
+Confidence: 0.5458861589431763
+Time offset of the first frame: 148.273125s
+Bounding box position:
+	left  : 0.7062482237815857
+	top   : 0.32840394973754883
+	right : 0.9985643029212952
+	bottom: 0.8051049709320068
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 148.273125s to 176.801625s
+Confidence: 0.5376790165901184
+Time offset of the first frame: 148.273125s
+Bounding box position:
+	left  : 0.41658419370651245
+	top   : 0.818847119808197
+	right : 0.6386255621910095
+	bottom: 0.9984075427055359
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 148.273125s to 156.156s
+Confidence: 0.5276005268096924
+Time offset of the first frame: 148.273125s
+Bounding box position:
+	left  : 0.08674462139606476
+	top   : 0.4783403277397156
+	right : 0.25066089630126953
+	bottom: 0.768969714641571
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 148.273125s to 148.89875s
+Confidence: 0.5101962685585022
+Time offset of the first frame: 148.273125s
+Bounding box position:
+	left  : 0.23037856817245483
+	top   : 0.7994248270988464
+	right : 0.43544358015060425
+	bottom: 0.9950332045555115
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 148.6485s to 148.89875s
+Confidence: 0.5101394057273865
+Time offset of the first frame: 148.6485s
+Bounding box position:
+	left  : 0.08671721816062927
+	top   : 0.4777502417564392
+	right : 0.25241169333457947
+	bottom: 0.7675178050994873
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 149.023875s to 156.156s
+Confidence: 0.517179012298584
+Time offset of the first frame: 149.023875s
+Bounding box position:
+	left  : 0.0868278220295906
+	top   : 0.4770921468734741
+	right : 0.25242602825164795
+	bottom: 0.7674902677536011
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 150.024875s to 154.779625s
+Confidence: 0.5303316712379456
+Time offset of the first frame: 150.024875s
+Bounding box position:
+	left  : 0.23859810829162598
+	top   : 0.6012247204780579
+	right : 0.3433550000190735
+	bottom: 0.7164900898933411
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 150.775625s to 160.034875s
+Confidence: 0.5238310098648071
+Time offset of the first frame: 150.775625s
+Bounding box position:
+	left  : 0.08741007000207901
+	top   : 0.47868889570236206
+	right : 0.2524716258049011
+	bottom: 0.7707177996635437
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 151.151s to 151.276125s
+Confidence: 0.5100118517875671
+Time offset of the first frame: 151.151s
+Bounding box position:
+	left  : 0.2852773070335388
+	top   : 0.7115626335144043
+	right : 0.43807724118232727
+	bottom: 0.8338843584060669
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 151.90175s to 154.779625s
+Confidence: 0.5179423689842224
+Time offset of the first frame: 151.90175s
+Bounding box position:
+	left  : 0.5539743304252625
+	top   : 0.5021144151687622
+	right : 0.6880006194114685
+	bottom: 0.7505035400390625
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 152.527375s to 153.90375s
+Confidence: 0.5215912461280823
+Time offset of the first frame: 152.527375s
+Bounding box position:
+	left  : 0.2851465344429016
+	top   : 0.7123182415962219
+	right : 0.4382374584674835
+	bottom: 0.835853636264801
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 152.527375s to 152.6525s
+Confidence: 0.5078049898147583
+Time offset of the first frame: 152.527375s
+Bounding box position:
+	left  : 0.31497249007225037
+	top   : 0.6406073570251465
+	right : 0.43729302287101746
+	bottom: 0.7308168411254883
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 156.90675s to 157.532375s
+Confidence: 0.5076528191566467
+Time offset of the first frame: 156.90675s
+Bounding box position:
+	left  : 0.23208019137382507
+	top   : 0.7976477146148682
+	right : 0.4348783791065216
+	bottom: 0.9938512444496155
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 157.282125s to 157.40725s
+Confidence: 0.5055521726608276
+Time offset of the first frame: 157.282125s
+Bounding box position:
+	left  : 0.10812375694513321
+	top   : 0.7573498487472534
+	right : 0.27974018454551697
+	bottom: 0.8750652074813843
+
+
+Entity description: toy
+Entity id: /m/0138tl
+Segment: 157.782625s to 159.033875s
+Confidence: 0.5153656005859375
+Time offset of the first frame: 157.782625s
+Bounding box position:
+	left  : 0.7513992190361023
+	top   : 0.23001931607723236
+	right : 0.8499172329902649
+	bottom: 0.3577961325645447
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 158.783625s to 159.784625s
+Confidence: 0.5062028169631958
+Time offset of the first frame: 158.783625s
+Bounding box position:
+	left  : 0.23928400874137878
+	top   : 0.6008024215698242
+	right : 0.34443220496177673
+	bottom: 0.7187720537185669
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 159.159s to 159.40925s
+Confidence: 0.5143305063247681
+Time offset of the first frame: 159.159s
+Bounding box position:
+	left  : 0.06646598130464554
+	top   : 0.779308021068573
+	right : 0.27087339758872986
+	bottom: 0.98897784948349
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 159.534375s to 159.534375s
+Confidence: 0.5216710567474365
+Time offset of the first frame: 159.534375s
+Bounding box position:
+	left  : 0.5517972111701965
+	top   : 0.5037527680397034
+	right : 0.6872120499610901
+	bottom: 0.750642716884613
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 162.036875s to 162.287125s
+Confidence: 0.5063424110412598
+Time offset of the first frame: 162.036875s
+Bounding box position:
+	left  : 0.08757709711790085
+	top   : 0.4785943925380707
+	right : 0.2523866891860962
+	bottom: 0.768858790397644
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 162.287125s to 162.41225s
+Confidence: 0.5077539682388306
+Time offset of the first frame: 162.287125s
+Bounding box position:
+	left  : 0.08666019141674042
+	top   : 0.47829896211624146
+	right : 0.2513420581817627
+	bottom: 0.7695664763450623
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 163.41325s to 165.41525s
+Confidence: 0.5100390315055847
+Time offset of the first frame: 163.41325s
+Bounding box position:
+	left  : 0.5533835291862488
+	top   : 0.502726674079895
+	right : 0.6869701743125916
+	bottom: 0.7516679763793945
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 165.790625s to 167.292125s
+Confidence: 0.5074024796485901
+Time offset of the first frame: 165.790625s
+Bounding box position:
+	left  : 0.22959868609905243
+	top   : 0.8038946986198425
+	right : 0.4334912896156311
+	bottom: 0.9958924651145935
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 166.291125s to 172.92275s
+Confidence: 0.5222670435905457
+Time offset of the first frame: 166.291125s
+Bounding box position:
+	left  : 0.08719492703676224
+	top   : 0.47793006896972656
+	right : 0.25265729427337646
+	bottom: 0.7686485052108765
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 167.167s to 167.167s
+Confidence: 0.5125053524971008
+Time offset of the first frame: 167.167s
+Bounding box position:
+	left  : 0.06600864976644516
+	top   : 0.7758345603942871
+	right : 0.2710631489753723
+	bottom: 0.9888996481895447
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 168.293125s to 168.91875s
+Confidence: 0.5104263424873352
+Time offset of the first frame: 168.293125s
+Bounding box position:
+	left  : 0.11108939349651337
+	top   : 0.7572683691978455
+	right : 0.2803956866264343
+	bottom: 0.8719474673271179
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 168.293125s to 170.044875s
+Confidence: 0.5053235292434692
+Time offset of the first frame: 168.293125s
+Bounding box position:
+	left  : 0.23931367695331573
+	top   : 0.6008899807929993
+	right : 0.34243863821029663
+	bottom: 0.7141543030738831
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 168.91875s to 168.91875s
+Confidence: 0.504334032535553
+Time offset of the first frame: 168.91875s
+Bounding box position:
+	left  : 0.5531104207038879
+	top   : 0.5039864778518677
+	right : 0.6871364712715149
+	bottom: 0.7525029182434082
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 169.91975s to 176.801625s
+Confidence: 0.52451491355896
+Time offset of the first frame: 169.91975s
+Bounding box position:
+	left  : 0.2308277189731598
+	top   : 0.8007400035858154
+	right : 0.4339078366756439
+	bottom: 0.9952392578125
+
+
+Entity description: bookcase
+Entity id: /m/03__z0
+Segment: 170.42025s to 176.050875s
+Confidence: 0.5472351312637329
+Time offset of the first frame: 170.42025s
+Bounding box position:
+	left  : 0.7058947086334229
+	top   : 0.3268994092941284
+	right : 0.998602032661438
+	bottom: 0.8055323362350464
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 170.42025s to 171.796625s
+Confidence: 0.505292534828186
+Time offset of the first frame: 170.42025s
+Bounding box position:
+	left  : 0.11037605255842209
+	top   : 0.7575623989105225
+	right : 0.27982956171035767
+	bottom: 0.8753198385238647
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 172.297125s to 176.801625s
+Confidence: 0.5284872055053711
+Time offset of the first frame: 172.297125s
+Bounding box position:
+	left  : 0.5522441864013672
+	top   : 0.5029656291007996
+	right : 0.6870996952056885
+	bottom: 0.7520913481712341
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 174.799625s to 176.176s
+Confidence: 0.5334524512290955
+Time offset of the first frame: 174.799625s
+Bounding box position:
+	left  : 0.06376445293426514
+	top   : 0.7760770320892334
+	right : 0.2717052698135376
+	bottom: 0.9883220791816711
+
+
+Entity description: toy
+Entity id: /m/0138tl
+Segment: 175.175s to 175.175s
+Confidence: 0.5078877210617065
+Time offset of the first frame: 175.175s
+Bounding box position:
+	left  : 0.7478727102279663
+	top   : 0.23004594445228577
+	right : 0.8494199514389038
+	bottom: 0.3575860559940338
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 175.6755s to 176.176s
+Confidence: 0.5589608550071716
+Time offset of the first frame: 175.6755s
+Bounding box position:
+	left  : 0.08696567267179489
+	top   : 0.47713154554367065
+	right : 0.2520480751991272
+	bottom: 0.7709487676620483
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 176.176s to 176.6765s
+Confidence: 0.5857987999916077
+Time offset of the first frame: 176.176s
+Bounding box position:
+	left  : 0.33386266231536865
+	top   : 0.6373428702354431
+	right : 0.4686817526817322
+	bottom: 0.7509669661521912
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 176.176s to 176.92675s
+Confidence: 0.6153392195701599
+Time offset of the first frame: 176.176s
+Bounding box position:
+	left  : 0.2667097747325897
+	top   : 0.6029137969017029
+	right : 0.37116965651512146
+	bottom: 0.7360839247703552
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 176.176s to 176.301125s
+Confidence: 0.520877480506897
+Time offset of the first frame: 176.176s
+Bounding box position:
+	left  : 0.31827157735824585
+	top   : 0.7246543169021606
+	right : 0.46334388852119446
+	bottom: 0.8333865404129028
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 176.301125s to 176.92675s
+Confidence: 0.6340916156768799
+Time offset of the first frame: 176.301125s
+Bounding box position:
+	left  : 0.6395003795623779
+	top   : 0.7534356117248535
+	right : 0.7938487529754639
+	bottom: 0.8703150749206543
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 176.42625s to 190.94075s
+Confidence: 0.993730366230011
+Time offset of the first frame: 176.42625s
+Bounding box position:
+	left  : 0.002019863110035658
+	top   : 0.11451037973165512
+	right : 0.12552624940872192
+	bottom: 0.9996247887611389
+
+
+Entity description: top
+Entity id: /m/03gx245
+Segment: 176.42625s to 190.94075s
+Confidence: 0.8875439763069153
+Time offset of the first frame: 176.42625s
+Bounding box position:
+	left  : 0.0
+	top   : 0.2388569563627243
+	right : 0.12065596133470535
+	bottom: 1.0
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 176.6765s to 177.6775s
+Confidence: 0.9613156318664551
+Time offset of the first frame: 176.6765s
+Bounding box position:
+	left  : 0.0703125
+	top   : 0.12222222238779068
+	right : 0.19374999403953552
+	bottom: 1.0
+
+
+Entity description: necklace
+Entity id: /m/01llwg
+Segment: 176.801625s to 190.315125s
+Confidence: 0.6568511128425598
+Time offset of the first frame: 176.801625s
+Bounding box position:
+	left  : 0.14321763813495636
+	top   : 0.361843079328537
+	right : 0.2188524752855301
+	bottom: 0.5204671621322632
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 176.801625s to 176.801625s
+Confidence: 0.6394488215446472
+Time offset of the first frame: 176.801625s
+Bounding box position:
+	left  : 0.8857274651527405
+	top   : 0.763180673122406
+	right : 0.9900116324424744
+	bottom: 0.8794717192649841
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 191.065875s to 192.44225s
+Confidence: 0.9959419965744019
+Time offset of the first frame: 191.065875s
+Bounding box position:
+	left  : 0.20977620780467987
+	top   : 0.057213399559259415
+	right : 0.7080444693565369
+	bottom: 1.0
+
+
+Entity description: top
+Entity id: /m/03gx245
+Segment: 191.065875s to 192.44225s
+Confidence: 0.8943120241165161
+Time offset of the first frame: 191.065875s
+Bounding box position:
+	left  : 0.18866409361362457
+	top   : 0.42671045660972595
+	right : 0.7036417126655579
+	bottom: 0.9940587282180786
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 192.94275s to 196.321125s
+Confidence: 0.5641235113143921
+Time offset of the first frame: 192.94275s
+Bounding box position:
+	left  : 0.450552374124527
+	top   : 0.6452410817146301
+	right : 0.6125509142875671
+	bottom: 0.9978019595146179
+
+
+Entity description: table
+Entity id: /m/04bcr3
+Segment: 192.94275s to 192.94275s
+Confidence: 0.5340873599052429
+Time offset of the first frame: 192.94275s
+Bounding box position:
+	left  : 0.3044925332069397
+	top   : 0.7130724787712097
+	right : 0.45806342363357544
+	bottom: 0.960799515247345
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 193.818625s to 194.068875s
+Confidence: 0.58237624168396
+Time offset of the first frame: 193.818625s
+Bounding box position:
+	left  : 0.0011745356023311615
+	top   : 0.5470212697982788
+	right : 0.1143212616443634
+	bottom: 0.9881168007850647
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 194.6945s to 196.321125s
+Confidence: 0.9732449650764465
+Time offset of the first frame: 194.6945s
+Bounding box position:
+	left  : 0.0016382448375225067
+	top   : 0.11079993844032288
+	right : 0.11606207489967346
+	bottom: 0.9951854944229126
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 194.6945s to 196.321125s
+Confidence: 0.7099936008453369
+Time offset of the first frame: 194.6945s
+Bounding box position:
+	left  : 0.00024109333753585815
+	top   : 0.4178997278213501
+	right : 0.113783098757267
+	bottom: 1.0
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 196.44625s to 197.822625s
+Confidence: 0.7138867974281311
+Time offset of the first frame: 196.44625s
+Bounding box position:
+	left  : 0.35084813833236694
+	top   : 0.7454028129577637
+	right : 0.4527512788772583
+	bottom: 0.9538840055465698
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 196.44625s to 199.6995s
+Confidence: 0.761162281036377
+Time offset of the first frame: 196.44625s
+Bounding box position:
+	left  : 0.18883365392684937
+	top   : 0.5298740267753601
+	right : 0.28750669956207275
+	bottom: 0.7423397898674011
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 196.44625s to 197.071875s
+Confidence: 0.6572312116622925
+Time offset of the first frame: 196.44625s
+Bounding box position:
+	left  : 0.004811387043446302
+	top   : 0.31283918023109436
+	right : 0.10903546214103699
+	bottom: 0.5212817192077637
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 196.94675s to 198.198s
+Confidence: 0.6306416988372803
+Time offset of the first frame: 196.94675s
+Bounding box position:
+	left  : 0.49385055899620056
+	top   : 0.32823705673217773
+	right : 0.5768649578094482
+	bottom: 0.5429672598838806
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 196.94675s to 197.44725s
+Confidence: 0.5608137249946594
+Time offset of the first frame: 196.94675s
+Bounding box position:
+	left  : 0.28015077114105225
+	top   : 0.7567304372787476
+	right : 0.3605155348777771
+	bottom: 0.9093853235244751
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 196.94675s to 200.575375s
+Confidence: 0.6722230911254883
+Time offset of the first frame: 196.94675s
+Bounding box position:
+	left  : 0.4173678755760193
+	top   : 0.37007981538772583
+	right : 0.5039169192314148
+	bottom: 0.5142139196395874
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 196.94675s to 197.197s
+Confidence: 0.5840884447097778
+Time offset of the first frame: 196.94675s
+Bounding box position:
+	left  : 0.049351468682289124
+	top   : 0.18384075164794922
+	right : 0.4458097815513611
+	bottom: 0.7904006838798523
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 197.44725s to 197.44725s
+Confidence: 0.5967922210693359
+Time offset of the first frame: 197.44725s
+Bounding box position:
+	left  : 0.41838327050209045
+	top   : 0.3640914261341095
+	right : 0.5075741410255432
+	bottom: 0.5259568095207214
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 197.44725s to 197.822625s
+Confidence: 0.5516681671142578
+Time offset of the first frame: 197.44725s
+Bounding box position:
+	left  : 0.25251200795173645
+	top   : 0.485037624835968
+	right : 0.5556689500808716
+	bottom: 0.999077558517456
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 197.6975s to 198.072875s
+Confidence: 0.5422991514205933
+Time offset of the first frame: 197.6975s
+Bounding box position:
+	left  : 0.5705362558364868
+	top   : 0.02317485213279724
+	right : 0.9917532205581665
+	bottom: 0.9696025848388672
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 198.072875s to 198.072875s
+Confidence: 0.5099382996559143
+Time offset of the first frame: 198.072875s
+Bounding box position:
+	left  : 0.6215188503265381
+	top   : 0.6488267183303833
+	right : 0.7628365755081177
+	bottom: 0.8310433626174927
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 198.823625s to 199.94975s
+Confidence: 0.6486470699310303
+Time offset of the first frame: 198.823625s
+Bounding box position:
+	left  : 0.6929606795310974
+	top   : 0.0017975568771362305
+	right : 0.9929856657981873
+	bottom: 0.5226930379867554
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 199.324125s to 199.324125s
+Confidence: 0.7685356140136719
+Time offset of the first frame: 199.324125s
+Bounding box position:
+	left  : 0.4639182686805725
+	top   : 0.32136428356170654
+	right : 0.5648139119148254
+	bottom: 0.5224320888519287
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 199.324125s to 199.324125s
+Confidence: 0.717818021774292
+Time offset of the first frame: 199.324125s
+Bounding box position:
+	left  : 0.5554656386375427
+	top   : 0.5430775880813599
+	right : 0.6694435477256775
+	bottom: 0.6761276721954346
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 199.324125s to 199.324125s
+Confidence: 0.6808714866638184
+Time offset of the first frame: 199.324125s
+Bounding box position:
+	left  : 0.6314541101455688
+	top   : 0.5673559904098511
+	right : 0.7210150957107544
+	bottom: 0.7208690643310547
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 199.324125s to 199.324125s
+Confidence: 0.5955075025558472
+Time offset of the first frame: 199.324125s
+Bounding box position:
+	left  : 0.8493503928184509
+	top   : 0.5351603031158447
+	right : 0.9701908230781555
+	bottom: 0.6357747316360474
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 202.076875s to 202.827625s
+Confidence: 0.7315549254417419
+Time offset of the first frame: 202.076875s
+Bounding box position:
+	left  : 0.09545741975307465
+	top   : 0.8172283172607422
+	right : 0.2371104210615158
+	bottom: 0.9975060224533081
+
+
+Entity description: flower
+Entity id: /m/0c9ph5
+Segment: 202.076875s to 202.076875s
+Confidence: 0.512174665927887
+Time offset of the first frame: 202.076875s
+Bounding box position:
+	left  : 0.7302940487861633
+	top   : 0.7944332957267761
+	right : 0.9407109618186951
+	bottom: 0.9630332589149475
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 202.202s to 202.827625s
+Confidence: 0.7053130865097046
+Time offset of the first frame: 202.202s
+Bounding box position:
+	left  : 0.0009318888187408447
+	top   : 0.7490448355674744
+	right : 0.0894937515258789
+	bottom: 0.9490944147109985
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 202.45225s to 202.827625s
+Confidence: 0.5798758268356323
+Time offset of the first frame: 202.45225s
+Bounding box position:
+	left  : 0.002179265022277832
+	top   : 0.3809490501880646
+	right : 0.1364680379629135
+	bottom: 0.9639008045196533
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 202.95275s to 205.079875s
+Confidence: 0.8479329347610474
+Time offset of the first frame: 202.95275s
+Bounding box position:
+	left  : 0.5199406147003174
+	top   : 0.6064791679382324
+	right : 0.6927765607833862
+	bottom: 0.9977586269378662
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 202.95275s to 204.329125s
+Confidence: 0.8685859441757202
+Time offset of the first frame: 202.95275s
+Bounding box position:
+	left  : 0.3294423520565033
+	top   : 0.6160528659820557
+	right : 0.5068308115005493
+	bottom: 0.9971908926963806
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 202.95275s to 205.205s
+Confidence: 0.8194050192832947
+Time offset of the first frame: 202.95275s
+Bounding box position:
+	left  : 0.7278477549552917
+	top   : 0.6779666543006897
+	right : 0.8495302796363831
+	bottom: 0.8679940104484558
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 202.95275s to 203.077875s
+Confidence: 0.699110209941864
+Time offset of the first frame: 202.95275s
+Bounding box position:
+	left  : 0.0005257353186607361
+	top   : 0.6155139207839966
+	right : 0.07389015704393387
+	bottom: 0.8366513252258301
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 202.95275s to 205.580375s
+Confidence: 0.7557507753372192
+Time offset of the first frame: 202.95275s
+Bounding box position:
+	left  : 0.24109958112239838
+	top   : 0.6046328544616699
+	right : 0.3604758679866791
+	bottom: 0.8284261226654053
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 202.95275s to 203.328125s
+Confidence: 0.6075766086578369
+Time offset of the first frame: 202.95275s
+Bounding box position:
+	left  : 0.8928473591804504
+	top   : 0.5802499055862427
+	right : 0.9736858010292053
+	bottom: 0.8150191307067871
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 202.95275s to 205.830625s
+Confidence: 0.718192458152771
+Time offset of the first frame: 202.95275s
+Bounding box position:
+	left  : 0.45598429441452026
+	top   : 0.5336010456085205
+	right : 0.5839150547981262
+	bottom: 0.8480931520462036
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 203.328125s to 205.580375s
+Confidence: 0.758800208568573
+Time offset of the first frame: 203.328125s
+Bounding box position:
+	left  : 0.6102079153060913
+	top   : 0.6309013366699219
+	right : 0.698867678642273
+	bottom: 0.8835073709487915
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 203.328125s to 209.584375s
+Confidence: 0.7980760335922241
+Time offset of the first frame: 203.328125s
+Bounding box position:
+	left  : 0.8992673754692078
+	top   : 0.5684049129486084
+	right : 0.9978428483009338
+	bottom: 0.7894479036331177
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 203.328125s to 205.205s
+Confidence: 0.6551050543785095
+Time offset of the first frame: 203.328125s
+Bounding box position:
+	left  : 0.6003472805023193
+	top   : 0.5225515961647034
+	right : 0.7068777084350586
+	bottom: 0.6511914134025574
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 203.45325s to 208.333125s
+Confidence: 0.7883198261260986
+Time offset of the first frame: 203.45325s
+Bounding box position:
+	left  : 0.36806613206863403
+	top   : 0.5650657415390015
+	right : 0.5100179314613342
+	bottom: 0.6657965183258057
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 203.45325s to 205.330125s
+Confidence: 0.6997742056846619
+Time offset of the first frame: 203.45325s
+Bounding box position:
+	left  : 0.5068907737731934
+	top   : 0.5613070130348206
+	right : 0.6163208484649658
+	bottom: 0.6553806662559509
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 203.7035s to 203.95375s
+Confidence: 0.6093218922615051
+Time offset of the first frame: 203.7035s
+Bounding box position:
+	left  : 0.3211223781108856
+	top   : 0.5639455914497375
+	right : 0.4615992605686188
+	bottom: 0.6731542944908142
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 203.95375s to 206.206s
+Confidence: 0.808002233505249
+Time offset of the first frame: 203.95375s
+Bounding box position:
+	left  : 0.7162306904792786
+	top   : 0.6173284649848938
+	right : 0.8052379488945007
+	bottom: 0.8439611792564392
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 204.204s to 204.45425s
+Confidence: 0.7275156378746033
+Time offset of the first frame: 204.204s
+Bounding box position:
+	left  : 0.046652354300022125
+	top   : 0.5919542908668518
+	right : 0.15940561890602112
+	bottom: 0.6922487616539001
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 204.329125s to 204.829625s
+Confidence: 0.5575144290924072
+Time offset of the first frame: 204.329125s
+Bounding box position:
+	left  : 0.5605599880218506
+	top   : 0.5867593288421631
+	right : 0.673644483089447
+	bottom: 0.8846942186355591
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 204.45425s to 204.579375s
+Confidence: 0.6483315825462341
+Time offset of the first frame: 204.45425s
+Bounding box position:
+	left  : 0.004311342258006334
+	top   : 0.5980357527732849
+	right : 0.1088053286075592
+	bottom: 0.7178564667701721
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 204.95475s to 208.45825s
+Confidence: 0.803253173828125
+Time offset of the first frame: 204.95475s
+Bounding box position:
+	left  : 0.5181986689567566
+	top   : 0.564079761505127
+	right : 0.6141919493675232
+	bottom: 0.7214628458023071
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 205.330125s to 209.334125s
+Confidence: 0.792323112487793
+Time offset of the first frame: 205.330125s
+Bounding box position:
+	left  : 0.6653406620025635
+	top   : 0.6009347438812256
+	right : 0.8113811016082764
+	bottom: 0.6825910806655884
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 205.330125s to 209.7095s
+Confidence: 0.7929528951644897
+Time offset of the first frame: 205.330125s
+Bounding box position:
+	left  : 0.7776888608932495
+	top   : 0.5677586197853088
+	right : 0.9033445119857788
+	bottom: 0.6967746615409851
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 205.45525s to 208.95875s
+Confidence: 0.8002097606658936
+Time offset of the first frame: 205.45525s
+Bounding box position:
+	left  : 0.5610195994377136
+	top   : 0.5889072418212891
+	right : 0.659514844417572
+	bottom: 0.7014646530151367
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 205.45525s to 207.332125s
+Confidence: 0.793169379234314
+Time offset of the first frame: 205.45525s
+Bounding box position:
+	left  : 0.5780248045921326
+	top   : 0.6646154522895813
+	right : 0.6626459956169128
+	bottom: 0.8472951054573059
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 205.45525s to 205.7055s
+Confidence: 0.7393803000450134
+Time offset of the first frame: 205.45525s
+Bounding box position:
+	left  : 0.6528648734092712
+	top   : 0.5093622803688049
+	right : 0.7533971667289734
+	bottom: 0.6168026328086853
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 205.830625s to 209.45925s
+Confidence: 0.7751803398132324
+Time offset of the first frame: 205.830625s
+Bounding box position:
+	left  : 0.7720178365707397
+	top   : 0.4942350685596466
+	right : 0.877977728843689
+	bottom: 0.6390482187271118
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 205.830625s to 209.95975s
+Confidence: 0.8171772360801697
+Time offset of the first frame: 205.830625s
+Bounding box position:
+	left  : 0.6098104119300842
+	top   : 0.5079329013824463
+	right : 0.7194688320159912
+	bottom: 0.640376091003418
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 206.080875s to 206.206s
+Confidence: 0.5899021625518799
+Time offset of the first frame: 206.080875s
+Bounding box position:
+	left  : 0.002940945327281952
+	top   : 0.6811724305152893
+	right : 0.2049473226070404
+	bottom: 0.9969067573547363
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 206.331125s to 206.831625s
+Confidence: 0.7912813425064087
+Time offset of the first frame: 206.331125s
+Bounding box position:
+	left  : 0.10955070704221725
+	top   : 0.6124927997589111
+	right : 0.28444451093673706
+	bottom: 0.8439083099365234
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 206.331125s to 208.7085s
+Confidence: 0.7903245687484741
+Time offset of the first frame: 206.331125s
+Bounding box position:
+	left  : 0.7040488719940186
+	top   : 0.7615371942520142
+	right : 0.8468858003616333
+	bottom: 0.9995198845863342
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 206.95675s to 210.7105s
+Confidence: 0.7848029732704163
+Time offset of the first frame: 206.95675s
+Bounding box position:
+	left  : 0.597399115562439
+	top   : 0.5802933573722839
+	right : 0.7000926733016968
+	bottom: 0.7072773575782776
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 207.081875s to 210.21s
+Confidence: 0.802364706993103
+Time offset of the first frame: 207.081875s
+Bounding box position:
+	left  : 0.8417009115219116
+	top   : 0.6420820951461792
+	right : 0.9973366260528564
+	bottom: 0.9319782257080078
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 207.081875s to 212.587375s
+Confidence: 0.8142258524894714
+Time offset of the first frame: 207.081875s
+Bounding box position:
+	left  : 0.911048173904419
+	top   : 0.532837986946106
+	right : 0.9998970031738281
+	bottom: 0.6646177768707275
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 207.207s to 207.45725s
+Confidence: 0.7811099290847778
+Time offset of the first frame: 207.207s
+Bounding box position:
+	left  : 0.0012684568064287305
+	top   : 0.018240509554743767
+	right : 0.07417580485343933
+	bottom: 0.39627254009246826
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 207.582375s to 207.582375s
+Confidence: 0.527957558631897
+Time offset of the first frame: 207.582375s
+Bounding box position:
+	left  : 0.00036557018756866455
+	top   : 0.8430578112602234
+	right : 0.09997422993183136
+	bottom: 0.9972941279411316
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 207.95775s to 210.46025s
+Confidence: 0.7945067882537842
+Time offset of the first frame: 207.95775s
+Bounding box position:
+	left  : 0.4104405641555786
+	top   : 0.5450078845024109
+	right : 0.5006757974624634
+	bottom: 0.6747452616691589
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 208.082875s to 208.208s
+Confidence: 0.7212514877319336
+Time offset of the first frame: 208.082875s
+Bounding box position:
+	left  : 0.17296025156974792
+	top   : 0.5375730991363525
+	right : 0.2540614604949951
+	bottom: 0.6714279651641846
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 208.082875s to 208.833625s
+Confidence: 0.5294256210327148
+Time offset of the first frame: 208.082875s
+Bounding box position:
+	left  : 0.0023274049162864685
+	top   : 0.5010579824447632
+	right : 0.1399567425251007
+	bottom: 0.9498244524002075
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 208.082875s to 208.833625s
+Confidence: 0.6381596326828003
+Time offset of the first frame: 208.082875s
+Bounding box position:
+	left  : 0.12303470075130463
+	top   : 0.41897785663604736
+	right : 0.2709280848503113
+	bottom: 0.678836464881897
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 208.208s to 211.836625s
+Confidence: 0.817192018032074
+Time offset of the first frame: 208.208s
+Bounding box position:
+	left  : 0.8107013702392578
+	top   : 0.5230715274810791
+	right : 0.928635835647583
+	bottom: 0.7078763246536255
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 208.208s to 208.833625s
+Confidence: 0.5306645631790161
+Time offset of the first frame: 208.208s
+Bounding box position:
+	left  : 0.7040267586708069
+	top   : 0.552750825881958
+	right : 0.8701913952827454
+	bottom: 0.8516037464141846
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 208.45825s to 208.7085s
+Confidence: 0.7292273640632629
+Time offset of the first frame: 208.45825s
+Bounding box position:
+	left  : 0.1297929584980011
+	top   : 0.542038083076477
+	right : 0.2211071401834488
+	bottom: 0.6816099882125854
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 208.45825s to 209.584375s
+Confidence: 0.5535739660263062
+Time offset of the first frame: 208.45825s
+Bounding box position:
+	left  : 0.11130787432193756
+	top   : 0.6917299628257751
+	right : 0.25267142057418823
+	bottom: 0.818196713924408
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 208.583375s to 212.212s
+Confidence: 0.7691888809204102
+Time offset of the first frame: 208.583375s
+Bounding box position:
+	left  : 0.9002156853675842
+	top   : 0.550736129283905
+	right : 0.9999802708625793
+	bottom: 0.8021770119667053
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 208.833625s to 209.083875s
+Confidence: 0.6026643514633179
+Time offset of the first frame: 208.833625s
+Bounding box position:
+	left  : 0.0172551441937685
+	top   : 0.7185624241828918
+	right : 0.18004865944385529
+	bottom: 0.826881468296051
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 208.833625s to 210.084875s
+Confidence: 0.5147817730903625
+Time offset of the first frame: 208.833625s
+Bounding box position:
+	left  : 0.5719754099845886
+	top   : 0.517480731010437
+	right : 0.7441783547401428
+	bottom: 0.9420362710952759
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 209.083875s to 210.835625s
+Confidence: 0.6195541620254517
+Time offset of the first frame: 209.083875s
+Bounding box position:
+	left  : 0.5244426131248474
+	top   : 0.46456053853034973
+	right : 0.6085384488105774
+	bottom: 0.5921190977096558
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 209.209s to 210.335125s
+Confidence: 0.6235445737838745
+Time offset of the first frame: 209.209s
+Bounding box position:
+	left  : 0.034671612083911896
+	top   : 0.5747387409210205
+	right : 0.1285381019115448
+	bottom: 0.7167346477508545
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 209.45925s to 209.7095s
+Confidence: 0.6708766222000122
+Time offset of the first frame: 209.45925s
+Bounding box position:
+	left  : 0.4423525035381317
+	top   : 0.6245958805084229
+	right : 0.5539885759353638
+	bottom: 0.7324018478393555
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 209.834625s to 213.838625s
+Confidence: 0.8307576179504395
+Time offset of the first frame: 209.834625s
+Bounding box position:
+	left  : 0.8380609750747681
+	top   : 0.5260235667228699
+	right : 0.999092698097229
+	bottom: 0.889930784702301
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 209.95975s to 210.585375s
+Confidence: 0.5484304428100586
+Time offset of the first frame: 209.95975s
+Bounding box position:
+	left  : 0.33001068234443665
+	top   : 0.6820827722549438
+	right : 0.53202885389328
+	bottom: 0.9912090301513672
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 210.21s to 212.46225s
+Confidence: 0.610960841178894
+Time offset of the first frame: 210.21s
+Bounding box position:
+	left  : 0.4835036098957062
+	top   : 0.5441521406173706
+	right : 0.5545035600662231
+	bottom: 0.7059158086776733
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 210.335125s to 211.211s
+Confidence: 0.6408414840698242
+Time offset of the first frame: 210.335125s
+Bounding box position:
+	left  : 0.20641058683395386
+	top   : 0.6169252991676331
+	right : 0.44476550817489624
+	bottom: 0.9922516942024231
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 210.46025s to 214.214s
+Confidence: 0.7793673276901245
+Time offset of the first frame: 210.46025s
+Bounding box position:
+	left  : 0.24143943190574646
+	top   : 0.6482278108596802
+	right : 0.38515689969062805
+	bottom: 0.7781201601028442
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 210.7105s to 211.211s
+Confidence: 0.6581581234931946
+Time offset of the first frame: 210.7105s
+Bounding box position:
+	left  : 0.20829065144062042
+	top   : 0.7120843529701233
+	right : 0.32121095061302185
+	bottom: 0.9075866341590881
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 210.7105s to 210.835625s
+Confidence: 0.5269747972488403
+Time offset of the first frame: 210.7105s
+Bounding box position:
+	left  : 0.26918748021125793
+	top   : 0.1985892951488495
+	right : 0.4700423777103424
+	bottom: 0.6657594442367554
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 211.336125s to 212.086875s
+Confidence: 0.6764901876449585
+Time offset of the first frame: 211.336125s
+Bounding box position:
+	left  : 0.11987577378749847
+	top   : 0.5116579532623291
+	right : 0.2352362424135208
+	bottom: 0.7360414266586304
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 211.336125s to 214.214s
+Confidence: 0.8392978310585022
+Time offset of the first frame: 211.336125s
+Bounding box position:
+	left  : 0.9459602236747742
+	top   : 0.4891398251056671
+	right : 1.0
+	bottom: 0.7133610248565674
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 211.46125s to 214.214s
+Confidence: 0.8028659224510193
+Time offset of the first frame: 211.46125s
+Bounding box position:
+	left  : 0.7053604125976562
+	top   : 0.5018064975738525
+	right : 0.8349483013153076
+	bottom: 0.7389038801193237
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 211.96175s to 212.212s
+Confidence: 0.6022302508354187
+Time offset of the first frame: 211.96175s
+Bounding box position:
+	left  : 0.34427598118782043
+	top   : 0.15557697415351868
+	right : 0.670964241027832
+	bottom: 0.9883157014846802
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 212.212s to 212.46225s
+Confidence: 0.6465502381324768
+Time offset of the first frame: 212.212s
+Bounding box position:
+	left  : 0.4716208577156067
+	top   : 0.4947126507759094
+	right : 0.6459410786628723
+	bottom: 0.6002011895179749
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 212.212s to 212.212s
+Confidence: 0.6134037375450134
+Time offset of the first frame: 212.212s
+Bounding box position:
+	left  : 0.8705914616584778
+	top   : 0.4063612222671509
+	right : 0.9868631958961487
+	bottom: 0.5325775146484375
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 212.212s to 212.587375s
+Confidence: 0.5589296817779541
+Time offset of the first frame: 212.212s
+Bounding box position:
+	left  : 0.10400952398777008
+	top   : 0.6206046342849731
+	right : 0.3355541229248047
+	bottom: 0.9964452385902405
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 212.212s to 212.212s
+Confidence: 0.537340521812439
+Time offset of the first frame: 212.212s
+Bounding box position:
+	left  : 0.6717855930328369
+	top   : 0.4123329818248749
+	right : 0.780304491519928
+	bottom: 0.531624436378479
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 212.46225s to 212.7125s
+Confidence: 0.6086447238922119
+Time offset of the first frame: 212.46225s
+Bounding box position:
+	left  : 0.0
+	top   : 0.563721239566803
+	right : 0.07583995163440704
+	bottom: 0.7804202437400818
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 212.837625s to 213.96375s
+Confidence: 0.7038871049880981
+Time offset of the first frame: 212.837625s
+Bounding box position:
+	left  : 0.43035492300987244
+	top   : 0.6849883198738098
+	right : 0.5055679082870483
+	bottom: 0.9793288707733154
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 213.087875s to 213.96375s
+Confidence: 0.759812593460083
+Time offset of the first frame: 213.087875s
+Bounding box position:
+	left  : 0.27988073229789734
+	top   : 0.5109007954597473
+	right : 0.4039861857891083
+	bottom: 0.6888505816459656
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 213.46325s to 213.96375s
+Confidence: 0.6396682858467102
+Time offset of the first frame: 213.46325s
+Bounding box position:
+	left  : 0.00440552830696106
+	top   : 0.575192928314209
+	right : 0.13857820630073547
+	bottom: 0.7416441440582275
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 213.46325s to 213.7135s
+Confidence: 0.6214027404785156
+Time offset of the first frame: 213.46325s
+Bounding box position:
+	left  : 0.7597848176956177
+	top   : 0.3971688151359558
+	right : 0.9936807155609131
+	bottom: 0.5902459621429443
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 213.838625s to 213.96375s
+Confidence: 0.5912097692489624
+Time offset of the first frame: 213.838625s
+Bounding box position:
+	left  : 0.2482965886592865
+	top   : 0.19227102398872375
+	right : 0.4948287308216095
+	bottom: 0.9812967777252197
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 213.838625s to 213.96375s
+Confidence: 0.5876240730285645
+Time offset of the first frame: 213.838625s
+Bounding box position:
+	left  : 0.04476890712976456
+	top   : 0.6443763375282288
+	right : 0.2818974554538727
+	bottom: 0.9949178099632263
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 213.96375s to 214.088875s
+Confidence: 0.5920932292938232
+Time offset of the first frame: 213.96375s
+Bounding box position:
+	left  : 0.01754968985915184
+	top   : 0.5769396424293518
+	right : 0.1309206336736679
+	bottom: 0.7280829548835754
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 213.96375s to 214.088875s
+Confidence: 0.6362127065658569
+Time offset of the first frame: 213.96375s
+Bounding box position:
+	left  : 0.26402613520622253
+	top   : 0.5110695362091064
+	right : 0.44295111298561096
+	bottom: 0.6261543035507202
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 213.96375s to 214.088875s
+Confidence: 0.7184600830078125
+Time offset of the first frame: 213.96375s
+Bounding box position:
+	left  : 0.5329007506370544
+	top   : 0.41287875175476074
+	right : 0.6578465104103088
+	bottom: 0.5917495489120483
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 213.96375s to 213.96375s
+Confidence: 0.5463168025016785
+Time offset of the first frame: 213.96375s
+Bounding box position:
+	left  : 0.44478991627693176
+	top   : 0.07422634959220886
+	right : 0.6668120622634888
+	bottom: 0.9198806285858154
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 214.339125s to 222.597375s
+Confidence: 0.997724711894989
+Time offset of the first frame: 214.339125s
+Bounding box position:
+	left  : 0.49246135354042053
+	top   : 0.05197421833872795
+	right : 0.9754835367202759
+	bottom: 0.9835928082466125
+
+
+Entity description: t-shirt
+Entity id: /m/013s93
+Segment: 214.339125s to 222.597375s
+Confidence: 0.8116183280944824
+Time offset of the first frame: 214.339125s
+Bounding box position:
+	left  : 0.503423273563385
+	top   : 0.36351823806762695
+	right : 0.9893028140068054
+	bottom: 0.9985186457633972
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 214.339125s to 222.597375s
+Confidence: 0.7854515314102173
+Time offset of the first frame: 214.339125s
+Bounding box position:
+	left  : 0.14517736434936523
+	top   : 0.7560622096061707
+	right : 0.49374935030937195
+	bottom: 0.9978581070899963
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 222.7225s to 227.101875s
+Confidence: 0.8610323071479797
+Time offset of the first frame: 222.7225s
+Bounding box position:
+	left  : 0.15425452589988708
+	top   : 0.3353748917579651
+	right : 0.8392523527145386
+	bottom: 1.0
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 224.349125s to 226.851625s
+Confidence: 0.6990053653717041
+Time offset of the first frame: 224.349125s
+Bounding box position:
+	left  : 0.0017354637384414673
+	top   : 0.37380924820899963
+	right : 0.1362098753452301
+	bottom: 0.994770884513855
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 225.225s to 225.350125s
+Confidence: 0.6003718972206116
+Time offset of the first frame: 225.225s
+Bounding box position:
+	left  : 0.0
+	top   : 0.1848185956478119
+	right : 0.33428123593330383
+	bottom: 0.9867312908172607
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 227.227s to 227.7275s
+Confidence: 0.546170711517334
+Time offset of the first frame: 227.227s
+Bounding box position:
+	left  : 0.0380740761756897
+	top   : 0.05695107579231262
+	right : 0.9105345010757446
+	bottom: 0.9985142946243286
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 236.110875s to 239.614375s
+Confidence: 0.8107839822769165
+Time offset of the first frame: 236.110875s
+Bounding box position:
+	left  : 0.2504710555076599
+	top   : 0.718498706817627
+	right : 0.662561297416687
+	bottom: 0.9968503713607788
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 236.110875s to 236.48625s
+Confidence: 0.5204905271530151
+Time offset of the first frame: 236.110875s
+Bounding box position:
+	left  : 0.004177093505859375
+	top   : 0.006732374429702759
+	right : 0.8274945020675659
+	bottom: 0.9987814426422119
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 236.48625s to 236.7365s
+Confidence: 0.8350757956504822
+Time offset of the first frame: 236.48625s
+Bounding box position:
+	left  : 0.9259858131408691
+	top   : 0.5529760122299194
+	right : 0.9985851049423218
+	bottom: 0.8858110904693604
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 237.237s to 239.364125s
+Confidence: 0.8682427406311035
+Time offset of the first frame: 237.237s
+Bounding box position:
+	left  : 0.4323551654815674
+	top   : 0.4600481390953064
+	right : 0.9989559054374695
+	bottom: 0.9954303503036499
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 237.612375s to 237.862625s
+Confidence: 0.7505339980125427
+Time offset of the first frame: 237.612375s
+Bounding box position:
+	left  : 0.6889013648033142
+	top   : 0.3523400127887726
+	right : 0.9964027404785156
+	bottom: 0.9719830751419067
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 237.7375s to 237.7375s
+Confidence: 0.5113915205001831
+Time offset of the first frame: 237.7375s
+Bounding box position:
+	left  : 0.8407661318778992
+	top   : 0.5851659178733826
+	right : 0.9486896395683289
+	bottom: 0.7952582240104675
+
+
+Entity description: clothing
+Entity id: /m/09j2d
+Segment: 239.239s to 239.239s
+Confidence: 0.5169093608856201
+Time offset of the first frame: 239.239s
+Bounding box position:
+	left  : 0.9305711388587952
+	top   : 0.10607011616230011
+	right : 0.9993161559104919
+	bottom: 0.40019601583480835
+
+
+Entity description: packaged goods
+Entity id: /j/5qg9b8
+Segment: 239.614375s to 242.367125s
+Confidence: 0.5640103816986084
+Time offset of the first frame: 239.614375s
+Bounding box position:
+	left  : 0.3530539274215698
+	top   : 0.6168910264968872
+	right : 0.5465856790542603
+	bottom: 0.8494846820831299
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 239.864625s to 240.114875s
+Confidence: 0.7743783593177795
+Time offset of the first frame: 239.864625s
+Bounding box position:
+	left  : 0.7587541937828064
+	top   : 0.04771682620048523
+	right : 0.9996164441108704
+	bottom: 0.3159743845462799
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 242.867625s to 246.7465s
+Confidence: 0.8534526228904724
+Time offset of the first frame: 242.867625s
+Bounding box position:
+	left  : 0.3897322714328766
+	top   : 0.5832141637802124
+	right : 0.6684701442718506
+	bottom: 0.9965994358062744
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 242.867625s to 246.7465s
+Confidence: 0.6811863780021667
+Time offset of the first frame: 242.867625s
+Bounding box position:
+	left  : 0.0037114545702934265
+	top   : 0.5967860221862793
+	right : 0.21980398893356323
+	bottom: 0.9944319128990173
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 242.99275s to 243.243s
+Confidence: 0.5223482847213745
+Time offset of the first frame: 242.99275s
+Bounding box position:
+	left  : 0.1758841574192047
+	top   : 0.0056726038455963135
+	right : 0.8504037857055664
+	bottom: 0.9990102052688599
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 243.49325s to 245.245s
+Confidence: 0.5422592759132385
+Time offset of the first frame: 243.49325s
+Bounding box position:
+	left  : 0.16201543807983398
+	top   : 0.0008974671363830566
+	right : 0.8556219339370728
+	bottom: 0.9902603626251221
+
+
+Entity description: building
+Entity id: /m/0cgh4
+Segment: 245.119875s to 245.119875s
+Confidence: 0.5364360213279724
+Time offset of the first frame: 245.119875s
+Bounding box position:
+	left  : 0.8312205672264099
+	top   : 0.0378897488117218
+	right : 0.9471154808998108
+	bottom: 0.42221397161483765
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 246.871625s to 249.249s
+Confidence: 0.667870283126831
+Time offset of the first frame: 246.871625s
+Bounding box position:
+	left  : 0.14833250641822815
+	top   : 0.054257333278656006
+	right : 0.8271801471710205
+	bottom: 1.0
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 246.871625s to 247.121875s
+Confidence: 0.7229625582695007
+Time offset of the first frame: 246.871625s
+Bounding box position:
+	left  : 0.3224750757217407
+	top   : 0.8747948408126831
+	right : 0.6802545785903931
+	bottom: 0.999466598033905
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 246.871625s to 249.624375s
+Confidence: 0.5724912881851196
+Time offset of the first frame: 246.871625s
+Bounding box position:
+	left  : 0.0017469003796577454
+	top   : 0.4093581736087799
+	right : 0.24366477131843567
+	bottom: 0.9939848184585571
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 246.99675s to 247.247s
+Confidence: 0.9711758494377136
+Time offset of the first frame: 246.99675s
+Bounding box position:
+	left  : 0.6219989061355591
+	top   : 0.6076850891113281
+	right : 0.9944922924041748
+	bottom: 0.9767283201217651
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 247.372125s to 255.50525s
+Confidence: 0.9056644439697266
+Time offset of the first frame: 247.372125s
+Bounding box position:
+	left  : 0.3633860647678375
+	top   : 0.07113422453403473
+	right : 0.9853553771972656
+	bottom: 0.9796990752220154
+
+
+Entity description: clothing
+Entity id: /m/09j2d
+Segment: 247.872625s to 247.872625s
+Confidence: 0.5512511730194092
+Time offset of the first frame: 247.872625s
+Bounding box position:
+	left  : 0.4821653366088867
+	top   : 0.3125704526901245
+	right : 0.9943786859512329
+	bottom: 0.9905283451080322
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 250.375125s to 251.00075s
+Confidence: 0.8466532230377197
+Time offset of the first frame: 250.375125s
+Bounding box position:
+	left  : 0.7495281100273132
+	top   : 0.2391698807477951
+	right : 0.9968478679656982
+	bottom: 0.9447373747825623
+
+
+Entity description: plant
+Entity id: /m/05s2s
+Segment: 251.00075s to 251.00075s
+Confidence: 0.5072633028030396
+Time offset of the first frame: 251.00075s
+Bounding box position:
+	left  : 0.40990474820137024
+	top   : 0.0334223210811615
+	right : 0.8343955278396606
+	bottom: 0.9977662563323975
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 252.252s to 252.50225s
+Confidence: 0.7748151421546936
+Time offset of the first frame: 252.252s
+Bounding box position:
+	left  : 0.7785998582839966
+	top   : 0.2692672610282898
+	right : 0.9974672794342041
+	bottom: 0.9488024711608887
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 253.253s to 253.253s
+Confidence: 0.5533031225204468
+Time offset of the first frame: 253.253s
+Bounding box position:
+	left  : 0.3981420397758484
+	top   : 0.09026733040809631
+	right : 0.8226040005683899
+	bottom: 0.9904309511184692
+
+
+Entity description: houseplant
+Entity id: /m/03fp41
+Segment: 255.50525s to 255.50525s
+Confidence: 0.5622939467430115
+Time offset of the first frame: 255.50525s
+Bounding box position:
+	left  : 0.125310480594635
+	top   : 0.07994028925895691
+	right : 0.8469860553741455
+	bottom: 0.9971655607223511
+
+
+Entity description: clothing
+Entity id: /m/09j2d
+Segment: 255.50525s to 255.50525s
+Confidence: 0.5195462703704834
+Time offset of the first frame: 255.50525s
+Bounding box position:
+	left  : 0.7169610261917114
+	top   : 0.10872891545295715
+	right : 0.9943727850914001
+	bottom: 0.9654749631881714
+
+
+Entity description: flowerpot
+Entity id: /m/0fm3zh
+Segment: 255.630375s to 257.7575s
+Confidence: 0.9027811288833618
+Time offset of the first frame: 255.630375s
+Bounding box position:
+	left  : 0.12842562794685364
+	top   : 0.42699339985847473
+	right : 0.8334516286849976
+	bottom: 0.9952855110168457
+
+

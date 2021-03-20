@@ -3,6 +3,7 @@ import ReactPlayer from 'react-player'
 import { Header, Button, Image, Message } from 'semantic-ui-react';
 import classNames from 'classnames';
 import '../App.css';
+import axios from 'axios';
 import Timeline from './Timeline';
 import Segments from './Segments';
 import Container from 'react-bootstrap/Container'
@@ -19,9 +20,7 @@ import TimeField from 'react-simple-timefield';
 import KeyboardEventHandler from 'react-keyboard-event-handler';
 import Speech from "speak-tts";
 
-
 function formatTime(time) {
-    console.log(time);
     time = Math.round(time);
     var minutes = Math.floor(time / 60),
         seconds = time - minutes * 60;
@@ -44,7 +43,7 @@ class Home extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            playing: false,
+            playing: true,
             playbackRate: 1.0,
             modalOpen: true,
             hover: false,
@@ -53,15 +52,20 @@ class Home extends Component {
             listening: false,
             transcript:'',
             time: '00:00',
-            starts: [], 
+            scene_starts: [],
             mid_indexes: [],
+            current_level: 0,
+            current_idx: 0,
+            current_mid_idx: 0,
         }
         this.handleDrawerOpen = this.handleDrawerOpen.bind(this);
         this.handleDrawerClose = this.handleDrawerClose.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
         this.jumpVideo  = this.jumpVideo.bind(this);
         this.onTimeChange = this.onTimeChange.bind(this);
+        this.onPause = this._onPause.bind(this);
         this.handleKey = this.handleKey.bind(this);
+        this.align_segment = this.align_segment.bind(this);
         this.inspectFrame = this.inspectFrame.bind(this);
     }
 
@@ -74,36 +78,69 @@ class Home extends Component {
         speech.init({
             'volume': 1,
              'lang': 'en-GB',
-             'rate': 0.8,
+             'rate': 1.3,
              'pitch': 1,
              'voice':'Google US English',
              'splitSentences': true,
              'listeners': {
                  'onvoiceschanged': (voices) => {
-                     console.log("Event voiceschanged", voices)
+                    //  console.log("Event voiceschanged", voices)
                  }
-             }}).then((data) => {
-            // The "data" object contains the list of available voices and the voice synthesis params
-            console.log("Speech is ready, voices are available", data)
-        }).catch(e => {
-            console.error("An error occured while initializing : ", e)
-        })
+             }})
         this.setState({speech: speech});
+        this.handleSubmit('GMVbQ1UsMP8')
 
-        var json = require('../GMVbQ1UsMP8.json');
-        var starts = [];
-        var contents = [];
+    }
+
+
+    handleProgress = state => {
+      // We only want to update time slider if we are not currently seeking
+      this.setState(state);
+    }
+  
+    handleDuration = (duration) => {
+      this.setState({ duration });
+    }
+
+    ref = player => {
+        this.player = player;
+    }
+
+    handleDrawerOpen = () => {
+        this.setState({ open: true });
+    };
+    handleDrawerClose = () => {
+        this.setState({ open: false });
+    };
+
+    handleSubmit(videoID) {
+        this.setState({start: 0, videoID: videoID, 
+          playing: true,
+        })
+        console.log("changed the video", videoID);
+        this.handleDrawerClose();
+        axios.post('http://ec2-52-79-233-144.ap-northeast-2.compute.amazonaws.com:8000/backend/sessions/', {
+            videoID: videoID,
+        }).then((response) => {
+            sessionStorage.setItem('sessionID', response.data.id)
+            sessionStorage.setItem('sessionCreated', true)
+        });
+
+        var json = require('../' +  videoID + '.json');
+        var scene_starts = [];
+        var scene_labels = [];
         for (var i = 0, l = json.length; i < l; i++) {
-        var node = json[i];
-        starts.push(node['start']);
-        contents.push(node['content']);
+            var node = json[i];
+            scene_starts.push(node['Start Time (seconds)']);
+            scene_labels.push(node['Scene Number']);
         }
+        console.log(scene_starts);
 
-        json = require('../mid_level.json');
+        var json = require('../mid_level.json');
         var mid_indexes = [];
         var mid_contents = [];
         for (var i = 0, l = json.length; i < l; i++) {
-            node = json[i];
+            var node = json[i];
             mid_indexes.push(node['index']);
             mid_contents.push(node['content']);
         }
@@ -132,66 +169,52 @@ class Home extends Component {
             frame_timestamps.push(sortable[i][1]);
         }
 
-        this.setState({starts: starts, contents:  contents, mid_indexes: mid_indexes, mid_contents: mid_contents,frame_indexes: frame_indexes, frame_timestamps:  frame_timestamps,  dynamic: dynamic});
-
-    }
-
-
-    handleProgress = state => {
-      // We only want to update time slider if we are not currently seeking
-      this.setState(state);
-    }
-  
-    handleDuration = (duration) => {
-      this.setState({ duration });
-    }
-
-    ref = player => {
-        this.player = player;
-    }
-
-    handleDrawerOpen = () => {
-        this.setState({ open: true });
-    };
-    handleDrawerClose = () => {
-        this.setState({ open: false });
-    };
-
-    handleSubmit(videoID) {
-        this.setState({start: 0, videoID: videoID, url: '', navigations: [], bookmarks: [],
-          current_query: '',
-          playing: true,
-          transcript: '',
-          suggestions: [],
-          option_suggestions: [],
-          option_indexes: [],
-          time_options: [],
-          content_options: [],
-          keyword_indexes: [],
-        })
-        console.log("changed the video", videoID);
-        this.handleDrawerClose();
+        this.setState({scene_starts: scene_starts, scene_labels:  scene_labels, mid_indexes: mid_indexes, mid_contents: mid_contents,frame_indexes: frame_indexes, frame_timestamps:  frame_timestamps,  dynamic: dynamic});
+        if (sessionStorage.getItem('sessionCreated') === null) {
+            axios.post('http://ec2-52-79-233-144.ap-northeast-2.compute.amazonaws.com:8000/backend/sessions/', {
+              videoID: this.state.videoID,
+            }).then((response) => {
+              sessionStorage.setItem('sessionID', response.data.id)
+              sessionStorage.setItem('sessionCreated', true)
+              console.log('new session created' + sessionStorage.getItem('sessionID'))
+            });
+        }
     }
 
     jumpVideo(time, abs=false){
+        console.log("here");
         if(abs){
             this.player.seekTo(time);
         }
         else{
             this.player.seekTo(this.state.playedSeconds + time);
         }
+        // this.setState({playing: tru  e});
        
     }
 
     onTimeChange(event, value) {
         const newTime = value.replace(/-/g, ':');
         const time = newTime.substr(0, 5);
-        console.log(newTime, time);
     
         this.setState({time});
     }
+
+    _onPause = () =>{
+        console.log(sessionStorage.getItem('sessionID'))
+        axios.post('http://ec2-52-79-233-144.ap-northeast-2.compute.amazonaws.com:8000/backend/sessions/'+sessionStorage.getItem('sessionID')+'/add_pause/', {
+            time: formatTime(this.state.playedSeconds)
+        }).then((response) => {
+            
+            console.log('pause edded' + sessionStorage.getItem('sessionID'), response)
+          });
+
+    }
+
     handleKey = (key) => {
-        console.log(key, this.state.time);
+        const [current_idx, current_mid_idx] = this.align_segment();
+        this.setState({current_idx: current_idx, current_mid_idx: current_mid_idx});
+        const {scene_starts, mid_indexes, dynamic, current_level, speech, mid_contents} = this.state; 
         var time = deformatTime(this.state.time);
         switch (key) {
         case 'enter':
@@ -204,27 +227,28 @@ class Home extends Component {
         case 'tab':
             this.inspectFrame();
         }
-    }
-
-    inspectFrame() {
-        const {frame_indexes, frame_timestamps, playedSeconds} = this.state;
-        var curr = frame_timestamps[0], diff = Math.abs(playedSeconds - curr);
-        var index = 0;
-        for (var i = 0; i < frame_timestamps.length; i++) {
-            var newdiff = Math.abs(playedSeconds - frame_timestamps[i]);
-            if (newdiff < diff) {
-                diff = newdiff;
-                curr = frame_timestamps[i];
-                index = i;
+        var new_idx;
+        if(current_level === 1){
+            switch (key) {
+            case 'left':
+                new_idx = current_idx <= 0? 0 : current_idx-1;
+                var time = scene_starts[mid_indexes[new_idx]];
+                this.jumpVideo(time, true);
+                break;
+            case 'right':
+                new_idx = current_idx === len? current_idx : current_idx+1;
+                var len = mid_indexes.length;
+                var time = scene_starts[mid_indexes[new_idx]];
+                
+                this.jumpVideo(time, true);
+                break;
+            case 'down':
+                this.setState({current_level: 0});
+                return;
             }
-        }
-        var closest_frame_index = frame_indexes[index];
-        var json = require('../frames_data.json');
-        var objects = json[closest_frame_index]['objects'];
-        console.log("here", objects);
-        if (!Object.keys(objects).length){
-            this.state.speech.speak({
-                text: "No object detected"
+            speech.cancel();
+            speech.speak({
+                text: mid_contents[new_idx].toString()
             }).then(() => {
                 console.log("Success !")
             }).catch(e => {
@@ -232,69 +256,165 @@ class Home extends Component {
             })
         }
         else{
-            var object_info =  ''
-            for (var object in objects) {
-                object_info = '  ' + object_info + object + '   width' + (Math.floor(objects[object]['width']*100/1920)).toString() + ' %' + ' height' + (Math.floor(objects[object]['height']*100/1080)).toString() + ' % at';
-                var x = objects[object]['left_x'] + objects[object]['width']/2;
-                var y = objects[object]['top_y'] + objects[object]['height']/2;
-                if (y<360){
-                    object_info = object_info + ' top'
-                }
-                else if (y<720){
-                    if (x<1280){
-                        object_info = object_info + 'center'
-                        continue;
-                    }
-                    object_info = object_info + ' middle'
-                }
-                else{
-                    object_info = object_info + ' bottom'
-                }
-
-                if (x<640){
-                    object_info = object_info + 'left'
-                }
-                else if (x<1280){
-                    object_info = object_info + 'middle'
-                }
-                else{
-                    object_info = object_info + 'right'
-                }
+            switch (key) {
+            case 'left':
+                new_idx = current_idx-1;
+                var time = scene_starts[new_idx];
+                speech.cancel();
+                speech.speak({
+                    text: "Go back" + Math.round(scene_starts[current_idx] - time).toString() +"seconds"
+                }).then(() => {
+                    console.log("Success !")
+                }).catch(e => {
+                    console.error("An error occurred :", e)
+                })
+                this.jumpVideo(time, true);
+                break;
+            case 'right':
+                new_idx = current_idx + 1;
+                var time = scene_starts[new_idx];
+                speech.cancel();
+                speech.speak({
+                    text: "Skipped" + Math.round(time - scene_starts[current_idx]).toString() + "seconds"
+                }).then(() => {
+                    console.log("Success !")
+                }).catch(e => {
+                    console.error("An error occurred :", e)
+                })
+                speech.speak({
+                    text: dynamic[new_idx].toString()
+                }).then(() => {
+                    console.log("Success !")
+                }).catch(e => {
+                    console.error("An error occurred :", e)
+                })
+                this.jumpVideo(time, true);
+                break;
+            case 'up':
+                this.setState({current_level: 1});
+                return;
             }
-        
-            // this.state.speech.speak({
-            //     text: "Detected" + object_info
-            // }).then(() => {
-            //     console.log("Success !")
-            // }).catch(e => {
-            //     console.error("An error occurred :", e)
-            // })
-            this.state.speech.speak({
-                text: "Detected: Teacher Monica. On the left of screen. Banana plant. On the right to the Teacher Monica. Size is similar to the teacher monica."
+        }
+    }
+
+    align_segment() {
+        var {playedSeconds, scene_starts, mid_indexes} = this.state;
+        var time = Math.round(playedSeconds);
+        time = !time ? 0 : time;
+        var closest_past = Math.max.apply(Math, scene_starts.filter(function(x, index){return x <= time}));
+        var closest_index = scene_starts.findIndex( x => x == closest_past );
+        var closest_mid_past = Math.max.apply(Math, mid_indexes.filter(function(x){return x <= closest_index + 1}));
+        var closest_mid_index = mid_indexes.findIndex( x => x == closest_mid_past );
+        console.log(closest_mid_past,  closest_mid_index);
+        closest_index = closest_index < 0? 0 : closest_index;
+        closest_mid_index = closest_mid_index < 0? 0: closest_mid_index;
+        return [closest_index, closest_mid_index];
+      }
+
+    inspectFrame() {
+        const {videoID, current_idx, speech} = this.state;
+        var json = require('../' + videoID + '.json');
+        var scene = json[current_idx];
+        var object;
+        if (scene['texts']){
+            speech.cancel();
+            console.log(scene['texts'])
+            speech.speak({
+                text: "Detected text" + scene['texts'].join(', ')
             }).then(() => {
                 console.log("Success !")
             }).catch(e => {
                 console.error("An error occurred :", e)
             })
-            // this.state.speech.speak({
-            //     text: "Detected 7 books. Book 1. Bintou's braids. On the cover, are the birds and a girl. Book 2. The amazing octupus. Book 3. Plant. On the covr is a sunflower. Book 4. Penguin. On the cover is a penguin head. " 
-            // }).then(() => {
-            //     console.log("Success !")
-            // }).catch(e => {
-            //     console.error("An error occurred :", e)
-            // })
         }
+        if (scene['objects']){
+            speech.cancel();
+            for(var object_key in scene['objects']){
+                object = scene['objects'][object_key];
+                speech.speak({
+                    text: "Detected" + object_key + 'on' + object['pos'] + 'size' + object['size']
+                }).then(() => {
+                    console.log("Success !")
+                }).catch(e => {
+                    console.error("An error occurred :", e)
+                })
+            }
+        }
+        else if(scene['labels']){
+            for(object in scene['labels']){
+                speech.speak({
+                    text: "This frame may contain" + object['labels'].join(', ')
+                }).then(() => {
+                    console.log("Success !")
+                }).catch(e => {
+                    console.error("An error occurred :", e)
+                })
+            }
+        }
+        else{
+            speech.speak({
+                text: "Nothing detected"
+            }).then(() => {
+                console.log("Success !")
+            }).catch(e => {
+                console.error("An error occurred :", e)
+            })
+        } 
+
+
+        // const {videoID, frame_timestamps, playedSeconds, speech} = this.state;
+        // var curr = frame_timestamps[0], diff = Math.abs(playedSeconds - curr);
+        // var index = 0;
+        // for (var i = 0; i < frame_timestamps.length; i++) {
+        //     var newdiff = Math.abs(playedSeconds - frame_timestamps[i]);
+        //     if (newdiff < diff) {
+        //         diff = newdiff;
+        //         curr = frame_timestamps[i];
+        //         index = i;
+        //     }
+        // }
+        // var closest_frame_index = frame_indexes[index];
+        // var json = require('../frames_data.json');
+        // var objects = json[closest_frame_index]['objects'];
+        // console.log("here", objects);
+        // if (!Object.keys(objects).length){
+        //     speech.cancel();
+        //     speech.speak({
+        //         text: "No object detected"
+        //     }).then(() => {
+        //         console.log("Success !")
+        //     }).catch(e => {
+        //         console.error("An error occurred :", e)
+        //     })
+        // }
+        // else{
+        //     var object_info =  ''
+        //     for (var object in objects) {
+        //         object_info = '  ' + object_info + object + '   width' + (Math.floor(objects[object]['width']*100/1920)).toString() + ' %' + ' height' + (Math.floor(objects[object]['height']*100/1080)).toString() + ' % at';
+        //         var x = objects[object]['left_x'] + objects[object]['width']/2;
+        //         var y = objects[object]['top_y'] + objects[object]['height']/2;
+                
+        //     }
+        //     speech.cancel();
+        //     speech.speak({
+        //         text: "Detected" + object_info
+        //     }).then(() => {
+        //         console.log("Success !")
+        //     }).catch(e => {
+        //         console.error("An error occurred :", e)
+        //     })
+        // }
     }
     
     
     
     render() {
-        const { videoID, playing, playbackRate, listening, transcript, } = this.state;
-
+        const { videoID, playing, playbackRate, listening, transcript} = this.state;
+        const [current_idx, current_mid_idx] = this.align_segment();
         return (
             <div className="Home">
                 <KeyboardEventHandler
-                    handleKeys={['space', 'tab']}
+                    handleKeys={['space', 'tab', 'left', 'up', 'right', 'down']}
                     onKeyEvent={(key, e) => this.handleKey(key)}>
                 </KeyboardEventHandler>
                 <div className="header-bar">
@@ -321,9 +441,8 @@ class Home extends Component {
                         <Divider />
                         {clips.map((clip, index) => (
                             <div key={index}>
-                            <Button style={{ fontSize: '12px', width: '100%', paddingTop: '10%', paddingBottom: '12%' }} key={clip}
+                            <Button style={{ fontSize: '15px', width: '100%', paddingTop: '10%', paddingBottom: '12%' }} key={clip}
                                 onClick={() => this.handleSubmit(clip.videoID)}>
-                                <img src={clip.image} style={{width: '70%', height: '70%', }} />
                                 <div style={{ position: 'absolute' }}>
                                 {clip.title}
                                 </div>
@@ -352,21 +471,6 @@ class Home extends Component {
                             onSeek={this._onSeek}>
                         </ReactPlayer>
                     </Row>
-                    <div className="container-wrapper">
-                        <div className="container-transcript">
-                            {!listening? <div className="sys-instruction">Click below to start talking!</div> :
-                            transcript? <div className="sys-instruction">You said: </div>
-                            : <Blink color='black' text='Say something to the system!' fontSize='70'/> }
-                            <div className="text-option">
-                            {transcript}
-                            </div>
-                            <br/>
-                            <Clickable  className="voice-button" onClick={this.onListenHandler}>
-                                {listening? <div className="voice-command">"Stop Talking"</div>
-                                :<div className="voice-command">"Start Talking"</div>}
-                            </Clickable>
-                        </div>
-                    </div>
                 </div>
                 <div className="split-right" >
                     <KeyboardEventHandler
@@ -388,9 +492,9 @@ class Home extends Component {
                 </div>    
                 </Container>
                 <Container className="lower-page">
-
+                
                 <Timeline   videoTime={this.state.playedSeconds} duration={this.state.duration} ></Timeline>
-                <Segments videoID={this.state.videoID} videoTime={this.state.playedSeconds} jumpVideo = {this.jumpVideo} starts =  {this.state.starts} contents = {this.state.contents} mid_indexes = {this.state.mid_indexes} mid_contents = {this.state.mid_contents} entered_time = {this.state.entered_time} dynamic = {this.state.dynamic}></Segments>
+                <Segments videoID={this.state.videoID} scene_starts =  {this.state.scene_starts} scene_labels = {this.state.scene_labels} current_idx = {current_idx} current_mid_idx={current_mid_idx} mid_indexes = {this.state.mid_indexes} mid_contents = {this.state.mid_contents} entered_time = {this.state.entered_time} dynamic = {this.state.dynamic}></Segments>
                 </Container>
             </div>
         )

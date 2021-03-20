@@ -1,974 +1,2183 @@
 [
-  {
-    "content": "[Bus honking]", 
-    "end": 2, 
-    "index": 1, 
-    "start": 0
-  }, 
-  {
-    "content": "Scientists, are you ready for a virtual field trip from sunny Los Angeles?", 
-    "end": 7, 
-    "index": 2, 
-    "start": 2
-  }, 
-  {
-    "content": "Let's go to the California Science Center! ", 
-    "end": 10, 
-    "index": 3, 
-    "start": 7
-  }, 
-  {
-    "content": "[Children cheering]", 
-    "end": 11, 
-    "index": 4, 
-    "start": 10
-  }, 
-  {
-    "content": "[Children cheering] With your hosts", 
-    "end": 12, 
-    "index": 5, 
-    "start": 11
-  }, 
-  {
-    "content": "Mariela", 
-    "end": 16, 
-    "index": 6, 
-    "start": 15
-  }, 
-  {
-    "content": "and Monica", 
-    "end": 21, 
-    "index": 7, 
-    "start": 20
-  }, 
-  {
-    "content": "with a special appearance from", 
-    "end": 25, 
-    "index": 8, 
-    "start": 24
-  }, 
-  {
-    "content": "Crystal Gentle!", 
-    "end": 31, 
-    "index": 9, 
-    "start": 28
-  }, 
-  {
-    "content": "Let's go to the California Science Center! ", 
-    "end": 35, 
-    "index": 10, 
-    "start": 33
-  }, 
-  {
-    "content": "[Children cheering]", 
-    "end": 39, 
-    "index": 11, 
-    "start": 35
-  }, 
-  {
-    "content": "Hi scientists, welcome to Virtual Field Trips at the California Science Center!", 
-    "end": 44, 
-    "index": 12, 
-    "start": 40
-  }, 
-  {
-    "content": "Before we get started,there are a few things we need to go over. ", 
-    "end": 46, 
-    "index": 13, 
-    "start": 44
-  }, 
-  {
-    "content": "[Music]", 
-    "end": 57, 
-    "index": 14, 
-    "start": 46
-  }, 
-  {
-    "content": "All Virtual Field Trips will have a Question of the Day and today's question is...", 
-    "end": 61, 
-    "index": 15, 
-    "start": 57
-  }, 
-  {
-    "content": "[Computer beeping] How do parents make sure their babies stay alive?", 
-    "end": 65, 
-    "index": 16, 
-    "start": 61
-  }, 
-  {
-    "content": "Pause the video now to write down the Question of the Day in your notebooks and don't forget", 
-    "end": 70, 
-    "index": 17, 
-    "start": 66
-  }, 
-  {
-    "content": "to write or draw things you observe in the video to help you answer the question.", 
-    "end": 74, 
-    "index": 18, 
-    "start": 70
-  }, 
-  {
-    "content": "[Music]", 
-    "end": 81, 
-    "index": 19, 
-    "start": 74
-  }, 
-  {
-    "content": "All Virtual Field Trips will also have a buzzword!", 
-    "end": 84, 
-    "index": 20, 
-    "start": 81
-  }, 
-  {
-    "content": "Today's buzzword is...", 
-    "end": 86, 
-    "index": 21, 
-    "start": 84
-  }, 
-  {
-    "content": "[Magical sound]", 
-    "end": 87, 
-    "index": 22, 
-    "start": 86
-  }, 
-  {
-    "content": "Pattern! ", 
-    "end": 88, 
-    "index": 23, 
-    "start": 87
-  }, 
-  {
-    "content": "Anytime you hear this word, be sure to makecheck marks or tally marks somewhere in your notebook", 
-    "end": 94, 
-    "index": 24, 
-    "start": 89
-  }, 
-  {
-    "content": "to keep track of how many times you hear the buzzword!   ", 
-    "end": 97, 
-    "index": 25, 
-    "start": 94
-  }, 
-  {
-    "content": "Before I forget, there may be times when we ask youto pause to think about a question.", 
-    "end": 103, 
-    "index": 26, 
-    "start": 97
-  }, 
-  {
-    "content": "You'll see this sign and hear this sound [Ding]to remind you to pause.", 
-    "end": 107, 
-    "index": 27, 
-    "start": 103
-  }, 
-  {
-    "content": "Okay, I think we're ready for a Virtual Field Trip. Let's go!", 
-    "end": 112, 
-    "index": 28, 
-    "start": 108
-  }, 
-  {
-    "content": "[Music]", 
-    "end": 120, 
-    "index": 29, 
-    "start": 115
-  }, 
-  {
-    "content": "Scientists, I wanted to start here in this library to show some books that I've been reading.  ", 
-    "end": 125, 
-    "index": 30, 
-    "start": 121
-  }, 
-  {
-    "content": "If you notice, they are about plants and animals. In science, scientists are always looking for ", 
-    "end": 133, 
-    "index": 31, 
-    "start": 126
-  }, 
-  {
-    "content": "patterns around them to understand what is going on,like patterns on leaves, in sunsets and sunrises,", 
-    "end": 144, 
-    "index": 32, 
-    "start": 133
-  }, 
-  {
-    "content": "and between adult dogs and their babies! We don't just look for patterns and colors or numbers,", 
-    "end": 151, 
-    "index": 33, 
-    "start": 145
-  }, 
-  {
-    "content": "but we use patterns to understand how things work. I've been learning about parents and baby plants and animals,  ", 
-    "end": 158, 
-    "index": 34, 
-    "start": 151
-  }, 
-  {
-    "content": "and in my books, I'm noticing patterns! The baby plant or animal have some way that they look similar to their parents!", 
-    "end": 166, 
-    "index": 35, 
-    "start": 158
-  }, 
-  {
-    "content": "All this reading has me wondering if the California Science Center has parents and babies we can see.", 
-    "end": 172, 
-    "index": 36, 
-    "start": 166
-  }, 
-  {
-    "content": "I know a place we can explore our question. Let's go! ", 
-    "end": 176, 
-    "index": 37, 
-    "start": 172
-  }, 
-  {
-    "content": "Now I'm guessing that when you heard the words 'parent' and 'baby',  ", 
-    "end": 181, 
-    "index": 38, 
-    "start": 177
-  }, 
-  {
-    "content": "you begin to think about animals and their cute babies! But my first thought brought us here  ", 
-    "end": 186, 
-    "index": 39, 
-    "start": 181
-  }, 
-  {
-    "content": "to the greenhouse at the California Science Center.", 
-    "end": 190, 
-    "index": 40, 
-    "start": 187
-  }, 
-  {
-    "content": "Now, this place is special because not everybody can come here, but this greenhouse is where  ", 
-    "end": 201, 
-    "index": 41, 
-    "start": 196
-  }, 
-  {
-    "content": "scientists are making sure that plants are getting what they need to survive. ", 
-    "end": 204, 
-    "index": 42, 
-    "start": 201
-  }, 
-  {
-    "content": "Many of the plants that start here are very small. They are baby plants!  ", 
-    "end": 209, 
-    "index": 43, 
-    "start": 205
-  }, 
-  {
-    "content": "The California Science Center is growing these plants to add to our exhibits.  ", 
-    "end": 213, 
-    "index": 44, 
-    "start": 209
-  }, 
-  {
-    "content": "Let's take a closer look at this dwarf banana plant.I know it may look big, but this plant is a baby or young plant.", 
-    "end": 222, 
-    "index": 45, 
-    "start": 215
-  }, 
-  {
-    "content": "What are some things that you notice?Are all the colors on the plant the same? ", 
-    "end": 227, 
-    "index": 46, 
-    "start": 223
-  }, 
-  {
-    "content": "What about the shape of the leaves? How do these compare to other leaves you've seen? ", 
-    "end": 232, 
-    "index": 47, 
-    "start": 228
-  }, 
-  {
-    "content": "I wonder how long the leaves are? Maybe we can measure them. ", 
-    "end": 238, 
-    "index": 48, 
-    "start": 234
-  }, 
-  {
-    "content": "Oh, this one is 12 inches long!", 
-    "end": 242, 
-    "index": 49, 
-    "start": 239
-  }, 
-  {
-    "content": "What about the size of the plant? Maybe we can measure that as well.", 
-    "end": 247, 
-    "index": 50, 
-    "start": 244
-  }, 
-  {
-    "content": "Wow, it measures 26 inches high!", 
-    "end": 253, 
-    "index": 51, 
-    "start": 249
-  }, 
-  {
-    "content": "Let's make some more observations and see what patterns we might find.", 
-    "end": 260, 
-    "index": 52, 
-    "start": 256
-  }, 
-  {
-    "content": "Let's keep in mind we saw here and see if we can noticepatterns of things it has in common with the older plant.  ", 
-    "end": 266, 
-    "index": 53, 
-    "start": 260
-  }, 
-  {
-    "content": "Scientists, are you wondering what that young dwarf banana plant looks like as an adult? ", 
-    "end": 273, 
-    "index": 54, 
-    "start": 269
-  }, 
-  {
-    "content": "Follow me this way!", 
-    "end": 275, 
-    "index": 55, 
-    "start": 274
-  }, 
-  {
-    "content": "Ah, here it is! This is what the baby plant will look like as an adult. ", 
-    "end": 283, 
-    "index": 56, 
-    "start": 278
-  }, 
-  {
-    "content": "What are some things you notice with the adult plant?", 
-    "end": 287, 
-    "index": 57, 
-    "start": 284
-  }, 
-  {
-    "content": "What is that growing on it? ", 
-    "end": 295, 
-    "index": 58, 
-    "start": 293
-  }, 
-  {
-    "content": "Are all the colors the same?", 
-    "end": 301, 
-    "index": 59, 
-    "start": 299
-  }, 
-  {
-    "content": "Let's start with the leaves like we did with the baby.Let's measure the leaves on this adult plant.  ", 
-    "end": 310, 
-    "index": 60, 
-    "start": 305
-  }, 
-  {
-    "content": "Wow, 24 inches long!  ", 
-    "end": 314, 
-    "index": 61, 
-    "start": 311
-  }, 
-  {
-    "content": "The leaves of the adult are about as large as the entire baby dwarf banana plant!  ", 
-    "end": 320, 
-    "index": 62, 
-    "start": 315
-  }, 
-  {
-    "content": "I wonder how tall this adult plant is? ", 
-    "end": 325, 
-    "index": 63, 
-    "start": 322
-  }, 
-  {
-    "content": "Oh it's 52 inches tall, much taller than the baby plant!  ", 
-    "end": 331, 
-    "index": 64, 
-    "start": 327
-  }, 
-  {
-    "content": "Now that we have both plants side by side, what are some patterns that you notice?", 
-    "end": 337, 
-    "index": 65, 
-    "start": 333
-  }, 
-  {
-    "content": "What do these two plants have in common?", 
-    "end": 343, 
-    "index": 66, 
-    "start": 341
-  }, 
-  {
-    "content": "Does the baby plant look like the parent plant?  ", 
-    "end": 351, 
-    "index": 67, 
-    "start": 347
-  }, 
-  {
-    "content": "Wow scientists, I noticed so many patterns between the baby and parent plants. ", 
-    "end": 358, 
-    "index": 68, 
-    "start": 353
-  }, 
-  {
-    "content": "I wonder if we could find patterns in animals? I know an animal we can observe. Let's go!  ", 
-    "end": 364, 
-    "index": 69, 
-    "start": 358
-  }, 
-  {
-    "content": "Scientists, here we have the next parent we're going to observe.  ", 
-    "end": 369, 
-    "index": 70, 
-    "start": 365
-  }, 
-  {
-    "content": "This is an anole lizard. Let's make some observations of this parent. ", 
-    "end": 373, 
-    "index": 71, 
-    "start": 369
-  }, 
-  {
-    "content": "What do you notice? What color are the anoles? ", 
-    "end": 378, 
-    "index": 72, 
-    "start": 374
-  }, 
-  {
-    "content": "I wonder how long these adult anoles are?", 
-    "end": 383, 
-    "index": 73, 
-    "start": 381
-  }, 
-  {
-    "content": "Oh, they're about 10 inches long!", 
-    "end": 387, 
-    "index": 74, 
-    "start": 385
-  }, 
-  {
-    "content": "What do you notice about their tails? ", 
-    "end": 392, 
-    "index": 75, 
-    "start": 390
-  }, 
-  {
-    "content": "Remember, we want to find patterns between  the parent and babies and since we haven't seen the baby anole, ", 
-    "end": 402, 
-    "index": 76, 
-    "start": 395
-  }, 
-  {
-    "content": "we need to make those observations of this parent and notice as many details as we can.  ", 
-    "end": 407, 
-    "index": 77, 
-    "start": 402
-  }, 
-  {
-    "content": "I have a surprise, scientist! I'm going to take you behind the scenes again  ", 
-    "end": 415, 
-    "index": 78, 
-    "start": 411
-  }, 
-  {
-    "content": "to find the baby anoles! Let's go!  ", 
-    "end": 418, 
-    "index": 79, 
-    "start": 415
-  }, 
-  {
-    "content": "This is a baby anole. What do you see? Remember, we want to find patterns,  ", 
-    "end": 425, 
-    "index": 80, 
-    "start": 419
-  }, 
-  {
-    "content": "ways that the babies are similar to the parents. Let's measure it! ", 
-    "end": 429, 
-    "index": 81, 
-    "start": 425
-  }, 
-  {
-    "content": "Wow, this one is about four to six inches long!  ", 
-    "end": 433, 
-    "index": 82, 
-    "start": 430
-  }, 
-  {
-    "content": "What color are these baby anoles? Do their bodies look like their parents?  ", 
-    "end": 440, 
-    "index": 83, 
-    "start": 434
-  }, 
-  {
-    "content": "I'm starting to see how baby plants and animals are similar to their parents. I'm thinking we can catch up with someone else  ", 
-    "end": 448, 
-    "index": 84, 
-    "start": 441
-  }, 
-  {
-    "content": "that can help us find more parents and babies here at the California Science Center.", 
-    "end": 451, 
-    "index": 85, 
-    "start": 448
-  }, 
-  {
-    "content": "[Music]", 
-    "end": 460, 
-    "index": 86, 
-    "start": 453
-  }, 
-  {
-    "content": "Hi, I'm Crystal! I'm one of the aquarists here at the California Science Center. We're currently in front of our Kelp Forest exhibit", 
-    "end": 466, 
-    "index": 87, 
-    "start": 460
-  }, 
-  {
-    "content": "and I'm here to tell you about baby fish, or what scientists like to call a 'juvenile fish', and their parents and see how similar or how different they are!", 
-    "end": 474, 
-    "index": 88, 
-    "start": 466
-  }, 
-  {
-    "content": "In the ocean, there are lots of animals that lay eggs and from some of those eggs we can get baby fish ", 
-    "end": 480, 
-    "index": 89, 
-    "start": 474
-  }, 
-  {
-    "content": "that can look very different from their parents.  ", 
-    "end": 482, 
-    "index": 90, 
-    "start": 480
-  }, 
-  {
-    "content": "Then there are some fish that give live birth, just like our pile surfperch!", 
-    "end": 487, 
-    "index": 91, 
-    "start": 482
-  }, 
-  {
-    "content": "Those baby fish look like mini copies of their parents and, unlike humans who take care of their babies,", 
-    "end": 496, 
-    "index": 92, 
-    "start": 490
-  }, 
-  {
-    "content": "surfperch fish do not. Once the babies are born, they have to learn to live on their own. ", 
-    "end": 501, 
-    "index": 93, 
-    "start": 496
-  }, 
-  {
-    "content": "In order to protect our surfperch babies here at the California Science Center from predators in our kelp forest, ", 
-    "end": 506, 
-    "index": 94, 
-    "start": 501
-  }, 
-  {
-    "content": "we separate the babies into smaller tanks where we feed them and watch over them", 
-    "end": 511, 
-    "index": 95, 
-    "start": 506
-  }, 
-  {
-    "content": "until they're old enough, and big enough, to join the other fish in our Kelp Forest exhibit.  ", 
-    "end": 515, 
-    "index": 96, 
-    "start": 511
-  }, 
-  {
-    "content": "What are some patterns you notice between the baby and the adult pile perch?  ", 
-    "end": 521, 
-    "index": 97, 
-    "start": 517
-  }, 
-  {
-    "content": "Now what are some other patterns you notice between these babies and the adults?", 
-    "end": 532, 
-    "index": 98, 
-    "start": 527
-  }, 
-  {
-    "content": "Thank you for joining me today on our Science Talk about baby fish! I hope to see you around!", 
-    "end": 546, 
-    "index": 99, 
-    "start": 540
-  }, 
-  {
-    "content": "[Music]", 
-    "end": 554, 
-    "index": 100, 
-    "start": 546
-  }, 
-  {
-    "content": "Hi scientists! Today, we are going to sing a song with some of my friends!  ", 
-    "end": 558, 
-    "index": 101, 
-    "start": 554
-  }, 
-  {
-    "content": "Let me introduce you to them. These are the Science Songbirds!", 
-    "end": 563, 
-    "index": 102, 
-    "start": 558
-  }, 
-  {
-    "content": "[Birds chirping]", 
-    "end": 565, 
-    "index": 103, 
-    "start": 563
-  }, 
-  {
-    "content": "They want to share a song about parents and their offspring, or babies!   ", 
-    "end": 571, 
-    "index": 104, 
-    "start": 566
-  }, 
-  {
-    "content": "Some animals take great care of their babies, while other animal babies don't even need their mom or dad.", 
-    "end": 578, 
-    "index": 105, 
-    "start": 571
-  }, 
-  {
-    "content": "There are lots of ways animals might take care of their babies. Let's look at some animals and see if we can figure out how!  ", 
-    "end": 586, 
-    "index": 106, 
-    "start": 578
-  }, 
-  {
-    "content": "What do you see in this picture?How is the mother dog caring for her puppies?  ", 
-    "end": 592, 
-    "index": 107, 
-    "start": 588
-  }, 
-  {
-    "content": "How about this? Do you see the baby birds with their mouths open? What is their mother doing?  ", 
-    "end": 599, 
-    "index": 108, 
-    "start": 593
-  }, 
-  {
-    "content": "What about this mouse and its baby?Can you see what's happening?  ", 
-    "end": 604, 
-    "index": 109, 
-    "start": 600
-  }, 
-  {
-    "content": "So what do all these pictures have in common? The parents are feeding their babies!  ", 
-    "end": 609, 
-    "index": 110, 
-    "start": 604
-  }, 
-  {
-    "content": "Scientists call babies 'offspring' and here to teach us a song about parents and their offspring  ", 
-    "end": 614, 
-    "index": 111, 
-    "start": 609
-  }, 
-  {
-    "content": "are our very own Science Songbirds!Listen to the Science Songbirds and try to sing along!   ", 
-    "end": 621, 
-    "index": 112, 
-    "start": 614
-  }, 
-  {
-    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring. \u266a", 
-    "end": 629, 
-    "index": 113, 
-    "start": 621
-  }, 
-  {
-    "content": "\u266a They give them food to eat. They give them food to eat, they give them food to eat. \u266a   ", 
-    "end": 636, 
-    "index": 114, 
-    "start": 630
-  }, 
-  {
-    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a", 
-    "end": 644, 
-    "index": 115, 
-    "start": 636
-  }, 
-  {
-    "content": "\u266a They give them food to eat \u266a", 
-    "end": 647, 
-    "index": 116, 
-    "start": 645
-  }, 
-  {
-    "content": "Great job! Now let's look at some more animals taking care of their offspring.  ", 
-    "end": 654, 
-    "index": 117, 
-    "start": 649
-  }, 
-  {
-    "content": "Look carefully! What do you see in this picture? ", 
-    "end": 658, 
-    "index": 118, 
-    "start": 654
-  }, 
-  {
-    "content": "How about these elephants? Can you see howthey're gathering around the baby? Why do they do that?", 
-    "end": 664, 
-    "index": 119, 
-    "start": 658
-  }, 
-  {
-    "content": "This bird is called a killdeer. Can you see how it's protecting its eggs?  ", 
-    "end": 671, 
-    "index": 120, 
-    "start": 667
-  }, 
-  {
-    "content": "How are all these parents in the pictures taking care of their babies? They are keeping them safe.", 
-    "end": 677, 
-    "index": 121, 
-    "start": 671
-  }, 
-  {
-    "content": "Parents take care of their offspring by protecting them from danger.  ", 
-    "end": 683, 
-    "index": 122, 
-    "start": 679
-  }, 
-  {
-    "content": "Science Songbirds, do you have something to say about that? ", 
-    "end": 686, 
-    "index": 123, 
-    "start": 683
-  }, 
-  {
-    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
-    "end": 693, 
-    "index": 124, 
-    "start": 686
-  }, 
-  {
-    "content": "\u266a Protect them from danger, protect them from danger, protect them from danger \u266a   ", 
-    "end": 702, 
-    "index": 125, 
-    "start": 695
-  }, 
-  {
-    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
-    "end": 708, 
-    "index": 126, 
-    "start": 702
-  }, 
-  {
-    "content": "\u266a Protect them from danger. \u266a   ", 
-    "end": 712, 
-    "index": 127, 
-    "start": 710
-  }, 
-  {
-    "content": "Beautiful! Now, let's take a look at a few more animal families!", 
-    "end": 718, 
-    "index": 128, 
-    "start": 713
-  }, 
-  {
-    "content": "Look at this mama bear and her cub. What is the cub doing? Is he trying to climb over the log?  ", 
-    "end": 727, 
-    "index": 129, 
-    "start": 719
-  }, 
-  {
-    "content": "What do you think his mother is doing?  ", 
-    "end": 730, 
-    "index": 130, 
-    "start": 728
-  }, 
-  {
-    "content": "How about this moose? Do you think the baby knows how to cross the river on its own?  ", 
-    "end": 736, 
-    "index": 131, 
-    "start": 731
-  }, 
-  {
-    "content": "Parents teach their babies many skills they need to survive.", 
-    "end": 742, 
-    "index": 132, 
-    "start": 738
-  }, 
-  {
-    "content": "Take it away, Science Songbirds!", 
-    "end": 745, 
-    "index": 133, 
-    "start": 742
-  }, 
-  {
-    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
-    "end": 754, 
-    "index": 134, 
-    "start": 747
-  }, 
-  {
-    "content": "\u266a They teach them lots of skills, they teach them lots of skills, they teach them lots of skills. \u266a  ", 
-    "end": 762, 
-    "index": 135, 
-    "start": 755
-  }, 
-  {
-    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
-    "end": 769, 
-    "index": 136, 
-    "start": 762
-  }, 
-  {
-    "content": "\u266a They teach them lots of skills. \u266a  ", 
-    "end": 773, 
-    "index": 137, 
-    "start": 770
-  }, 
-  {
-    "content": "And last but not least, let's look at a few more animals! What do you see in these pictures?", 
-    "end": 781, 
-    "index": 138, 
-    "start": 774
-  }, 
-  {
-    "content": "All these babies are snuggling up with their mamas! Even wild animals show affection to their offspring,", 
-    "end": 793, 
-    "index": 139, 
-    "start": 784
-  }, 
-  {
-    "content": "hugging them, rubbing heads with them, playing with them, even cleaning them.  ", 
-    "end": 799, 
-    "index": 140, 
-    "start": 793
-  }, 
-  {
-    "content": "You know the song by now! Join the Science Songbirds for our last verse! ", 
-    "end": 806, 
-    "index": 141, 
-    "start": 800
-  }, 
-  {
-    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
-    "end": 813, 
-    "index": 142, 
-    "start": 806
-  }, 
-  {
-    "content": "\u266a They love them very much, they love them very much, they love them very much. \u266a ", 
-    "end": 821, 
-    "index": 143, 
-    "start": 815
-  }, 
-  {
-    "content": "\u266a Parents take care of their offspring, parents take care of their babies. Parents take care of their offspring, \u266a  ", 
-    "end": 828, 
-    "index": 144, 
-    "start": 821
-  }, 
-  {
-    "content": "\u266a They love them very much! \u266a  ", 
-    "end": 832, 
-    "index": 145, 
-    "start": 830
-  }, 
-  {
-    "content": "That was fun, scientists! Let's head back to the Discovery Room!", 
-    "end": 839, 
-    "index": 146, 
-    "start": 834
-  }, 
-  {
-    "content": "What a great field trip! Let's go over all the things that we did today! ", 
-    "end": 844, 
-    "index": 147, 
-    "start": 841
-  }, 
-  {
-    "content": "We started our field trip in a library to talk about patterns, ", 
-    "end": 848, 
-    "index": 148, 
-    "start": 844
-  }, 
-  {
-    "content": "then we visited the greenhouse to make observations of a young dwarf banana plant.", 
-    "end": 853, 
-    "index": 149, 
-    "start": 848
-  }, 
-  {
-    "content": "That led us to make observations of the parent plant and made side-by-side observations.", 
-    "end": 859, 
-    "index": 150, 
-    "start": 853
-  }, 
-  {
-    "content": "We then made observations of parent and baby anole lizards and found that both baby and parents look very similar! ", 
-    "end": 867, 
-    "index": 151, 
-    "start": 859
-  }, 
-  {
-    "content": "Finally we sing a song with Mariela and the Science Songbirdsabout how parents help their offspring survive!", 
-    "end": 873, 
-    "index": 152, 
-    "start": 867
-  }, 
-  {
-    "content": "Do you remember the Question of the Day?Can you use the buzzword to answer the Question of the Day?", 
-    "end": 880, 
-    "index": 153, 
-    "start": 874
-  }, 
-  {
-    "content": "[Ding] Pause the video now to try to answer theQuestion of the Day using the buzzword!", 
-    "end": 885, 
-    "index": 154, 
-    "start": 880
-  }, 
-  {
-    "content": "How do parents make sure their babies stay alive? ", 
-    "end": 888, 
-    "index": 155, 
-    "start": 885
-  }, 
-  {
-    "content": "Okay scientists, it's time to count our check marks.How many times did you hear the buzzword?  ", 
-    "end": 894, 
-    "index": 156, 
-    "start": 889
-  }, 
-  {
-    "content": "[Ding] Pause the video now to count your check marks or tally marks!", 
-    "end": 899, 
-    "index": 157, 
-    "start": 895
-  }, 
-  {
-    "content": "Drum roll please! And the answer is...  ", 
-    "end": 904, 
-    "index": 158, 
-    "start": 899
-  }, 
-  {
-    "content": "Drum roll please! And the answer is...  15!", 
-    "end": 905, 
-    "index": 159, 
-    "start": 904
-  }, 
-  {
-    "content": "We hope you had fun on this Virtual Field Trip at the California Science Center", 
-    "end": 909, 
-    "index": 160, 
-    "start": 906
-  }, 
-  {
-    "content": "and we look forward to seeing you next time!", 
-    "end": 911, 
-    "index": 161, 
-    "start": 909
-  }, 
-  {
-    "content": "For more Virtual Field Trip fun, visit our website!", 
-    "end": 922, 
-    "index": 162, 
-    "start": 917
-  }
+    {
+        "Scene Number": 1,
+        "Start Frame": 0,
+        "Start Timecode": "00:00:00.000",
+        "Start Time (seconds)": 0,
+        "End Frame": 66,
+        "End Timecode": "00:00:02.753",
+        "End Time (seconds)": 2.753,
+        "Length (frames)": 66,
+        "Length (timecode)": "00:00:02.753",
+        "Length (seconds)": 2.753,
+        "texts": [],
+        "objects": {
+            "Building": {
+                "pos": "center",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Sky",
+            "Building",
+            "Tree"
+        ]
+    },
+    {
+        "Scene Number": 2,
+        "Start Frame": 66,
+        "Start Timecode": "00:00:02.753",
+        "Start Time (seconds)": 2.753,
+        "End Frame": 136,
+        "End Timecode": "00:00:05.672",
+        "End Time (seconds)": 5.672,
+        "Length (frames)": 70,
+        "Length (timecode)": "00:00:02.920",
+        "Length (seconds)": 2.92,
+        "texts": [
+            "000",
+            "SCIENCE BUS"
+        ],
+        "objects": {
+            "Car": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Building": {
+                "pos": "middle left",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Sky",
+            "Plant",
+            "Motor vehicle"
+        ]
+    },
+    {
+        "Scene Number": 3,
+        "Start Frame": 136,
+        "Start Timecode": "00:00:05.672",
+        "Start Time (seconds)": 5.672,
+        "End Frame": 151,
+        "End Timecode": "00:00:06.298",
+        "End Time (seconds)": 6.298,
+        "Length (frames)": 15,
+        "Length (timecode)": "00:00:00.626",
+        "Length (seconds)": 0.626,
+        "texts": [
+            "000",
+            "SCIENCE BUS"
+        ],
+        "objects": {
+            "Car": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Building": {
+                "pos": "middle left",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Sky",
+            "Plant",
+            "Motor vehicle"
+        ]
+    },
+    {
+        "Scene Number": 4,
+        "Start Frame": 151,
+        "Start Timecode": "00:00:06.298",
+        "Start Time (seconds)": 6.298,
+        "End Frame": 312,
+        "End Timecode": "00:00:13.013",
+        "End Time (seconds)": 13.013,
+        "Length (frames)": 161,
+        "Length (timecode)": "00:00:06.715",
+        "Length (seconds)": 6.715,
+        "texts": [],
+        "objects": {
+            "Packaged goods": {
+                "pos": "middle right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Photograph",
+            "Light",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 5,
+        "Start Frame": 312,
+        "Start Timecode": "00:00:13.013",
+        "Start Time (seconds)": 13.013,
+        "End Frame": 571,
+        "End Timecode": "00:00:23.815",
+        "End Time (seconds)": 23.815,
+        "Length (frames)": 259,
+        "Length (timecode)": "00:00:10.802",
+        "Length (seconds)": 10.802,
+        "texts": [
+            "EXIT",
+            "Wastnds foams ofd",
+            "sience",
+            "LEAVING FOR ALL",
+            "MONICA",
+            "School Programs Coordinator"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Packaged goods": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Photograph",
+            "Smile",
+            "Light"
+        ]
+    },
+    {
+        "Scene Number": 6,
+        "Start Frame": 571,
+        "Start Timecode": "00:00:23.815",
+        "Start Time (seconds)": 23.815,
+        "End Frame": 625,
+        "End Timecode": "00:00:26.068",
+        "End Time (seconds)": 26.068,
+        "Length (frames)": 54,
+        "Length (timecode)": "00:00:02.252",
+        "Length (seconds)": 2.252,
+        "texts": [
+            "OO 0000",
+            "0000000O"
+        ],
+        "objects": {
+            "Animal": {
+                "pos": "bottom middle",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Vertebrate",
+            "Green",
+            "Light"
+        ]
+    },
+    {
+        "Scene Number": 7,
+        "Start Frame": 625,
+        "Start Timecode": "00:00:26.068",
+        "Start Time (seconds)": 26.068,
+        "End Frame": 768,
+        "End Timecode": "00:00:32.032",
+        "End Time (seconds)": 32.032,
+        "Length (frames)": 143,
+        "Length (timecode)": "00:00:05.964",
+        "Length (seconds)": 5.964,
+        "texts": [
+            "AC",
+            "eciaL GUEST",
+            "000 C"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Light",
+            "Green",
+            "Nature"
+        ]
+    },
+    {
+        "Scene Number": 8,
+        "Start Frame": 768,
+        "Start Timecode": "00:00:32.032",
+        "Start Time (seconds)": 32.032,
+        "End Frame": 958,
+        "End Timecode": "00:00:39.957",
+        "End Time (seconds)": 39.957,
+        "Length (frames)": 190,
+        "Length (timecode)": "00:00:07.925",
+        "Length (seconds)": 7.925,
+        "texts": [
+            "FAMILY",
+            "DISCOVERY ROOM",
+            "rare"
+        ],
+        "objects": {
+            "Door": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Light",
+            "Product",
+            "Interior design"
+        ]
+    },
+    {
+        "Scene Number": 9,
+        "Start Frame": 958,
+        "Start Timecode": "00:00:39.957",
+        "Start Time (seconds)": 39.957,
+        "End Frame": 1121,
+        "End Timecode": "00:00:46.755",
+        "End Time (seconds)": 46.755,
+        "Length (frames)": 163,
+        "Length (timecode)": "00:00:06.798",
+        "Length (seconds)": 6.798,
+        "texts": [
+            "science",
+            "LEARNING FOR ALL",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Top": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Smile",
+            "Picture frame",
+            "Sleeve"
+        ]
+    },
+    {
+        "Scene Number": 10,
+        "Start Frame": 1121,
+        "Start Timecode": "00:00:46.755",
+        "Start Time (seconds)": 46.755,
+        "End Frame": 1788,
+        "End Timecode": "00:01:14.575",
+        "End Time (seconds)": 74.575,
+        "Length (frames)": 667,
+        "Length (timecode)": "00:00:27.819",
+        "Length (seconds)": 27.819,
+        "texts": [
+            "How DO PARENTS MAKE SURE",
+            "THEIR BABIES STAY ALINE ?",
+            "science",
+            "LEARNING FOR ALL",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Top": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Packaged goods": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            }
+        },
+        "labels": [
+            "Window",
+            "Handwriting",
+            "Sleeve"
+        ]
+    },
+    {
+        "Scene Number": 11,
+        "Start Frame": 1788,
+        "Start Timecode": "00:01:14.575",
+        "Start Time (seconds)": 74.575,
+        "End Frame": 2328,
+        "End Timecode": "00:01:37.097",
+        "End Time (seconds)": 97.097,
+        "Length (frames)": 540,
+        "Length (timecode)": "00:00:22.522",
+        "Length (seconds)": 22.522,
+        "texts": [
+            "PATTERN",
+            "FARTINGFOR",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Top": {
+                "pos": "top right",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Smile",
+            "Picture frame"
+        ]
+    },
+    {
+        "Scene Number": 12,
+        "Start Frame": 2328,
+        "Start Timecode": "00:01:37.097",
+        "Start Time (seconds)": 97.097,
+        "End Frame": 2770,
+        "End Timecode": "00:01:55.532",
+        "End Time (seconds)": 115.532,
+        "Length (frames)": 442,
+        "Length (timecode)": "00:00:18.435",
+        "Length (seconds)": 18.435,
+        "texts": [
+            "fni,",
+            "science",
+            "LEARNING FOR ALL",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Top": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Shirt",
+            "Sleeve",
+            "T-shirt"
+        ]
+    },
+    {
+        "Scene Number": 13,
+        "Start Frame": 2770,
+        "Start Timecode": "00:01:55.532",
+        "Start Time (seconds)": 115.532,
+        "End Frame": 2985,
+        "End Timecode": "00:02:04.499",
+        "End Time (seconds)": 124.499,
+        "Length (frames)": 215,
+        "Length (timecode)": "00:00:08.967",
+        "Length (seconds)": 8.967,
+        "texts": [
+            "science",
+            "LEARNING FOR ALL",
+            "Bintou's",
+            "Plant Invaders",
+            "Braids",
+            "LANT",
+            "PLAN TS",
+            "PLAN E",
+            "a PENGUIN \u00aa",
+            "Sunflowers",
+            "3LOS SOMS",
+            "animalsanimale",
+            "La Mariposa",
+            "Salta y",
+            "brinca",
+            "California ScienCenter",
+            "Rabbits",
+            "Ellen Stoll Walsh",
+            "Francisco limenez",
+            "by Me a Stewart"
+        ],
+        "objects": {
+            "Top": {
+                "pos": "center",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            },
+            "Packaged goods": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Bookcase": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Bookcase",
+            "Photograph",
+            "Shelf"
+        ]
+    },
+    {
+        "Scene Number": 14,
+        "Start Frame": 2985,
+        "Start Timecode": "00:02:04.499",
+        "Start Time (seconds)": 124.499,
+        "End Frame": 3123,
+        "End Timecode": "00:02:10.255",
+        "End Time (seconds)": 130.255,
+        "Length (frames)": 138,
+        "Length (timecode)": "00:00:05.756",
+        "Length (seconds)": 5.756,
+        "texts": [
+            "Bra",
+            "Inseamer",
+            "ee an",
+            "PLANTS",
+            "PLANT LIFE",
+            "MATURAL WORLD",
+            "1 PENGUIN",
+            "HABITATS LIFE CYCLES FOOD CHAINS THRE",
+            "The",
+            "Amazing",
+            "Octopue",
+            "anin",
+            "La Mariposa",
+            "California ScienCenter",
+            "YAJINANXS PLNT"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Publication",
+            "Book",
+            "Material property"
+        ]
+    },
+    {
+        "Scene Number": 15,
+        "Start Frame": 3123,
+        "Start Timecode": "00:02:10.255",
+        "Start Time (seconds)": 130.255,
+        "End Frame": 3553,
+        "End Timecode": "00:02:28.190",
+        "End Time (seconds)": 148.19,
+        "Length (frames)": 430,
+        "Length (timecode)": "00:00:17.935",
+        "Length (seconds)": 17.935,
+        "texts": [
+            "science",
+            "LEARNING FOR ALL",
+            "Bintou's",
+            "Plant Invaders",
+            "Braids",
+            "LANT",
+            "PLAN TS",
+            "AN TE",
+            "a PENGUIN \u00bb",
+            "Sunflowers",
+            "3LOS SOMS",
+            "animalsanimala",
+            "La Mariposa",
+            "Salta y",
+            "brinca",
+            "California ScienCenter",
+            "Rabbits",
+            "Ellen Stoll Walsh",
+            "Francisco limenez",
+            "by Meaa Stewart"
+        ],
+        "objects": {
+            "Top": {
+                "pos": "center",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "medium"
+            },
+            "Packaged goods": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Bookcase": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Bookcase",
+            "Photograph",
+            "Shelf"
+        ]
+    },
+    {
+        "Scene Number": 16,
+        "Start Frame": 3553,
+        "Start Timecode": "00:02:28.190",
+        "Start Time (seconds)": 148.19,
+        "End Frame": 4224,
+        "End Timecode": "00:02:56.176",
+        "End Time (seconds)": 176.176,
+        "Length (frames)": 671,
+        "Length (timecode)": "00:00:27.986",
+        "Length (seconds)": 27.986,
+        "texts": [
+            "science",
+            "LEARNING FOR ALL",
+            "Bintou's",
+            "Plant Invaders",
+            "Braids",
+            "LANT",
+            "PLAN TS",
+            "LAN rE",
+            "a PENGUIN \u00bb",
+            "Sunflowers",
+            "3LOS SOMS",
+            "Pus",
+            "animalsanimals",
+            "La Mariposa",
+            "Salta y",
+            "brinca",
+            "California ScienCenter",
+            "Rabbits",
+            "Ellen Stoll Walsh",
+            "Francisco limenez",
+            "by MMaaa Stewart"
+        ],
+        "objects": {
+            "Top": {
+                "pos": "center",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            },
+            "Packaged goods": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Bookcase": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Bookcase",
+            "Photograph",
+            "Shelf"
+        ]
+    },
+    {
+        "Scene Number": 17,
+        "Start Frame": 4224,
+        "Start Timecode": "00:02:56.176",
+        "Start Time (seconds)": 176.176,
+        "End Frame": 4238,
+        "End Timecode": "00:02:56.760",
+        "End Time (seconds)": 176.76,
+        "Length (frames)": 14,
+        "Length (timecode)": "00:00:00.584",
+        "Length (seconds)": 0.584,
+        "texts": [],
+        "objects": {},
+        "labels": []
+    },
+    {
+        "Scene Number": 18,
+        "Start Frame": 4238,
+        "Start Timecode": "00:02:56.760",
+        "Start Time (seconds)": 176.76,
+        "End Frame": 4615,
+        "End Timecode": "00:03:12.484",
+        "End Time (seconds)": 192.484,
+        "Length (frames)": 377,
+        "Length (timecode)": "00:00:15.724",
+        "Length (seconds)": 15.724,
+        "texts": [
+            "LIVING COLLECTIONS-",
+            "RESTRICTED ACCESS",
+            "science",
+            "LEARNING FOR ALL",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Top": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Forehead",
+            "Cheek",
+            "Smile"
+        ]
+    },
+    {
+        "Scene Number": 19,
+        "Start Frame": 4615,
+        "Start Timecode": "00:03:12.484",
+        "Start Time (seconds)": 192.484,
+        "End Frame": 4709,
+        "End Timecode": "00:03:16.405",
+        "End Time (seconds)": 196.405,
+        "Length (frames)": 94,
+        "Length (timecode)": "00:00:03.921",
+        "Length (seconds)": 3.921,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {},
+        "labels": [
+            "Sky",
+            "Plant",
+            "Flowerpot"
+        ]
+    },
+    {
+        "Scene Number": 20,
+        "Start Frame": 4709,
+        "Start Timecode": "00:03:16.405",
+        "Start Time (seconds)": 196.405,
+        "End Frame": 4866,
+        "End Timecode": "00:03:22.953",
+        "End Time (seconds)": 202.953,
+        "Length (frames)": 157,
+        "Length (timecode)": "00:00:06.548",
+        "Length (seconds)": 6.548,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {},
+        "labels": [
+            "Plant",
+            "Houseplant",
+            "Terrestrial plant"
+        ]
+    },
+    {
+        "Scene Number": 21,
+        "Start Frame": 4866,
+        "Start Timecode": "00:03:22.953",
+        "Start Time (seconds)": 202.953,
+        "End Frame": 5137,
+        "End Timecode": "00:03:34.256",
+        "End Time (seconds)": 214.256,
+        "Length (frames)": 271,
+        "Length (timecode)": "00:00:11.303",
+        "Length (seconds)": 11.303,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Flowerpot": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Property",
+            "Flowerpot"
+        ]
+    },
+    {
+        "Scene Number": 22,
+        "Start Frame": 5137,
+        "Start Timecode": "00:03:34.256",
+        "Start Time (seconds)": 214.256,
+        "End Frame": 5339,
+        "End Timecode": "00:03:42.681",
+        "End Time (seconds)": 222.681,
+        "Length (frames)": 202,
+        "Length (timecode)": "00:00:08.425",
+        "Length (seconds)": 8.425,
+        "texts": [
+            "Colifornia ScienCenter",
+            "science",
+            "LEARNING CaliforniaScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "very large"
+            },
+            "Top": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Flowerpot": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Smile",
+            "White"
+        ]
+    },
+    {
+        "Scene Number": 23,
+        "Start Frame": 5339,
+        "Start Timecode": "00:03:42.681",
+        "Start Time (seconds)": 222.681,
+        "End Frame": 5659,
+        "End Timecode": "00:03:56.027",
+        "End Time (seconds)": 236.027,
+        "Length (frames)": 320,
+        "Length (timecode)": "00:00:13.347",
+        "Length (seconds)": 13.347,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Flowerpot": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Flowerpot",
+            "Houseplant"
+        ]
+    },
+    {
+        "Scene Number": 24,
+        "Start Frame": 5659,
+        "Start Timecode": "00:03:56.027",
+        "Start Time (seconds)": 236.027,
+        "End Frame": 5821,
+        "End Timecode": "00:04:02.784",
+        "End Time (seconds)": 242.784,
+        "Length (frames)": 162,
+        "Length (timecode)": "00:00:06.757",
+        "Length (seconds)": 6.757,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Flowerpot": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Houseplant": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Botany",
+            "Houseplant"
+        ]
+    },
+    {
+        "Scene Number": 25,
+        "Start Frame": 5821,
+        "Start Timecode": "00:04:02.784",
+        "Start Time (seconds)": 242.784,
+        "End Frame": 5918,
+        "End Timecode": "00:04:06.830",
+        "End Time (seconds)": 246.83,
+        "Length (frames)": 97,
+        "Length (timecode)": "00:00:04.046",
+        "Length (seconds)": 4.046,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Flowerpot": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Botany",
+            "Houseplant"
+        ]
+    },
+    {
+        "Scene Number": 26,
+        "Start Frame": 5918,
+        "Start Timecode": "00:04:06.830",
+        "Start Time (seconds)": 246.83,
+        "End Frame": 6128,
+        "End Timecode": "00:04:15.589",
+        "End Time (seconds)": 255.589,
+        "Length (frames)": 210,
+        "Length (timecode)": "00:00:08.759",
+        "Length (seconds)": 8.759,
+        "texts": [
+            "26 INCHES!",
+            "California ScienCenter",
+            "\u05d9\u05e8\u05d3\u05d3\u05d9\u05e8\u05d9"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Sky",
+            "Building"
+        ]
+    },
+    {
+        "Scene Number": 27,
+        "Start Frame": 6128,
+        "Start Timecode": "00:04:15.589",
+        "Start Time (seconds)": 255.589,
+        "End Frame": 6409,
+        "End Timecode": "00:04:27.309",
+        "End Time (seconds)": 267.309,
+        "Length (frames)": 281,
+        "Length (timecode)": "00:00:11.720",
+        "Length (seconds)": 11.72,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Flowerpot": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Houseplant",
+            "Flowerpot"
+        ]
+    },
+    {
+        "Scene Number": 28,
+        "Start Frame": 6409,
+        "Start Timecode": "00:04:27.309",
+        "Start Time (seconds)": 267.309,
+        "End Frame": 6672,
+        "End Timecode": "00:04:38.278",
+        "End Time (seconds)": 278.278,
+        "Length (frames)": 263,
+        "Length (timecode)": "00:00:10.969",
+        "Length (seconds)": 10.969,
+        "texts": [
+            "Colfornia SclenCener",
+            "science",
+            "LEARNING FOR ALL",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Top": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Forehead",
+            "Property",
+            "Smile"
+        ]
+    },
+    {
+        "Scene Number": 29,
+        "Start Frame": 6672,
+        "Start Timecode": "00:04:38.278",
+        "Start Time (seconds)": 278.278,
+        "End Frame": 6824,
+        "End Timecode": "00:04:44.618",
+        "End Time (seconds)": 284.618,
+        "Length (frames)": 152,
+        "Length (timecode)": "00:00:06.340",
+        "Length (seconds)": 6.34,
+        "texts": [
+            "science",
+            "LEARNING FOR ALL",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Top": {
+                "pos": "top left",
+                "size": "tall"
+            },
+            "Person": {
+                "pos": "middle left",
+                "size": "tall"
+            },
+            "Pants": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Botany",
+            "Leaf"
+        ]
+    },
+    {
+        "Scene Number": 30,
+        "Start Frame": 6824,
+        "Start Timecode": "00:04:44.618",
+        "Start Time (seconds)": 284.618,
+        "End Frame": 7383,
+        "End Timecode": "00:05:07.933",
+        "End Time (seconds)": 307.933,
+        "Length (frames)": 559,
+        "Length (timecode)": "00:00:23.315",
+        "Length (seconds)": 23.315,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {},
+        "labels": [
+            "Banana leaf",
+            "Plant",
+            "Botany"
+        ]
+    },
+    {
+        "Scene Number": 31,
+        "Start Frame": 7383,
+        "Start Timecode": "00:05:07.933",
+        "Start Time (seconds)": 307.933,
+        "End Frame": 7552,
+        "End Timecode": "00:05:14.981",
+        "End Time (seconds)": 314.981,
+        "Length (frames)": 169,
+        "Length (timecode)": "00:00:07.049",
+        "Length (seconds)": 7.049,
+        "texts": [
+            "24 INCHES!",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "very large"
+            },
+            "Top": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Clothing": {
+                "pos": "middle right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Organism",
+            "Vegetation"
+        ]
+    },
+    {
+        "Scene Number": 32,
+        "Start Frame": 7552,
+        "Start Timecode": "00:05:14.981",
+        "Start Time (seconds)": 314.981,
+        "End Frame": 7728,
+        "End Timecode": "00:05:22.322",
+        "End Time (seconds)": 322.322,
+        "Length (frames)": 176,
+        "Length (timecode)": "00:00:07.341",
+        "Length (seconds)": 7.341,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Leaf",
+            "Botany",
+            "Plant"
+        ]
+    },
+    {
+        "Scene Number": 33,
+        "Start Frame": 7728,
+        "Start Timecode": "00:05:22.322",
+        "Start Time (seconds)": 322.322,
+        "End Frame": 7970,
+        "End Timecode": "00:05:32.415",
+        "End Time (seconds)": 332.415,
+        "Length (frames)": 242,
+        "Length (timecode)": "00:00:10.093",
+        "Length (seconds)": 10.093,
+        "texts": [
+            "52 INCHES!",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Banana leaf",
+            "Botany"
+        ]
+    },
+    {
+        "Scene Number": 34,
+        "Start Frame": 7970,
+        "Start Timecode": "00:05:32.415",
+        "Start Time (seconds)": 332.415,
+        "End Frame": 8460,
+        "End Timecode": "00:05:52.852",
+        "End Time (seconds)": 352.852,
+        "Length (frames)": 490,
+        "Length (timecode)": "00:00:20.437",
+        "Length (seconds)": 20.437,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {},
+        "labels": [
+            "Plant",
+            "Banana leaf",
+            "Terrestrial plant"
+        ]
+    },
+    {
+        "Scene Number": 35,
+        "Start Frame": 8460,
+        "Start Timecode": "00:05:52.852",
+        "Start Time (seconds)": 352.852,
+        "End Frame": 8856,
+        "End Timecode": "00:06:09.369",
+        "End Time (seconds)": 369.369,
+        "Length (frames)": 396,
+        "Length (timecode)": "00:00:16.516",
+        "Length (seconds)": 16.516,
+        "texts": [
+            "science",
+            "LEARNING FOR ALL",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Top": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Smile",
+            "Plant",
+            "Neck"
+        ]
+    },
+    {
+        "Scene Number": 36,
+        "Start Frame": 8856,
+        "Start Timecode": "00:06:09.369",
+        "Start Time (seconds)": 369.369,
+        "End Frame": 9088,
+        "End Timecode": "00:06:19.045",
+        "End Time (seconds)": 379.045,
+        "Length (frames)": 232,
+        "Length (timecode)": "00:00:09.676",
+        "Length (seconds)": 9.676,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {},
+        "labels": [
+            "Plant",
+            "Leaf",
+            "Branch"
+        ]
+    },
+    {
+        "Scene Number": 37,
+        "Start Frame": 9088,
+        "Start Timecode": "00:06:19.045",
+        "Start Time (seconds)": 379.045,
+        "End Frame": 9467,
+        "End Timecode": "00:06:34.853",
+        "End Time (seconds)": 394.853,
+        "Length (frames)": 379,
+        "Length (timecode)": "00:00:15.807",
+        "Length (seconds)": 15.807,
+        "texts": [
+            "10 INCHES!",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Shoe": {
+                "pos": "bottom right",
+                "size": "short and vertical long"
+            }
+        },
+        "labels": [
+            "Floor",
+            "Material property"
+        ]
+    },
+    {
+        "Scene Number": 38,
+        "Start Frame": 9467,
+        "Start Timecode": "00:06:34.853",
+        "Start Time (seconds)": 394.853,
+        "End Frame": 9620,
+        "End Timecode": "00:06:41.234",
+        "End Time (seconds)": 401.234,
+        "Length (frames)": 153,
+        "Length (timecode)": "00:00:06.381",
+        "Length (seconds)": 6.381,
+        "texts": [],
+        "objects": {},
+        "labels": [
+            "Plant",
+            "Flowerpot",
+            "Leaf"
+        ]
+    },
+    {
+        "Scene Number": 39,
+        "Start Frame": 9620,
+        "Start Timecode": "00:06:41.234",
+        "Start Time (seconds)": 401.234,
+        "End Frame": 10054,
+        "End Timecode": "00:06:59.336",
+        "End Time (seconds)": 419.336,
+        "Length (frames)": 434,
+        "Length (timecode)": "00:00:18.101",
+        "Length (seconds)": 18.101,
+        "texts": [
+            "47",
+            "groweng Snn grow too",
+            "wkedo",
+            "Lonwaonn's",
+            "Calilornia ScienCenter",
+            "WRK UONAEG",
+            "science",
+            "LEARNING FOR ALL",
+            "California ScienCenter",
+            "62 63 64 65 66 67 60 60 70:",
+            "inches",
+            "inches",
+            "7ft",
+            "49"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Top": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Forehead",
+            "Cheek",
+            "Sleeve"
+        ]
+    },
+    {
+        "Scene Number": 40,
+        "Start Frame": 10054,
+        "Start Timecode": "00:06:59.336",
+        "Start Time (seconds)": 419.336,
+        "End Frame": 10243,
+        "End Timecode": "00:07:07.218",
+        "End Time (seconds)": 427.218,
+        "Length (frames)": 189,
+        "Length (timecode)": "00:00:07.883",
+        "Length (seconds)": 7.883,
+        "texts": [
+            "BABY ANOLE LIZARD",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Tubed packaged goods": {
+                "pos": "middle left",
+                "size": "narrow and tall"
+            }
+        },
+        "labels": [
+            "Textile",
+            "Terrestrial plant"
+        ]
+    },
+    {
+        "Scene Number": 41,
+        "Start Frame": 10243,
+        "Start Timecode": "00:07:07.218",
+        "Start Time (seconds)": 427.218,
+        "End Frame": 10572,
+        "End Timecode": "00:07:20.940",
+        "End Time (seconds)": 440.94,
+        "Length (frames)": 329,
+        "Length (timecode)": "00:00:13.722",
+        "Length (seconds)": 13.722,
+        "texts": [
+            "4-6 INCHES!",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Tape measure",
+            "Wood",
+            "Plant"
+        ]
+    },
+    {
+        "Scene Number": 42,
+        "Start Frame": 10572,
+        "Start Timecode": "00:07:20.940",
+        "Start Time (seconds)": 440.94,
+        "End Frame": 10866,
+        "End Timecode": "00:07:33.203",
+        "End Time (seconds)": 453.203,
+        "Length (frames)": 294,
+        "Length (timecode)": "00:00:12.262",
+        "Length (seconds)": 12.262,
+        "texts": [
+            "144",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Animal": {
+                "pos": "center",
+                "size": "medium"
+            },
+            "Packaged goods": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Terrestrial plant",
+            "Fish"
+        ]
+    },
+    {
+        "Scene Number": 43,
+        "Start Frame": 10866,
+        "Start Timecode": "00:07:33.203",
+        "Start Time (seconds)": 453.203,
+        "End Frame": 11033,
+        "End Timecode": "00:07:40.168",
+        "End Time (seconds)": 460.168,
+        "Length (frames)": 167,
+        "Length (timecode)": "00:00:06.965",
+        "Length (seconds)": 6.965,
+        "texts": [
+            "Science Talk!",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Atmosphere",
+            "Sky",
+            "Purple"
+        ]
+    },
+    {
+        "Scene Number": 44,
+        "Start Frame": 11033,
+        "Start Timecode": "00:07:40.168",
+        "Start Time (seconds)": 460.168,
+        "End Frame": 11374,
+        "End Timecode": "00:07:54.391",
+        "End Time (seconds)": 474.391,
+        "Length (frames)": 341,
+        "Length (timecode)": "00:00:14.223",
+        "Length (seconds)": 14.223,
+        "texts": [
+            "JUVENILE",
+            "Colfornia ScienCenter",
+            "Ecosystems",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Glasses": {
+                "pos": "center",
+                "size": "medium"
+            },
+            "Top": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Face",
+            "Glasses",
+            "Smile"
+        ]
+    },
+    {
+        "Scene Number": 45,
+        "Start Frame": 11374,
+        "Start Timecode": "00:07:54.391",
+        "Start Time (seconds)": 474.391,
+        "End Frame": 11474,
+        "End Timecode": "00:07:58.561",
+        "End Time (seconds)": 478.561,
+        "Length (frames)": 100,
+        "Length (timecode)": "00:00:04.171",
+        "Length (seconds)": 4.171,
+        "texts": [
+            "BLACKEYE GOBY EGGS",
+            "CaliforniaScienCenter"
+        ],
+        "objects": {
+            "Shoe": {
+                "pos": "bottom right",
+                "size": "wide"
+            },
+            "Footwear": {
+                "pos": "middle left",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Jaw"
+        ]
+    },
+    {
+        "Scene Number": 46,
+        "Start Frame": 11474,
+        "Start Timecode": "00:07:58.561",
+        "Start Time (seconds)": 478.561,
+        "End Frame": 11573,
+        "End Timecode": "00:08:02.691",
+        "End Time (seconds)": 482.691,
+        "Length (frames)": 99,
+        "Length (timecode)": "00:00:04.129",
+        "Length (seconds)": 4.129,
+        "texts": [
+            "BLACKEYE GOBY ADULT",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Fish": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Animal": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Fish",
+            "Underwater",
+            "Fin"
+        ]
+    },
+    {
+        "Scene Number": 47,
+        "Start Frame": 11573,
+        "Start Timecode": "00:08:02.691",
+        "Start Time (seconds)": 482.691,
+        "End Frame": 12645,
+        "End Timecode": "00:08:47.402",
+        "End Time (seconds)": 527.402,
+        "Length (frames)": 1072,
+        "Length (timecode)": "00:00:44.711",
+        "Length (seconds)": 44.711,
+        "texts": [
+            "SCOSYsTem",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Fish": {
+                "pos": "center",
+                "size": "medium"
+            },
+            "Animal": {
+                "pos": "top right",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Water",
+            "Vertebrate",
+            "Blue"
+        ]
+    },
+    {
+        "Scene Number": 48,
+        "Start Frame": 12645,
+        "Start Timecode": "00:08:47.402",
+        "Start Time (seconds)": 527.402,
+        "End Frame": 12833,
+        "End Timecode": "00:08:55.243",
+        "End Time (seconds)": 535.243,
+        "Length (frames)": 188,
+        "Length (timecode)": "00:00:07.841",
+        "Length (seconds)": 7.841,
+        "texts": [
+            "BABY",
+            "ADULT",
+            "GIANT BLACK SEA BASS",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Animal": {
+                "pos": "middle left",
+                "size": "medium"
+            },
+            "Packaged goods": {
+                "pos": "middle right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Water",
+            "Jaw",
+            "Underwater"
+        ]
+    },
+    {
+        "Scene Number": 49,
+        "Start Frame": 12833,
+        "Start Timecode": "00:08:55.243",
+        "Start Time (seconds)": 535.243,
+        "End Frame": 12956,
+        "End Timecode": "00:09:00.373",
+        "End Time (seconds)": 540.373,
+        "Length (frames)": 123,
+        "Length (timecode)": "00:00:05.130",
+        "Length (seconds)": 5.13,
+        "texts": [
+            "\u0412ABY",
+            "ADULT",
+            "GARIBALDI",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Animal": {
+                "pos": "middle right",
+                "size": "wide"
+            },
+            "Packaged goods": {
+                "pos": "middle right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Vertebrate",
+            "Nature",
+            "Natural environment"
+        ]
+    },
+    {
+        "Scene Number": 50,
+        "Start Frame": 12956,
+        "Start Timecode": "00:09:00.373",
+        "Start Time (seconds)": 540.373,
+        "End Frame": 13282,
+        "End Timecode": "00:09:13.970",
+        "End Time (seconds)": 553.97,
+        "Length (frames)": 326,
+        "Length (timecode)": "00:00:13.597",
+        "Length (seconds)": 13.597,
+        "texts": [
+            "LET'S",
+            "PLAY",
+            "California ScienCenter"
+        ],
+        "objects": {},
+        "labels": [
+            "Branch",
+            "Organism",
+            "Gesture"
+        ]
+    },
+    {
+        "Scene Number": 51,
+        "Start Frame": 13282,
+        "Start Timecode": "00:09:13.970",
+        "Start Time (seconds)": 553.97,
+        "End Frame": 14094,
+        "End Timecode": "00:09:47.837",
+        "End Time (seconds)": 587.837,
+        "Length (frames)": 812,
+        "Length (timecode)": "00:00:33.867",
+        "Length (seconds)": 33.867,
+        "texts": [
+            "science",
+            "LEARNING FOR ALL",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Parrot": {
+                "pos": "middle left",
+                "size": "medium"
+            },
+            "Top": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Animal": {
+                "pos": "middle right",
+                "size": "very large"
+            },
+            "Bird": {
+                "pos": "middle right",
+                "size": "wide"
+            }
+        },
+        "labels": [
+            "Bird",
+            "Green",
+            "Vertebrate"
+        ]
+    },
+    {
+        "Scene Number": 52,
+        "Start Frame": 14094,
+        "Start Timecode": "00:09:47.837",
+        "Start Time (seconds)": 587.837,
+        "End Frame": 14237,
+        "End Timecode": "00:09:53.802",
+        "End Time (seconds)": 593.802,
+        "Length (frames)": 143,
+        "Length (timecode)": "00:00:05.964",
+        "Length (seconds)": 5.964,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Dog": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Dog",
+            "Dog breed",
+            "Liver"
+        ]
+    },
+    {
+        "Scene Number": 53,
+        "Start Frame": 14237,
+        "Start Timecode": "00:09:53.802",
+        "Start Time (seconds)": 593.802,
+        "End Frame": 14386,
+        "End Timecode": "00:10:00.016",
+        "End Time (seconds)": 600.016,
+        "Length (frames)": 149,
+        "Length (timecode)": "00:00:06.215",
+        "Length (seconds)": 6.215,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Bird": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Bat",
+            "Terrestrial plant",
+            "Plant"
+        ]
+    },
+    {
+        "Scene Number": 54,
+        "Start Frame": 14386,
+        "Start Timecode": "00:10:00.016",
+        "Start Time (seconds)": 600.016,
+        "End Frame": 14666,
+        "End Timecode": "00:10:11.694",
+        "End Time (seconds)": 611.694,
+        "Length (frames)": 280,
+        "Length (timecode)": "00:00:11.678",
+        "Length (seconds)": 11.678,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Animal": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Red panda",
+            "Whiskers",
+            "Fawn"
+        ]
+    },
+    {
+        "Scene Number": 55,
+        "Start Frame": 14666,
+        "Start Timecode": "00:10:11.694",
+        "Start Time (seconds)": 611.694,
+        "End Frame": 15606,
+        "End Timecode": "00:10:50.900",
+        "End Time (seconds)": 650.9,
+        "Length (frames)": 940,
+        "Length (timecode)": "00:00:39.206",
+        "Length (seconds)": 39.206,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Bird": {
+                "pos": "middle right",
+                "size": "very large"
+            },
+            "Animal": {
+                "pos": "middle right",
+                "size": "wide"
+            }
+        },
+        "labels": [
+            "Bird",
+            "Green",
+            "Ecoregion"
+        ]
+    },
+    {
+        "Scene Number": 56,
+        "Start Frame": 15606,
+        "Start Timecode": "00:10:50.900",
+        "Start Time (seconds)": 650.9,
+        "End Frame": 15959,
+        "End Timecode": "00:11:05.623",
+        "End Time (seconds)": 665.623,
+        "Length (frames)": 353,
+        "Length (timecode)": "00:00:14.723",
+        "Length (seconds)": 14.723,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Elephant": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Elephant",
+            "Working animal",
+            "Plant"
+        ]
+    },
+    {
+        "Scene Number": 57,
+        "Start Frame": 15959,
+        "Start Timecode": "00:11:05.623",
+        "Start Time (seconds)": 665.623,
+        "End Frame": 16357,
+        "End Timecode": "00:11:22.223",
+        "End Time (seconds)": 682.223,
+        "Length (frames)": 398,
+        "Length (timecode)": "00:00:16.600",
+        "Length (seconds)": 16.6,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Bird": {
+                "pos": "middle right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Bird",
+            "Beak",
+            "Feather"
+        ]
+    },
+    {
+        "Scene Number": 58,
+        "Start Frame": 16357,
+        "Start Timecode": "00:11:22.223",
+        "Start Time (seconds)": 682.223,
+        "End Frame": 17237,
+        "End Timecode": "00:11:58.927",
+        "End Time (seconds)": 718.927,
+        "Length (frames)": 880,
+        "Length (timecode)": "00:00:36.703",
+        "Length (seconds)": 36.703,
+        "texts": [
+            "Protect them from danger",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Bird": {
+                "pos": "middle left",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Bird",
+            "Green",
+            "Nature"
+        ]
+    },
+    {
+        "Scene Number": 59,
+        "Start Frame": 17237,
+        "Start Timecode": "00:11:58.927",
+        "Start Time (seconds)": 718.927,
+        "End Frame": 17521,
+        "End Timecode": "00:12:10.772",
+        "End Time (seconds)": 730.772,
+        "Length (frames)": 284,
+        "Length (timecode)": "00:00:11.845",
+        "Length (seconds)": 11.845,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Brown bear": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Animal": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Kodiak bear",
+            "Brown bear"
+        ]
+    },
+    {
+        "Scene Number": 60,
+        "Start Frame": 17521,
+        "Start Timecode": "00:12:10.772",
+        "Start Time (seconds)": 730.772,
+        "End Frame": 17779,
+        "End Timecode": "00:12:21.532",
+        "End Time (seconds)": 741.532,
+        "Length (frames)": 258,
+        "Length (timecode)": "00:00:10.761",
+        "Length (seconds)": 10.761,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Animal": {
+                "pos": "middle left",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Water",
+            "Plant",
+            "Fluvial landforms of streams"
+        ]
+    },
+    {
+        "Scene Number": 61,
+        "Start Frame": 17779,
+        "Start Timecode": "00:12:21.532",
+        "Start Time (seconds)": 741.532,
+        "End Frame": 18677,
+        "End Timecode": "00:12:58.987",
+        "End Time (seconds)": 778.987,
+        "Length (frames)": 898,
+        "Length (timecode)": "00:00:37.454",
+        "Length (seconds)": 37.454,
+        "texts": [
+            "Parents take care",
+            "of their offspring",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Animal": {
+                "pos": "middle right",
+                "size": "very large"
+            },
+            "Bird": {
+                "pos": "middle right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Water",
+            "Green",
+            "Bird"
+        ]
+    },
+    {
+        "Scene Number": 62,
+        "Start Frame": 18677,
+        "Start Timecode": "00:12:58.987",
+        "Start Time (seconds)": 778.987,
+        "End Frame": 18886,
+        "End Timecode": "00:13:07.704",
+        "End Time (seconds)": 787.704,
+        "Length (frames)": 209,
+        "Length (timecode)": "00:00:08.717",
+        "Length (seconds)": 8.717,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Giraffe": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Hair",
+            "Head",
+            "Giraffidae"
+        ]
+    },
+    {
+        "Scene Number": 63,
+        "Start Frame": 18886,
+        "Start Timecode": "00:13:07.704",
+        "Start Time (seconds)": 787.704,
+        "End Frame": 19070,
+        "End Timecode": "00:13:15.378",
+        "End Time (seconds)": 795.378,
+        "Length (frames)": 184,
+        "Length (timecode)": "00:00:07.674",
+        "Length (seconds)": 7.674,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Sheep": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Style",
+            "Working animal",
+            "Grazing"
+        ]
+    },
+    {
+        "Scene Number": 64,
+        "Start Frame": 19070,
+        "Start Timecode": "00:13:15.378",
+        "Start Time (seconds)": 795.378,
+        "End Frame": 19256,
+        "End Timecode": "00:13:23.136",
+        "End Time (seconds)": 803.136,
+        "Length (frames)": 186,
+        "Length (timecode)": "00:00:07.758",
+        "Length (seconds)": 7.758,
+        "texts": [
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Cat": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Animal": {
+                "pos": "bottom middle",
+                "size": "wide"
+            }
+        },
+        "labels": [
+            "Cat",
+            "Carnivore",
+            "Felidae"
+        ]
+    },
+    {
+        "Scene Number": 65,
+        "Start Frame": 19256,
+        "Start Timecode": "00:13:23.136",
+        "Start Time (seconds)": 803.136,
+        "End Frame": 20148,
+        "End Timecode": "00:14:00.339",
+        "End Time (seconds)": 840.339,
+        "Length (frames)": 892,
+        "Length (timecode)": "00:00:37.204",
+        "Length (seconds)": 37.204,
+        "texts": [
+            "They love them very much",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Bird": {
+                "pos": "middle right",
+                "size": "very large"
+            },
+            "Animal": {
+                "pos": "middle left",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Bird",
+            "Green",
+            "Vertebrate"
+        ]
+    },
+    {
+        "Scene Number": 66,
+        "Start Frame": 20148,
+        "Start Timecode": "00:14:00.339",
+        "Start Time (seconds)": 840.339,
+        "End Frame": 21219,
+        "End Timecode": "00:14:45.009",
+        "End Time (seconds)": 885.009,
+        "Length (frames)": 1071,
+        "Length (timecode)": "00:00:44.670",
+        "Length (seconds)": 44.67,
+        "texts": [
+            "Suaves ,",
+            "Sme",
+            "Where Does the",
+            "Garbage Go?",
+            "science",
+            "LEARNING FOR ALI",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Shoe": {
+                "pos": "top middle",
+                "size": "narrow and tall"
+            },
+            "Top": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Table": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Smile",
+            "Picture frame",
+            "Green"
+        ]
+    },
+    {
+        "Scene Number": 67,
+        "Start Frame": 21219,
+        "Start Timecode": "00:14:45.009",
+        "Start Time (seconds)": 885.009,
+        "End Frame": 21313,
+        "End Timecode": "00:14:48.930",
+        "End Time (seconds)": 888.93,
+        "Length (frames)": 94,
+        "Length (timecode)": "00:00:03.921",
+        "Length (seconds)": 3.921,
+        "texts": [
+            "HOW DO PARENTS MAKE SURE",
+            "THEIR BABIES STAY ALIVE?",
+            "Suo",
+            "Where Does t",
+            "Go",
+            "Garbage",
+            "Collornia ScienCe",
+            "science",
+            "LEARNING FOR ALL",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Shoe": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Top": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Toy": {
+                "pos": "bottom right",
+                "size": "wide"
+            },
+            "Packaged goods": {
+                "pos": "middle left",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Product",
+            "Organism",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 68,
+        "Start Frame": 21313,
+        "Start Timecode": "00:14:48.930",
+        "Start Time (seconds)": 888.93,
+        "End Frame": 21884,
+        "End Timecode": "00:15:12.745",
+        "End Time (seconds)": 912.745,
+        "Length (frames)": 571,
+        "Length (timecode)": "00:00:23.815",
+        "Length (seconds)": 23.815,
+        "texts": [
+            "Suave",
+            "Where Does the",
+            "Garbage Go?",
+            "science",
+            "Collornio ScienCenk",
+            "LEARNING FOR ALL",
+            "California ScienCenter"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Top": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Teddy bear": {
+                "pos": "bottom right",
+                "size": "wide"
+            },
+            "Shoe": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Smile",
+            "Green",
+            "Yellow"
+        ]
+    },
+    {
+        "Scene Number": 69,
+        "Start Frame": 21884,
+        "Start Timecode": "00:15:12.745",
+        "Start Time (seconds)": 912.745,
+        "End Frame": 21937,
+        "End Timecode": "00:15:14.956",
+        "End Time (seconds)": 914.956,
+        "Length (frames)": 53,
+        "Length (timecode)": "00:00:02.211",
+        "Length (seconds)": 2.211,
+        "texts": [
+            "SCIENCE",
+            "BUS"
+        ],
+        "objects": {
+            "Building": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Van": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Sky",
+            "Bus",
+            "Vehicle"
+        ]
+    },
+    {
+        "Scene Number": 70,
+        "Start Frame": 21937,
+        "Start Timecode": "00:15:14.956",
+        "Start Time (seconds)": 914.956,
+        "End Frame": 22005,
+        "End Timecode": "00:15:17.792",
+        "End Time (seconds)": 917.792,
+        "Length (frames)": 68,
+        "Length (timecode)": "00:00:02.836",
+        "Length (seconds)": 2.836,
+        "texts": [],
+        "objects": {},
+        "labels": [
+            "Rectangle",
+            "Slope"
+        ]
+    },
+    {
+        "Scene Number": 71,
+        "Start Frame": 22005,
+        "Start Timecode": "00:15:17.792",
+        "Start Time (seconds)": 917.792,
+        "End Frame": 22125,
+        "End Timecode": "00:15:22.797",
+        "End Time (seconds)": 922.797,
+        "Length (frames)": 120,
+        "Length (timecode)": "00:00:05.005",
+        "Length (seconds)": 5.005,
+        "texts": [
+            "WWw.CALIFORNIASCIENCECENTER.ORG",
+            "/VIRTUALFIELDTRIPS"
+        ],
+        "objects": {},
+        "labels": []
+    }
 ]

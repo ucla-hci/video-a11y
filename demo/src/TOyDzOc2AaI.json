@@ -1,0 +1,593 @@
+[
+    {
+        "Scene Number": 1,
+        "Start Frame": 0,
+        "Start Timecode": "00:00:00.000",
+        "Start Time (seconds)": 0,
+        "End Frame": 997,
+        "End Timecode": "00:00:39.880",
+        "End Time (seconds)": 39.88,
+        "Length (frames)": 997,
+        "Length (timecode)": "00:00:39.880",
+        "Length (seconds)": 39.88,
+        "texts": [
+            "REMI",
+            "CLEAPSS members should contact",
+            "them for a special risk assessment"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Furniture": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Face",
+            "Head",
+            "Sleeve"
+        ]
+    },
+    {
+        "Scene Number": 2,
+        "Start Frame": 997,
+        "Start Timecode": "00:00:39.880",
+        "Start Time (seconds)": 39.88,
+        "End Frame": 1136,
+        "End Timecode": "00:00:45.440",
+        "End Time (seconds)": 45.44,
+        "Length (frames)": 139,
+        "Length (timecode)": "00:00:05.560",
+        "Length (seconds)": 5.56,
+        "texts": [],
+        "objects": {
+            "Tableware": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Drink": {
+                "pos": "top middle",
+                "size": "narrow and tall"
+            },
+            "Furniture": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Liquid",
+            "Fluid",
+            "Drinkware"
+        ]
+    },
+    {
+        "Scene Number": 3,
+        "Start Frame": 1136,
+        "Start Timecode": "00:00:45.440",
+        "Start Time (seconds)": 45.44,
+        "End Frame": 1284,
+        "End Timecode": "00:00:51.360",
+        "End Time (seconds)": 51.36,
+        "Length (frames)": 148,
+        "Length (timecode)": "00:00:05.920",
+        "Length (seconds)": 5.92,
+        "texts": [
+            "educationinchemistry",
+            "The Rainbow Flame",
+            "Demonstration",
+            "ROYAL SOCIETY",
+            "OF CHEMISTRY"
+        ],
+        "objects": {},
+        "labels": [
+            "Product",
+            "Purple",
+            "Organism"
+        ]
+    },
+    {
+        "Scene Number": 4,
+        "Start Frame": 1284,
+        "Start Timecode": "00:00:51.360",
+        "Start Time (seconds)": 51.36,
+        "End Frame": 2715,
+        "End Timecode": "00:01:48.600",
+        "End Time (seconds)": 108.6,
+        "Length (frames)": 1431,
+        "Length (timecode)": "00:00:57.240",
+        "Length (seconds)": 57.24,
+        "texts": [
+            "eic",
+            "De",
+            "hami"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Table": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Glasses": {
+                "pos": "bottom right",
+                "size": "medium"
+            },
+            "Coat": {
+                "pos": "center",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Shirt",
+            "Table",
+            "Sleeve"
+        ]
+    },
+    {
+        "Scene Number": 5,
+        "Start Frame": 2715,
+        "Start Timecode": "00:01:48.600",
+        "Start Time (seconds)": 108.6,
+        "End Frame": 2965,
+        "End Timecode": "00:01:58.600",
+        "End Time (seconds)": 118.6,
+        "Length (frames)": 250,
+        "Length (timecode)": "00:00:10.000",
+        "Length (seconds)": 10,
+        "texts": [
+            "eic",
+            "COPPER",
+            "CHLORIDE",
+            "200",
+            "ETHANOL"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "middle left",
+                "size": "medium"
+            },
+            "Beaker": {
+                "pos": "top right",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Liquid",
+            "Drinkware",
+            "Bottle"
+        ]
+    },
+    {
+        "Scene Number": 6,
+        "Start Frame": 2965,
+        "Start Timecode": "00:01:58.600",
+        "Start Time (seconds)": 118.6,
+        "End Frame": 3403,
+        "End Timecode": "00:02:16.120",
+        "End Time (seconds)": 136.12,
+        "Length (frames)": 438,
+        "Length (timecode)": "00:00:17.520",
+        "Length (seconds)": 17.52,
+        "texts": [
+            "eic",
+            "Ded Pimn"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Table": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Glasses": {
+                "pos": "bottom right",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Sleeve",
+            "Table",
+            "Curtain"
+        ]
+    },
+    {
+        "Scene Number": 7,
+        "Start Frame": 3403,
+        "Start Timecode": "00:02:16.120",
+        "Start Time (seconds)": 136.12,
+        "End Frame": 3594,
+        "End Timecode": "00:02:23.760",
+        "End Time (seconds)": 143.76,
+        "Length (frames)": 191,
+        "Length (timecode)": "00:00:07.640",
+        "Length (seconds)": 7.64,
+        "texts": [
+            "eic",
+            "ETHANOL",
+            "100",
+            "COPPER",
+            "CHLORIDE"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Tableware": {
+                "pos": "center",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Liquid",
+            "Drinkware",
+            "Product"
+        ]
+    },
+    {
+        "Scene Number": 8,
+        "Start Frame": 3594,
+        "Start Timecode": "00:02:23.760",
+        "Start Time (seconds)": 143.76,
+        "End Frame": 5546,
+        "End Timecode": "00:03:41.840",
+        "End Time (seconds)": 221.84,
+        "Length (frames)": 1952,
+        "Length (timecode)": "00:01:18.080",
+        "Length (seconds)": 78.08,
+        "texts": [
+            "eic",
+            "De",
+            "hemim"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Table": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "center",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Shirt",
+            "Smile",
+            "Sleeve"
+        ]
+    },
+    {
+        "Scene Number": 9,
+        "Start Frame": 5546,
+        "Start Timecode": "00:03:41.840",
+        "Start Time (seconds)": 221.84,
+        "End Frame": 5781,
+        "End Timecode": "00:03:51.240",
+        "End Time (seconds)": 231.24,
+        "Length (frames)": 235,
+        "Length (timecode)": "00:00:09.400",
+        "Length (seconds)": 9.4,
+        "texts": [
+            "eic"
+        ],
+        "objects": {
+            "Tableware": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Drinkware",
+            "Liquid",
+            "Drink"
+        ]
+    },
+    {
+        "Scene Number": 10,
+        "Start Frame": 5781,
+        "Start Timecode": "00:03:51.240",
+        "Start Time (seconds)": 231.24,
+        "End Frame": 6450,
+        "End Timecode": "00:04:18.000",
+        "End Time (seconds)": 258,
+        "Length (frames)": 669,
+        "Length (timecode)": "00:00:26.760",
+        "Length (seconds)": 26.76,
+        "texts": [
+            "eic",
+            "De",
+            "it takes a few seconds for the metal",
+            "ions to really colourise the flame ..."
+        ],
+        "objects": {},
+        "labels": [
+            "Liquid",
+            "Drinkware",
+            "Fluid"
+        ]
+    },
+    {
+        "Scene Number": 11,
+        "Start Frame": 6450,
+        "Start Timecode": "00:04:18.000",
+        "Start Time (seconds)": 258,
+        "End Frame": 6566,
+        "End Timecode": "00:04:22.640",
+        "End Time (seconds)": 262.64,
+        "Length (frames)": 116,
+        "Length (timecode)": "00:00:04.640",
+        "Length (seconds)": 4.64,
+        "texts": [
+            "eic",
+            "000",
+            "BOHOO",
+            "TARUO",
+            "00r",
+            "Potassium"
+        ],
+        "objects": {
+            "Measuring cup": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Liquid",
+            "Fluid",
+            "Drinkware"
+        ]
+    },
+    {
+        "Scene Number": 12,
+        "Start Frame": 6566,
+        "Start Timecode": "00:04:22.640",
+        "Start Time (seconds)": 262.64,
+        "End Frame": 8377,
+        "End Timecode": "00:05:35.080",
+        "End Time (seconds)": 335.08,
+        "Length (frames)": 1811,
+        "Length (timecode)": "00:01:12.440",
+        "Length (seconds)": 72.44,
+        "texts": [
+            "eic",
+            "Dedes Fmng",
+            "no Pi",
+            "REMSDT"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Glasses": {
+                "pos": "bottom right",
+                "size": "medium"
+            },
+            "Furniture": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Chef's uniform",
+            "Sleeve",
+            "Gesture"
+        ]
+    },
+    {
+        "Scene Number": 13,
+        "Start Frame": 8377,
+        "Start Timecode": "00:05:35.080",
+        "Start Time (seconds)": 335.08,
+        "End Frame": 8621,
+        "End Timecode": "00:05:44.840",
+        "End Time (seconds)": 344.84,
+        "Length (frames)": 244,
+        "Length (timecode)": "00:00:09.760",
+        "Length (seconds)": 9.76,
+        "texts": [
+            "1.0",
+            "eic",
+            "Spectrum obtained from a",
+            "mix of Li, Na and K salts",
+            "0.8",
+            "Li",
+            "0.6",
+            "2p > 2s 671 nm",
+            "Na",
+            "0.4",
+            "3p \u2192 3s 589 nm",
+            "0.2",
+            "Visible spectrum",
+            "0.0",
+            "500",
+            "700",
+            "900",
+            "Wavelength (nm)",
+            "Intensity (re)"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "top left",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Rectangle",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 14,
+        "Start Frame": 8621,
+        "Start Timecode": "00:05:44.840",
+        "Start Time (seconds)": 344.84,
+        "End Frame": 9358,
+        "End Timecode": "00:06:14.320",
+        "End Time (seconds)": 374.32,
+        "Length (frames)": 737,
+        "Length (timecode)": "00:00:29.480",
+        "Length (seconds)": 29.48,
+        "texts": [
+            "eic"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Glasses": {
+                "pos": "bottom middle",
+                "size": "medium"
+            },
+            "Outerwear": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Furniture": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Coat",
+            "Sleeve",
+            "Tableware"
+        ]
+    },
+    {
+        "Scene Number": 15,
+        "Start Frame": 9358,
+        "Start Timecode": "00:06:14.320",
+        "Start Time (seconds)": 374.32,
+        "End Frame": 9680,
+        "End Timecode": "00:06:27.200",
+        "End Time (seconds)": 387.2,
+        "Length (frames)": 322,
+        "Length (timecode)": "00:00:12.880",
+        "Length (seconds)": 12.88,
+        "texts": [
+            "1.0",
+            "eic",
+            "Spectrum obtained from a",
+            "mix of Li, Na and K salts",
+            "K has a strong emission",
+            "that we can't see!",
+            "0.8 -",
+            "Li",
+            "K",
+            "0.6 -",
+            "4p \u2192 4s 766 nm",
+            "4p \u2192 4s 770 nm",
+            "2p \u2192 2s 671 nm",
+            "0.4 -",
+            "Na",
+            "3p \u2192 3s 589 nm",
+            "0.2",
+            "Visible spectrum",
+            "0.0",
+            "500",
+            "700",
+            "900",
+            "Wavelength (nm)"
+        ],
+        "objects": {},
+        "labels": [
+            "Colorfulness",
+            "Rectangle",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 16,
+        "Start Frame": 9680,
+        "Start Timecode": "00:06:27.200",
+        "Start Time (seconds)": 387.2,
+        "End Frame": 10827,
+        "End Timecode": "00:07:13.080",
+        "End Time (seconds)": 433.08,
+        "Length (frames)": 1147,
+        "Length (timecode)": "00:00:45.880",
+        "Length (seconds)": 45.88,
+        "texts": [
+            "eic",
+            "D ing",
+            "howTmi"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Outerwear": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Glasses": {
+                "pos": "bottom right",
+                "size": "medium"
+            },
+            "Furniture": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Shirt",
+            "Coat",
+            "Table"
+        ]
+    },
+    {
+        "Scene Number": 17,
+        "Start Frame": 10827,
+        "Start Timecode": "00:07:13.080",
+        "Start Time (seconds)": 433.08,
+        "End Frame": 11210,
+        "End Timecode": "00:07:28.400",
+        "End Time (seconds)": 448.4,
+        "Length (frames)": 383,
+        "Length (timecode)": "00:00:15.320",
+        "Length (seconds)": 15.32,
+        "texts": [
+            "Made for Education in Chemistry",
+            "by Declan Fleming",
+            "with thanks to Gwen Toalster, Anna-Katharina Preidl, and Peter Borrows",
+            "\"Pamgaea\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0",
+            "http://creativecommons.org/licenses/by/3.0/",
+            "eic.rsc.org"
+        ],
+        "objects": {},
+        "labels": [
+            "Purple",
+            "Violet",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 18,
+        "Start Frame": 11210,
+        "Start Timecode": "00:07:28.400",
+        "Start Time (seconds)": 448.4,
+        "End Frame": 11218,
+        "End Timecode": "00:07:28.720",
+        "End Time (seconds)": 448.72,
+        "Length (frames)": 8,
+        "Length (timecode)": "00:00:00.320",
+        "Length (seconds)": 0.32,
+        "texts": [],
+        "objects": {},
+        "labels": []
+    }
+]
