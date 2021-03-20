@@ -14,11 +14,11 @@ import MenuIcon from '@material-ui/icons/Menu';
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import Divider from '@material-ui/core/Divider';
 import {clips} from '../scripts';
-import { Clickable } from 'react-clickable';
-import Blink from 'react-blink-text';
 import TimeField from 'react-simple-timefield';
 import KeyboardEventHandler from 'react-keyboard-event-handler';
 import Speech from "speak-tts";
+import Sound from 'react-sound';
+import soundUrl from '../sound.mp3';
 
 function formatTime(time) {
     time = Math.round(time);
@@ -39,6 +39,7 @@ function deformatTime(string) {
     return minutes + seconds;
 }
 
+
 class Home extends Component {
     constructor(props) {
         super(props);
@@ -54,9 +55,11 @@ class Home extends Component {
             time: '00:00',
             scene_starts: [],
             mid_indexes: [],
+            scene_sounds: [],
             current_level: 0,
             current_idx: 0,
             current_mid_idx: 0,
+            last_sound_idx: 0,
         }
         this.handleDrawerOpen = this.handleDrawerOpen.bind(this);
         this.handleDrawerClose = this.handleDrawerClose.bind(this);
@@ -67,7 +70,9 @@ class Home extends Component {
         this.handleKey = this.handleKey.bind(this);
         this.align_segment = this.align_segment.bind(this);
         this.inspectFrame = this.inspectFrame.bind(this);
+        this.soundPlaying = this.soundPlaying.bind(this);
     }
+    
 
 
     componentDidMount() {
@@ -129,12 +134,15 @@ class Home extends Component {
         var json = require('../' +  videoID + '.json');
         var scene_starts = [];
         var scene_labels = [];
+        var scene_sounds = [];
         for (var i = 0, l = json.length; i < l; i++) {
             var node = json[i];
             scene_starts.push(node['Start Time (seconds)']);
             scene_labels.push(node['Scene Number']);
+            if(node['sound']){
+                scene_sounds.push(node['Scene Number'])
+            }
         }
-        console.log(scene_starts);
 
         var json = require('../mid_level.json');
         var mid_indexes = [];
@@ -169,7 +177,7 @@ class Home extends Component {
             frame_timestamps.push(sortable[i][1]);
         }
 
-        this.setState({scene_starts: scene_starts, scene_labels:  scene_labels, mid_indexes: mid_indexes, mid_contents: mid_contents,frame_indexes: frame_indexes, frame_timestamps:  frame_timestamps,  dynamic: dynamic});
+        this.setState({scene_sounds: scene_sounds, scene_starts: scene_starts, scene_labels:  scene_labels, mid_indexes: mid_indexes, mid_contents: mid_contents,frame_indexes: frame_indexes, frame_timestamps:  frame_timestamps,  dynamic: dynamic});
         if (sessionStorage.getItem('sessionCreated') === null) {
             axios.post('http://ec2-52-79-233-144.ap-northeast-2.compute.amazonaws.com:8000/backend/sessions/', {
               videoID: this.state.videoID,
@@ -305,7 +313,6 @@ class Home extends Component {
         var closest_index = scene_starts.findIndex( x => x == closest_past );
         var closest_mid_past = Math.max.apply(Math, mid_indexes.filter(function(x){return x <= closest_index + 1}));
         var closest_mid_index = mid_indexes.findIndex( x => x == closest_mid_past );
-        console.log(closest_mid_past,  closest_mid_index);
         closest_index = closest_index < 0? 0 : closest_index;
         closest_mid_index = closest_mid_index < 0? 0: closest_mid_index;
         return [closest_index, closest_mid_index];
@@ -315,8 +322,8 @@ class Home extends Component {
         const {videoID, current_idx, speech} = this.state;
         var json = require('../' + videoID + '.json');
         var scene = json[current_idx];
-        var object;
-        if (scene['texts']){
+        var object, label;
+        if (scene['texts'].length){
             speech.cancel();
             console.log(scene['texts'])
             speech.speak({
@@ -327,8 +334,7 @@ class Home extends Component {
                 console.error("An error occurred :", e)
             })
         }
-        if (scene['objects']){
-            speech.cancel();
+        if (Object.keys(scene['objects']).length){
             for(var object_key in scene['objects']){
                 object = scene['objects'][object_key];
                 speech.speak({
@@ -340,16 +346,14 @@ class Home extends Component {
                 })
             }
         }
-        else if(scene['labels']){
-            for(object in scene['labels']){
-                speech.speak({
-                    text: "This frame may contain" + object['labels'].join(', ')
-                }).then(() => {
-                    console.log("Success !")
-                }).catch(e => {
-                    console.error("An error occurred :", e)
-                })
-            }
+        else if(Object.keys(scene['labels']).length){
+            speech.speak({
+                text: "This frame may contain" + scene['labels'].join(', ')
+            }).then(() => {
+                console.log("Success !")
+            }).catch(e => {
+                console.error("An error occurred :", e)
+            })
         }
         else{
             speech.speak({
@@ -360,53 +364,24 @@ class Home extends Component {
                 console.error("An error occurred :", e)
             })
         } 
-
-
-        // const {videoID, frame_timestamps, playedSeconds, speech} = this.state;
-        // var curr = frame_timestamps[0], diff = Math.abs(playedSeconds - curr);
-        // var index = 0;
-        // for (var i = 0; i < frame_timestamps.length; i++) {
-        //     var newdiff = Math.abs(playedSeconds - frame_timestamps[i]);
-        //     if (newdiff < diff) {
-        //         diff = newdiff;
-        //         curr = frame_timestamps[i];
-        //         index = i;
-        //     }
-        // }
-        // var closest_frame_index = frame_indexes[index];
-        // var json = require('../frames_data.json');
-        // var objects = json[closest_frame_index]['objects'];
-        // console.log("here", objects);
-        // if (!Object.keys(objects).length){
-        //     speech.cancel();
-        //     speech.speak({
-        //         text: "No object detected"
-        //     }).then(() => {
-        //         console.log("Success !")
-        //     }).catch(e => {
-        //         console.error("An error occurred :", e)
-        //     })
-        // }
-        // else{
-        //     var object_info =  ''
-        //     for (var object in objects) {
-        //         object_info = '  ' + object_info + object + '   width' + (Math.floor(objects[object]['width']*100/1920)).toString() + ' %' + ' height' + (Math.floor(objects[object]['height']*100/1080)).toString() + ' % at';
-        //         var x = objects[object]['left_x'] + objects[object]['width']/2;
-        //         var y = objects[object]['top_y'] + objects[object]['height']/2;
-                
-        //     }
-        //     speech.cancel();
-        //     speech.speak({
-        //         text: "Detected" + object_info
-        //     }).then(() => {
-        //         console.log("Success !")
-        //     }).catch(e => {
-        //         console.error("An error occurred :", e)
-        //     })
-        // }
     }
-    
-    
+
+    soundPlaying(current_idx){
+        var scene_number = current_idx + 1;
+        console.log(current_idx, this.state.last_sound_idx)
+        if (this.state.scene_sounds.includes(scene_number)){
+            if( current_idx !== this.state.last_sound_idx){
+                setTimeout(function() { //Start the timer
+                    console.log("timer up")
+                    this.setState({last_sound_idx: current_idx}) //After 1 second, set render to true
+                }.bind(this), 600)
+                return Sound.status.PLAYING;
+            }
+        }
+        return Sound.status.STOPPED
+       
+    }
+
     
     render() {
         const { videoID, playing, playbackRate, listening, transcript} = this.state;
@@ -496,6 +471,10 @@ class Home extends Component {
                 <Timeline   videoTime={this.state.playedSeconds} duration={this.state.duration} ></Timeline>
                 <Segments videoID={this.state.videoID} scene_starts =  {this.state.scene_starts} scene_labels = {this.state.scene_labels} current_idx = {current_idx} current_mid_idx={current_mid_idx} mid_indexes = {this.state.mid_indexes} mid_contents = {this.state.mid_contents} entered_time = {this.state.entered_time} dynamic = {this.state.dynamic}></Segments>
                 </Container>
+                <Sound
+                    url={soundUrl}
+                    playStatus={this.soundPlaying(current_idx)}
+                />
             </div>
         )
     }

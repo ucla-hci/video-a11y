@@ -12,7 +12,7 @@ from ast import literal_eval
 path = '/Users/mina/Desktop/hecate/output/'
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/mina/Desktop/VideoA11y-3de01f8ba626.json"
 # change here to test with different videos
-video_id = 'TOyDzOc2AaI'
+video_id = 'qPix_X-9t7E'
 
 def detect_text(path):
     client = vision.ImageAnnotatorClient()
@@ -106,7 +106,7 @@ def localize_objects(path):
 def label_scene(vidoe_id, scene_idx):
     keyframe_num = 0
     while(True):
-        keyframe = path + video_id + '-' + str(scene_idx) + '_0' + str(keyframe_num) + '.png'
+        keyframe = path + video_id + '-0' + str(scene_idx) + '_0' + str(keyframe_num) + '.png'
         print(keyframe)
         if not isfile(keyframe):
             if keyframe_num >= 2:

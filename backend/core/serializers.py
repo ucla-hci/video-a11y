@@ -9,7 +9,7 @@ class SessionSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Session
-        # fields = ('sessionID', 'pauses', 'transcripts', 'transcript_times', 'bookmarks')
+        fields = ('sessionID', 'pauses',)
 
         fields = '__all__'
 

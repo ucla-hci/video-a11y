@@ -372,50 +372,13 @@
         "Length (frames)": 215,
         "Length (timecode)": "00:00:08.967",
         "Length (seconds)": 8.967,
+        "sound": true,
         "texts": [
-            "science",
-            "LEARNING FOR ALL",
-            "Bintou's",
-            "Plant Invaders",
-            "Braids",
-            "LANT",
-            "PLAN TS",
-            "PLAN E",
-            "a PENGUIN \u00aa",
-            "Sunflowers",
-            "3LOS SOMS",
-            "animalsanimale",
-            "La Mariposa",
-            "Salta y",
-            "brinca",
-            "California ScienCenter",
-            "Rabbits",
-            "Ellen Stoll Walsh",
-            "Francisco limenez",
-            "by Me a Stewart"
+            "Let's explore"
         ],
-        "objects": {
-            "Top": {
-                "pos": "center",
-                "size": "medium"
-            },
-            "Person": {
-                "pos": "top left",
-                "size": "narrow and tall"
-            },
-            "Packaged goods": {
-                "pos": "top middle",
-                "size": "tall"
-            },
-            "Bookcase": {
-                "pos": "top right",
-                "size": "very large"
-            }
-        },
+        "objects": {},
         "labels": [
-            "Bookcase",
-            "Photograph",
-            "Shelf"
+            "Illust"
         ]
     },
     {
@@ -429,6 +392,7 @@
         "Length (frames)": 138,
         "Length (timecode)": "00:00:05.756",
         "Length (seconds)": 5.756,
+        "sound": true,
         "texts": [
             "Bra",
             "Inseamer",
@@ -701,6 +665,7 @@
         "Length (frames)": 202,
         "Length (timecode)": "00:00:08.425",
         "Length (seconds)": 8.425,
+        "sound": true,
         "texts": [
             "Colifornia ScienCenter",
             "science",
@@ -793,6 +758,7 @@
         "Length (frames)": 97,
         "Length (timecode)": "00:00:04.046",
         "Length (seconds)": 4.046,
+        "sound": true,
         "texts": [
             "California ScienCenter"
         ],
@@ -819,10 +785,10 @@
         "Length (frames)": 210,
         "Length (timecode)": "00:00:08.759",
         "Length (seconds)": 8.759,
+        "sound": true,
         "texts": [
             "26 INCHES!",
-            "California ScienCenter",
-            "\u05d9\u05e8\u05d3\u05d3\u05d9\u05e8\u05d9"
+            "California ScienCenter"
         ],
         "objects": {
             "Person": {
@@ -1433,6 +1399,7 @@
         "Length (frames)": 1072,
         "Length (timecode)": "00:00:44.711",
         "Length (seconds)": 44.711,
+        "sound": true,
         "texts": [
             "SCOSYsTem",
             "California ScienCenter"
@@ -1872,6 +1839,7 @@
         "Length (frames)": 209,
         "Length (timecode)": "00:00:08.717",
         "Length (seconds)": 8.717,
+        "sound": true,
         "texts": [
             "California ScienCenter"
         ],

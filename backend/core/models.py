@@ -10,21 +10,25 @@ class Session(models.Model):
         models.TimeField(blank=True),
         null=True,
         blank=True,
+        default=[]
     )
     bookmarks = ArrayField(
         models.TimeField(blank=True),
         null=True,
         blank=True,
+        default=[]
     )
     transcripts = ArrayField(
         models.TextField(blank=True),
         null=True,
-        blank=True
+        blank=True,
+        default=[]
     )
     transcript_times = ArrayField(
         models.TimeField(blank=True),
         null=True,
-        blank=True
+        blank=True,
+        default=[]
     )
     returnpoints = ArrayField(
         models.TimeField(blank=True),

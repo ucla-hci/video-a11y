@@ -74,6 +74,7 @@
         "Length (frames)": 148,
         "Length (timecode)": "00:00:05.920",
         "Length (seconds)": 5.92,
+        "sound": true,
         "texts": [
             "educationinchemistry",
             "The Rainbow Flame",
@@ -99,6 +100,7 @@
         "Length (frames)": 1431,
         "Length (timecode)": "00:00:57.240",
         "Length (seconds)": 57.24,
+        "sound": true,
         "texts": [
             "eic",
             "De",
@@ -304,6 +306,7 @@
         "Length (frames)": 669,
         "Length (timecode)": "00:00:26.760",
         "Length (seconds)": 26.76,
+        "sound": true,
         "texts": [
             "eic",
             "De",
@@ -314,7 +317,7 @@
         "labels": [
             "Liquid",
             "Drinkware",
-            "Fluid"
+            "Fluid - color bright red"
         ]
     },
     {
@@ -477,6 +480,7 @@
         "Length (frames)": 322,
         "Length (timecode)": "00:00:12.880",
         "Length (seconds)": 12.88,
+        "sound": true,
         "texts": [
             "1.0",
             "eic",

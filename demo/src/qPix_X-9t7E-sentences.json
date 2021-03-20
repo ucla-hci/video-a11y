@@ -1,0 +1,968 @@
+[
+  {
+    "content": "This morning was a typical morning for me.\nI woke up thinking about that dream that I", 
+    "end": 3, 
+    "index": 1, 
+    "start": 0
+  }, 
+  {
+    "content": "keep having about the guy in the sloth suit,\nand then I got dressed because I was cold,", 
+    "end": 7, 
+    "index": 2, 
+    "start": 3
+  }, 
+  {
+    "content": "and then I made some toast with butter \u2018cause\nI was hungry, and then I let the dog out \u2018cause", 
+    "end": 11, 
+    "index": 3, 
+    "start": 7
+  }, 
+  {
+    "content": "she was whining and staring and me, and then\nI made some tea but I let it cool off before", 
+    "end": 14, 
+    "index": 4, 
+    "start": 11
+  }, 
+  {
+    "content": "I drank it because I burned my mouth yesterday.", 
+    "end": 16, 
+    "index": 5, 
+    "start": 14
+  }, 
+  {
+    "content": "In addition to being just part of my morning\nritual, all of these actions are examples", 
+    "end": 21, 
+    "index": 6, 
+    "start": 16
+  }, 
+  {
+    "content": "of what my nervous system does for me.", 
+    "end": 23, 
+    "index": 7, 
+    "start": 21
+  }, 
+  {
+    "content": "The weirdo dream, the sensation of cold air\nand hot tea, deciding what to put on the toast,", 
+    "end": 27, 
+    "index": 8, 
+    "start": 23
+  }, 
+  {
+    "content": "going to the door at the sound of the dog\n-- all that was processed and executed by", 
+    "end": 31, 
+    "index": 9, 
+    "start": 27
+  }, 
+  {
+    "content": "electrical and chemical signals to and from\nnerve cells.", 
+    "end": 34, 
+    "index": 10, 
+    "start": 31
+  }, 
+  {
+    "content": "You can\u2019t oversell the importance of the\nnervous system.", 
+    "end": 38, 
+    "index": 11, 
+    "start": 34
+  }, 
+  {
+    "content": "It controls ALL THE THINGS!", 
+    "end": 40, 
+    "index": 12, 
+    "start": 38
+  }, 
+  {
+    "content": "All your organs, all your physiological and\npsychological reactions, even your body\u2019s", 
+    "end": 44, 
+    "index": 13, 
+    "start": 40
+  }, 
+  {
+    "content": "other major controlling force, the endocrine\nsystem, bows down before the nervous system.", 
+    "end": 49, 
+    "index": 14, 
+    "start": 44
+  }, 
+  {
+    "content": "There is no \u201cyou\u201d without it. There is\nno \u201cme\u201d without it. There\u2019s no dogs", 
+    "end": 52, 
+    "index": 15, 
+    "start": 49
+  }, 
+  {
+    "content": "without it. There\u2019s no animals. There\u2019s\nno -- there\u2019s no things -- there\u2019s things.", 
+    "end": 57, 
+    "index": 16, 
+    "start": 52
+  }, 
+  {
+    "content": "It\u2019s important. That\u2019s why we\u2019re dedicating\nthe next several episodes to the fundamentals", 
+    "end": 60, 
+    "index": 17, 
+    "start": 57
+  }, 
+  {
+    "content": "of the nervous system -- its anatomy and organization,\nhow it communicates, and what happens when", 
+    "end": 65, 
+    "index": 18, 
+    "start": 60
+  }, 
+  {
+    "content": "it gets damaged.", 
+    "end": 66, 
+    "index": 19, 
+    "start": 65
+  }, 
+  {
+    "content": "This is mission control, people!", 
+    "end": 68, 
+    "index": 20, 
+    "start": 66
+  }, 
+  {
+    "content": "Even though pretty much all animals -- except\nsuper simple ones like sponges -- have a nervous", 
+    "end": 82, 
+    "index": 21, 
+    "start": 78
+  }, 
+  {
+    "content": "system, ours is probably the most distinctive\nfeature of our species.", 
+    "end": 86, 
+    "index": 22, 
+    "start": 82
+  }, 
+  {
+    "content": "From writing novels, to debating time travel,\nto juggling knives -- all of your thoughts,", 
+    "end": 91, 
+    "index": 23, 
+    "start": 86
+  }, 
+  {
+    "content": "and actions, and emotions can be boiled down\ninto three principal functions -- sensory", 
+    "end": 96, 
+    "index": 24, 
+    "start": 91
+  }, 
+  {
+    "content": "input, integration, and motor output.", 
+    "end": 99, 
+    "index": 25, 
+    "start": 96
+  }, 
+  {
+    "content": "Imagine a spider walking onto your bare knee.", 
+    "end": 101, 
+    "index": 26, 
+    "start": 99
+  }, 
+  {
+    "content": "The sensory receptors on your skin detect\nthose eight little legs -- that information", 
+    "end": 106, 
+    "index": 27, 
+    "start": 101
+  }, 
+  {
+    "content": "is your sensory input.", 
+    "end": 107, 
+    "index": 28, 
+    "start": 106
+  }, 
+  {
+    "content": "From there your nervous system processes that\ninput, and decides what should be done about", 
+    "end": 111, 
+    "index": 29, 
+    "start": 107
+  }, 
+  {
+    "content": "it. That\u2019s called integration -- like, should\nI be all zen about it and just let it walk", 
+    "end": 115, 
+    "index": 30, 
+    "start": 111
+  }, 
+  {
+    "content": "over me, or should I not be zen and freak\nout and run around screaming, \u201cSPIDER!\u201d?", 
+    "end": 121, 
+    "index": 31, 
+    "start": 115
+  }, 
+  {
+    "content": "Your hand lashing out to remove the spider,\nand maybe your accompanying banshee scream,", 
+    "end": 125, 
+    "index": 32, 
+    "start": 121
+  }, 
+  {
+    "content": "is the motor output -- the response that occurs\nwhen your nervous system activates certain", 
+    "end": 129, 
+    "index": 33, 
+    "start": 125
+  }, 
+  {
+    "content": "parts of your body.", 
+    "end": 130, 
+    "index": 34, 
+    "start": 129
+  }, 
+  {
+    "content": "As you can imagine, it takes a highly integrated\nsystem to detect, process, and act on data", 
+    "end": 134, 
+    "index": 35, 
+    "start": 130
+  }, 
+  {
+    "content": "like this, all the time.", 
+    "end": 136, 
+    "index": 36, 
+    "start": 134
+  }, 
+  {
+    "content": "And when we talk about the nervous system,\nwe\u2019re really talking about several levels", 
+    "end": 139, 
+    "index": 37, 
+    "start": 136
+  }, 
+  {
+    "content": "of organization, starting with two main parts:\nthe central and peripheral nervous systems.", 
+    "end": 144, 
+    "index": 38, 
+    "start": 139
+  }, 
+  {
+    "content": "The central nervous system is your brain and\nspinal cord -- the main control center. It\u2019s", 
+    "end": 149, 
+    "index": 39, 
+    "start": 144
+  }, 
+  {
+    "content": "what decided to remove the spider, and gave\nthe order to your hand.", 
+    "end": 152, 
+    "index": 40, 
+    "start": 149
+  }, 
+  {
+    "content": "Your peripheral system is composed of all\nthe nerves that branch off from the brain", 
+    "end": 156, 
+    "index": 41, 
+    "start": 152
+  }, 
+  {
+    "content": "and spine that allow your central nervous system\nto communicate with the rest of your body.", 
+    "end": 160, 
+    "index": 42, 
+    "start": 156
+  }, 
+  {
+    "content": "And since its job is communication, your peripheral\nsystem is set up to work in both directions:", 
+    "end": 164, 
+    "index": 43, 
+    "start": 160
+  }, 
+  {
+    "content": "The sensory, or afferent division is what\npicks up sensory stimuli -- like, \u201chey,", 
+    "end": 169, 
+    "index": 44, 
+    "start": 164
+  }, 
+  {
+    "content": "there\u2019s an arachnid on you\u201d -- and slings\nthat information to the brain.", 
+    "end": 171, 
+    "index": 45, 
+    "start": 169
+  }, 
+  {
+    "content": "Your motor, or efferent division is the part\nthat sends directions from your brain to the", 
+    "end": 175, 
+    "index": 46, 
+    "start": 171
+  }, 
+  {
+    "content": "muscles and glands -- like, \u201chey hand part,\nhow \u2018bout you do something about that spider.\u201d", 
+    "end": 180, 
+    "index": 47, 
+    "start": 175
+  }, 
+  {
+    "content": "The motor division also includes the somatic,\nor voluntary nervous system, that rules your", 
+    "end": 184, 
+    "index": 48, 
+    "start": 180
+  }, 
+  {
+    "content": "skeletal muscle movement, and the autonomic,\nor involuntary nervous system, that keeps", 
+    "end": 188, 
+    "index": 49, 
+    "start": 184
+  }, 
+  {
+    "content": "your heart beating, and your lungs breathing,\nand your stomach churning.", 
+    "end": 191, 
+    "index": 50, 
+    "start": 188
+  }, 
+  {
+    "content": "And finally, that autonomic system, too, has\nits own complementary forces. Its sympathetic", 
+    "end": 195, 
+    "index": 51, 
+    "start": 191
+  }, 
+  {
+    "content": "division mobilizes the body into action and\ngets it all fired up, like \u201cGah! SPIDER!\u201d", 
+    "end": 200, 
+    "index": 52, 
+    "start": 195
+  }, 
+  {
+    "content": "-- while the parasympathetic division relaxes\nthe body and talks it down\u2026 Like, \u201cit", 
+    "end": 204, 
+    "index": 53, 
+    "start": 200
+  }, 
+  {
+    "content": "wasn\u2019t a black widow or anything; you\u2019re\nfine, breathe!\u201d", 
+    "end": 206, 
+    "index": 54, 
+    "start": 204
+  }, 
+  {
+    "content": "So that\u2019s the organization of your nervous\nsystem in a nutshell. But no matter what part", 
+    "end": 210, 
+    "index": 55, 
+    "start": 206
+  }, 
+  {
+    "content": "you\u2019re talking about, they\u2019re all made\nup of mainly nervous tissue, which you\u2019ll", 
+    "end": 214, 
+    "index": 56, 
+    "start": 210
+  }, 
+  {
+    "content": "remember is densely packed with cells.", 
+    "end": 216, 
+    "index": 57, 
+    "start": 214
+  }, 
+  {
+    "content": "Maybe less than 20 percent of that tissue consists of\nextracellular space. Everything else? Cells.", 
+    "end": 221, 
+    "index": 58, 
+    "start": 216
+  }, 
+  {
+    "content": "The type of cells you\u2019ve most likely heard\nof are the neurons, or nerve cells, which", 
+    "end": 225, 
+    "index": 59, 
+    "start": 221
+  }, 
+  {
+    "content": "respond to stimuli and transmit signals.", 
+    "end": 227, 
+    "index": 60, 
+    "start": 225
+  }, 
+  {
+    "content": "These cells get all the publicity -- they\u2019re\nthe ones that we\u2019re always thanking every", 
+    "end": 231, 
+    "index": 61, 
+    "start": 227
+  }, 
+  {
+    "content": "time we ace an exam or think up a snappy comeback\nto an argument.", 
+    "end": 234, 
+    "index": 62, 
+    "start": 231
+  }, 
+  {
+    "content": "But these wise guys really account for just\na small part of your nervous tissue because", 
+    "end": 238, 
+    "index": 63, 
+    "start": 234
+  }, 
+  {
+    "content": "they are surrounded and protected by gaggles\nof neuroglia, or glial cells.", 
+    "end": 243, 
+    "index": 64, 
+    "start": 238
+  }, 
+  {
+    "content": "Once considered just the scaffolding or glue\nthat held neurons together, we now know that", 
+    "end": 247, 
+    "index": 65, 
+    "start": 243
+  }, 
+  {
+    "content": "our different glial cell types serve many\nother important functions, and they make up", 
+    "end": 252, 
+    "index": 66, 
+    "start": 247
+  }, 
+  {
+    "content": "about half of the mass of your brain, outnumbering\ntheir neuron colleagues by about 10 to 1.", 
+    "end": 258, 
+    "index": 67, 
+    "start": 252
+  }, 
+  {
+    "content": "Star-shaped astrocytes are found in your central\nnervous system and are your most abundant", 
+    "end": 261, 
+    "index": 68, 
+    "start": 258
+  }, 
+  {
+    "content": "and versatile glial cells. They anchor neurons\nto their blood supply, and govern the exchange", 
+    "end": 267, 
+    "index": 69, 
+    "start": 261
+  }, 
+  {
+    "content": "of materials between neurons and capillaries.", 
+    "end": 269, 
+    "index": 70, 
+    "start": 267
+  }, 
+  {
+    "content": "Also in your central nervous system are your\nprotective microglial cells -- they\u2019re smaller", 
+    "end": 274, 
+    "index": 71, 
+    "start": 269
+  }, 
+  {
+    "content": "and kinda thorny-looking, and act as the main\nsource of immune defense against invading", 
+    "end": 277, 
+    "index": 72, 
+    "start": 274
+  }, 
+  {
+    "content": "microorganisms in the brain and spinal cord.", 
+    "end": 280, 
+    "index": 73, 
+    "start": 277
+  }, 
+  {
+    "content": "Your ependymal cells line cavities in your\nbrain and spinal cord and create, secrete,", 
+    "end": 284, 
+    "index": 74, 
+    "start": 280
+  }, 
+  {
+    "content": "and circulate cerebrospinal fluid that fills\nthose cavities and cushions those organs.", 
+    "end": 288, 
+    "index": 75, 
+    "start": 284
+  }, 
+  {
+    "content": "And finally your central nervous system\u2019s\noligodendrocytes wrap around neurons, producing", 
+    "end": 293, 
+    "index": 76, 
+    "start": 288
+  }, 
+  {
+    "content": "an insulating barrier called the myelin sheath.", 
+    "end": 296, 
+    "index": 77, 
+    "start": 293
+  }, 
+  {
+    "content": "Now, over in your peripheral nervous system,\nthere are just two kinds of glial cells. Satellite", 
+    "end": 300, 
+    "index": 78, 
+    "start": 296
+  }, 
+  {
+    "content": "cells do mainly in the peripheral system what\nastrocyte cells do in the central system -- they", 
+    "end": 305, 
+    "index": 79, 
+    "start": 300
+  }, 
+  {
+    "content": "surround and support neuron cell bodies. While\nSchwann cells are similar to your oligodendrocytes,", 
+    "end": 310, 
+    "index": 80, 
+    "start": 305
+  }, 
+  {
+    "content": "in that they wrap around axons and make that\ninsulating myelin sheath.", 
+    "end": 314, 
+    "index": 81, 
+    "start": 310
+  }, 
+  {
+    "content": "So don\u2019t sell your glial cells short -- they\u2019re\nin the majority, cell-wise. But of course", 
+    "end": 318, 
+    "index": 82, 
+    "start": 314
+  }, 
+  {
+    "content": "when it comes to passing tests and winning\narguments, most of the heavy lifting is done", 
+    "end": 322, 
+    "index": 83, 
+    "start": 318
+  }, 
+  {
+    "content": "by the neurons. And they\u2019re not all the\nsame -- they\u2019re actually highly specialized,", 
+    "end": 326, 
+    "index": 84, 
+    "start": 322
+  }, 
+  {
+    "content": "coming in all shapes and sizes -- from tiny\nones in your brain to the ones that run the", 
+    "end": 330, 
+    "index": 85, 
+    "start": 326
+  }, 
+  {
+    "content": "entire length of your leg.", 
+    "end": 332, 
+    "index": 86, 
+    "start": 330
+  }, 
+  {
+    "content": "But they do all share three super-cool things\nin common.", 
+    "end": 335, 
+    "index": 87, 
+    "start": 332
+  }, 
+  {
+    "content": "Number 1. They\u2019re some of the longest-lived\ncells in your body. There\u2019s a lot of debate", 
+    "end": 339, 
+    "index": 88, 
+    "start": 335
+  }, 
+  {
+    "content": "right now about whether you\u2019re actually\nborn with all of the neurons you\u2019ll ever", 
+    "end": 343, 
+    "index": 89, 
+    "start": 339
+  }, 
+  {
+    "content": "have, but some research suggests that, at\nleast in your brain\u2019s cerebral cortex, your", 
+    "end": 347, 
+    "index": 90, 
+    "start": 343
+  }, 
+  {
+    "content": "neurons will live as long as you do.", 
+    "end": 349, 
+    "index": 91, 
+    "start": 347
+  }, 
+  {
+    "content": "Cool fact number 2. They are irreplaceable.\nIt\u2019s a good thing that they have such longevity,", 
+    "end": 354, 
+    "index": 92, 
+    "start": 349
+  }, 
+  {
+    "content": "because your neurons aren\u2019t like your constantly-\nrenewing skin cells. Most neurons are amitotic, so", 
+    "end": 359, 
+    "index": 93, 
+    "start": 354
+  }, 
+  {
+    "content": "once they take on their given roles in the\nnervous system, they lose their ability to", 
+    "end": 362, 
+    "index": 94, 
+    "start": 359
+  }, 
+  {
+    "content": "divide. So take care of \u2018em!", 
+    "end": 364, 
+    "index": 95, 
+    "start": 362
+  }, 
+  {
+    "content": "And number 3. They have huge appetites. Like\na soccer-playing teenager, neurons have a", 
+    "end": 370, 
+    "index": 96, 
+    "start": 364
+  }, 
+  {
+    "content": "crazy-high metabolic rate. They need a steady\nand abundant supply of glucose and oxygen,", 
+    "end": 375, 
+    "index": 97, 
+    "start": 370
+  }, 
+  {
+    "content": "and about 25 percent of the calories that\nyou take in every day are consumed by your", 
+    "end": 380, 
+    "index": 98, 
+    "start": 375
+  }, 
+  {
+    "content": "brain\u2019s activity.", 
+    "end": 381, 
+    "index": 99, 
+    "start": 380
+  }, 
+  {
+    "content": "Along with all these wonderful qualities,\nyour neurons also share the same basic structure.", 
+    "end": 385, 
+    "index": 100, 
+    "start": 381
+  }, 
+  {
+    "content": "The soma, or cell body, is the neuron\u2019s\nlife support. It\u2019s got all the normal cell", 
+    "end": 389, 
+    "index": 101, 
+    "start": 385
+  }, 
+  {
+    "content": "goodies like a nucleus, and DNA, mitochondria,\nribosomes, cytoplasm.", 
+    "end": 393, 
+    "index": 102, 
+    "start": 389
+  }, 
+  {
+    "content": "The bushy, branch-like things projecting out\nfrom the soma are dendrites. They\u2019re the", 
+    "end": 397, 
+    "index": 103, 
+    "start": 393
+  }, 
+  {
+    "content": "listeners -- they pick up messages, news, gossip from\nother cells and convey that information to the cell body.", 
+    "end": 403, 
+    "index": 104, 
+    "start": 397
+  }, 
+  {
+    "content": "The neuron\u2019s axon, meanwhile, is like the\ntalker. This long extension, or fiber, can", 
+    "end": 407, 
+    "index": 105, 
+    "start": 403
+  }, 
+  {
+    "content": "be super short, or run a full meter from your\nspine down to your ankle. We\u2019ve got a few", 
+    "end": 412, 
+    "index": 106, 
+    "start": 407
+  }, 
+  {
+    "content": "different axon layouts in our body, but in\nthe most abundant type of neuron, the axons", 
+    "end": 416, 
+    "index": 107, 
+    "start": 412
+  }, 
+  {
+    "content": "transmit electrical impulses away from the\ncell body to other cells.", 
+    "end": 420, 
+    "index": 108, 
+    "start": 416
+  }, 
+  {
+    "content": "For us students of biology, it\u2019s a good\nthing that nerve cells aren\u2019t all identical.", 
+    "end": 424, 
+    "index": 109, 
+    "start": 420
+  }, 
+  {
+    "content": "Because their differences in structure are one of\nthe ways that we tell them apart, and classify them.", 
+    "end": 428, 
+    "index": 110, 
+    "start": 424
+  }, 
+  {
+    "content": "The main feature we look at is how many processes\nextend out from the cell body.", 
+    "end": 432, 
+    "index": 111, 
+    "start": 428
+  }, 
+  {
+    "content": "A \u201cprocess\u201d in this case being a projecting\npart of an organic structure.", 
+    "end": 437, 
+    "index": 112, 
+    "start": 432
+  }, 
+  {
+    "content": "99 percent of all your neurons are multipolar\nneurons, with three or more processes sticking", 
+    "end": 442, 
+    "index": 113, 
+    "start": 437
+  }, 
+  {
+    "content": "out from the soma -- including one axon, and\na bunch of dendrites.", 
+    "end": 445, 
+    "index": 114, 
+    "start": 442
+  }, 
+  {
+    "content": "Bipolar neurons have two processes -- an axon\nand a single dendrite -- extending from opposite", 
+    "end": 451, 
+    "index": 115, 
+    "start": 445
+  }, 
+  {
+    "content": "sides of the cell body. They\u2019re pretty rare,\nfound only in a few special sensory places,", 
+    "end": 455, 
+    "index": 116, 
+    "start": 451
+  }, 
+  {
+    "content": "like the retina of your eye.", 
+    "end": 456, 
+    "index": 117, 
+    "start": 455
+  }, 
+  {
+    "content": "Unipolar neurons, on the other hand, have\njust one process, and are found mostly in", 
+    "end": 460, 
+    "index": 118, 
+    "start": 456
+  }, 
+  {
+    "content": "your sensory receptors.", 
+    "end": 461, 
+    "index": 119, 
+    "start": 460
+  }, 
+  {
+    "content": "So, if you ever find yourself probing around\nsomeone\u2019s nervous tissue, remember these", 
+    "end": 464, 
+    "index": 120, 
+    "start": 461
+  }, 
+  {
+    "content": "three terms to help you figure out what you\u2019re\nlooking at.", 
+    "end": 467, 
+    "index": 121, 
+    "start": 464
+  }, 
+  {
+    "content": "But because we\u2019re talking physiology here\nas well as anatomy, we have to classify these", 
+    "end": 471, 
+    "index": 122, 
+    "start": 467
+  }, 
+  {
+    "content": "cells in terms of their function, and that\nbasically comes down to which way an impulse", 
+    "end": 475, 
+    "index": 123, 
+    "start": 471
+  }, 
+  {
+    "content": "travels through a neuron in relation to the\nbrain and spine.", 
+    "end": 478, 
+    "index": 124, 
+    "start": 475
+  }, 
+  {
+    "content": "Our sensory, or afferent, neurons pick up\nmessages and transmit impulses from sensory", 
+    "end": 483, 
+    "index": 125, 
+    "start": 478
+  }, 
+  {
+    "content": "receptors in say, the skin or internal organs,\nand send them toward the central nervous system.", 
+    "end": 488, 
+    "index": 126, 
+    "start": 483
+  }, 
+  {
+    "content": "Most sensory neurons are unipolar.", 
+    "end": 490, 
+    "index": 127, 
+    "start": 488
+  }, 
+  {
+    "content": "Motor, or efferent, neurons do the opposite\n-- they\u2019re mostly multipolar, and transmit", 
+    "end": 494, 
+    "index": 128, 
+    "start": 490
+  }, 
+  {
+    "content": "impulses away from the central nervous system\nand out to your body\u2019s muscles and glands.", 
+    "end": 499, 
+    "index": 129, 
+    "start": 494
+  }, 
+  {
+    "content": "And then there are interneurons, or association\nneurons, which live in the central nervous", 
+    "end": 504, 
+    "index": 130, 
+    "start": 499
+  }, 
+  {
+    "content": "system and transmit impulses between those\nsensory and motor neurons. Interneurons are", 
+    "end": 508, 
+    "index": 131, 
+    "start": 504
+  }, 
+  {
+    "content": "the most abundant of your body\u2019s neurons\nand are mostly multipolar.", 
+    "end": 511, 
+    "index": 132, 
+    "start": 508
+  }, 
+  {
+    "content": "OK! It\u2019s applied knowledge time! Let\u2019s\nreview everything we\u2019ve learned so far in", 
+    "end": 515, 
+    "index": 133, 
+    "start": 511
+  }, 
+  {
+    "content": "terms of that spider on your knee.", 
+    "end": 517, 
+    "index": 134, 
+    "start": 515
+  }, 
+  {
+    "content": "Those eight creeping legs first activate your\nunipolar sensory neurons in the skin on your", 
+    "end": 521, 
+    "index": 135, 
+    "start": 517
+  }, 
+  {
+    "content": "knee, when they sense something crawling on\nyou. The signal travels up an axon wrapped", 
+    "end": 526, 
+    "index": 136, 
+    "start": 521
+  }, 
+  {
+    "content": "in Schwann cells and into your spinal cord, where it\ngets passed on to several multipolar interneurons.", 
+    "end": 532, 
+    "index": 137, 
+    "start": 526
+  }, 
+  {
+    "content": "Now, some of those interneurons might send\na signal straight down a bunch of multipolar", 
+    "end": 535, 
+    "index": 138, 
+    "start": 532
+  }, 
+  {
+    "content": "neurons to your quadriceps muscle on your\nthigh, triggering you to kick your leg out", 
+    "end": 540, 
+    "index": 139, 
+    "start": 535
+  }, 
+  {
+    "content": "before you even know what\u2019s going on.", 
+    "end": 542, 
+    "index": 140, 
+    "start": 540
+  }, 
+  {
+    "content": "Other interneurons will pass that signal to neurons\nthat carry it up your spinal cord to your brain.", 
+    "end": 546, 
+    "index": 141, 
+    "start": 542
+  }, 
+  {
+    "content": "That\u2019s where your body first recognizes\nthat thing as a spider, and the connections", 
+    "end": 550, 
+    "index": 142, 
+    "start": 546
+  }, 
+  {
+    "content": "between neurons interpret and split the signal\nso that you can either scream, and start swinging", 
+    "end": 555, 
+    "index": 143, 
+    "start": 550
+  }, 
+  {
+    "content": "your arms wildly about...or...remain calm, and\nwith dignity remove the spider from your person.", 
+    "end": 561, 
+    "index": 144, 
+    "start": 555
+  }, 
+  {
+    "content": "It\u2019s all based on the connections between\nneurons.", 
+    "end": 563, 
+    "index": 145, 
+    "start": 561
+  }, 
+  {
+    "content": "Which brings me to a whole new question: How?", 
+    "end": 566, 
+    "index": 146, 
+    "start": 563
+  }, 
+  {
+    "content": "How in the name of Jean-Martin Charcot do\nnerve cells use chemistry and electricity", 
+    "end": 572, 
+    "index": 147, 
+    "start": 566
+  }, 
+  {
+    "content": "to communicate with each other?", 
+    "end": 573, 
+    "index": 148, 
+    "start": 572
+  }, 
+  {
+    "content": "It\u2019s one of the most stupifyingly awesome\nand complicated aspects of your nervous system,", 
+    "end": 577, 
+    "index": 149, 
+    "start": 573
+  }, 
+  {
+    "content": "and basically of all life and it is what we\nwill cover in our next lesson.", 
+    "end": 581, 
+    "index": 150, 
+    "start": 577
+  }, 
+  {
+    "content": "Today you learned how sensory input, integration,\nand motor output of your nervous system basically", 
+    "end": 586, 
+    "index": 151, 
+    "start": 581
+  }, 
+  {
+    "content": "rules your world. We talked about how the\ncentral and peripheral systems are organized,", 
+    "end": 590, 
+    "index": 152, 
+    "start": 586
+  }, 
+  {
+    "content": "and what they do, and looked at the role of\ndifferent glial cells in nervous tissue function.", 
+    "end": 595, 
+    "index": 153, 
+    "start": 590
+  }, 
+  {
+    "content": "We also looked at the role, anatomy, and function\nof neuron types in the body, both structurally", 
+    "end": 600, 
+    "index": 154, 
+    "start": 595
+  }, 
+  {
+    "content": "and functionally, and how everything plays out\nwhen you find a spider crawling on your skin.", 
+    "end": 605, 
+    "index": 155, 
+    "start": 600
+  }, 
+  {
+    "content": "Thank you for watching, especially to all\nof our Subbable subscribers, who make Crash", 
+    "end": 608, 
+    "index": 156, 
+    "start": 605
+  }, 
+  {
+    "content": "Course possible for themselves and for the\nwhole rest of the world. To find out how you", 
+    "end": 612, 
+    "index": 157, 
+    "start": 608
+  }, 
+  {
+    "content": "can become a supporter, just go to subbable.com.", 
+    "end": 614, 
+    "index": 158, 
+    "start": 612
+  }, 
+  {
+    "content": "This episode was written by Kathleen Yale,\nthe script was edited by Blake de Pastino,", 
+    "end": 617, 
+    "index": 159, 
+    "start": 614
+  }, 
+  {
+    "content": "and our consultant is Dr. Brandon Jackson.\nIt was directed by Nicholas Jenkins and Michael", 
+    "end": 622, 
+    "index": 160, 
+    "start": 617
+  }, 
+  {
+    "content": "Aranda, and our graphics team is Thought Caf\u00e9.", 
+    "end": 625, 
+    "index": 161, 
+    "start": 622
+  }
+]

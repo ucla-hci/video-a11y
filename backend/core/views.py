@@ -20,7 +20,7 @@ def index(request):
     return render(request, "build/index.html")
 
 
-    
+
 @csrf_exempt
 @api_view(["POST"])
 def find_sentence(request):
@@ -90,7 +90,7 @@ class SessionViewSet(viewsets.ModelViewSet):
     @action(detail=True, methods=['post'], name='add pause')
     def add_pause(self, request, pk=None):
         session = self.get_object()
-        print('the request time data is ', request.data['time'])
+        print('the request time data is ', request.data['time'], session)
         session.pauses.append(request.data['time'])
         session.save()
         return Response({'status': 'pause added'})

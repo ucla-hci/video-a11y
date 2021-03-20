@@ -1,0 +1,938 @@
+[
+  {
+    "content": "So, the summer beard is ready for a trim,", 
+    "end": 2, 
+    "index": 1, 
+    "start": 0
+  }, 
+  {
+    "content": "it looks like September's just around", 
+    "end": 4, 
+    "index": 2, 
+    "start": 2
+  }, 
+  {
+    "content": "the corner, so it's time for our next", 
+    "end": 6, 
+    "index": 3, 
+    "start": 4
+  }, 
+  {
+    "content": "Education in Chemistry. And this month we're", 
+    "end": 8, 
+    "index": 4, 
+    "start": 6
+  }, 
+  {
+    "content": "going to be visiting a demonstration that has", 
+    "end": 11, 
+    "index": 5, 
+    "start": 8
+  }, 
+  {
+    "content": "caused some life-changing injuries in", 
+    "end": 12, 
+    "index": 6, 
+    "start": 11
+  }, 
+  {
+    "content": "the US and has even had some calls for", 
+    "end": 14, 
+    "index": 7, 
+    "start": 12
+  }, 
+  {
+    "content": "it to be banned. But there's absolutely", 
+    "end": 17, 
+    "index": 8, 
+    "start": 16
+  }, 
+  {
+    "content": "no reason for this demonstration to be", 
+    "end": 18, 
+    "index": 9, 
+    "start": 17
+  }, 
+  {
+    "content": "banned as long as we're doing the", 
+    "end": 20, 
+    "index": 10, 
+    "start": 19
+  }, 
+  {
+    "content": "experiments safely and paying attention", 
+    "end": 22, 
+    "index": 11, 
+    "start": 21
+  }, 
+  {
+    "content": "especially to the choice of solvent. It's", 
+    "end": 26, 
+    "index": 12, 
+    "start": 23
+  }, 
+  {
+    "content": "recently been revisited by Peter Hoare", 
+    "end": 28, 
+    "index": 13, 
+    "start": 26
+  }, 
+  {
+    "content": "and CLEAPSS have issued a new risk", 
+    "end": 33, 
+    "index": 14, 
+    "start": 30
+  }, 
+  {
+    "content": "assessment to accompany this", 
+    "end": 34, 
+    "index": 15, 
+    "start": 33
+  }, 
+  {
+    "content": "demonstration so I thought it was", 
+    "end": 35, 
+    "index": 16, 
+    "start": 34
+  }, 
+  {
+    "content": "worthwhile flagging up; this is Rainbow Flames.", 
+    "end": 39, 
+    "index": 17, 
+    "start": 35
+  }, 
+  {
+    "content": "So, the main trick to doing this", 
+    "end": 53, 
+    "index": 18, 
+    "start": 51
+  }, 
+  {
+    "content": "demonstration safely is going to be", 
+    "end": 55, 
+    "index": 19, 
+    "start": 53
+  }, 
+  {
+    "content": "down to solvent choice. A lot of injuries", 
+    "end": 57, 
+    "index": 20, 
+    "start": 55
+  }, 
+  {
+    "content": "have been caused by using methanol in the past.", 
+    "end": 59, 
+    "index": 21, 
+    "start": 57
+  }, 
+  {
+    "content": "We're gonna be using ethanol today.", 
+    "end": 62, 
+    "index": 22, 
+    "start": 60
+  }, 
+  {
+    "content": "Number one: there's absolutely no reason", 
+    "end": 64, 
+    "index": 23, 
+    "start": 62
+  }, 
+  {
+    "content": "to be using methanol. It has an", 
+    "end": 66, 
+    "index": 24, 
+    "start": 64
+  }, 
+  {
+    "content": "incredibly low flash point and it's", 
+    "end": 68, 
+    "index": 25, 
+    "start": 66
+  }, 
+  {
+    "content": "actually toxic as well. So, ethanol, it's", 
+    "end": 71, 
+    "index": 26, 
+    "start": 68
+  }, 
+  {
+    "content": "going to be a much better choice for us", 
+    "end": 72, 
+    "index": 27, 
+    "start": 71
+  }, 
+  {
+    "content": "to be using. Also notice that I only", 
+    "end": 75, 
+    "index": 28, 
+    "start": 72
+  }, 
+  {
+    "content": "need like a maximum of 50 ml for this", 
+    "end": 78, 
+    "index": 29, 
+    "start": 75
+  }, 
+  {
+    "content": "demonstration, so I'm not gonna be", 
+    "end": 80, 
+    "index": 30, 
+    "start": 78
+  }, 
+  {
+    "content": "bringing a whole Winchester [bottle] load of", 
+    "end": 82, 
+    "index": 31, 
+    "start": 80
+  }, 
+  {
+    "content": "ethanol into the lab with me. This is as", 
+    "end": 84, 
+    "index": 32, 
+    "start": 82
+  }, 
+  {
+    "content": "much as I actually want to be around.", 
+    "end": 86, 
+    "index": 33, 
+    "start": 84
+  }, 
+  {
+    "content": "And the last thing of course, absolutely never, ever, ever pour straight from the bottle onto the experiment after it's begun.", 
+    "end": 93, 
+    "index": 34, 
+    "start": 86
+  }, 
+  {
+    "content": "We'll talk a little bit more", 
+    "end": 94, 
+    "index": 35, 
+    "start": 93
+  }, 
+  {
+    "content": "about that later on.", 
+    "end": 97, 
+    "index": 36, 
+    "start": 94
+  }, 
+  {
+    "content": "Okay so to get me started,", 
+    "end": 99, 
+    "index": 37, 
+    "start": 97
+  }, 
+  {
+    "content": "I have a number of salts here.", 
+    "end": 101, 
+    "index": 38, 
+    "start": 99
+  }, 
+  {
+    "content": "I've actually sort of arranged them", 
+    "end": 103, 
+    "index": 39, 
+    "start": 101
+  }, 
+  {
+    "content": "roughly in order of colour for the", 
+    "end": 104, 
+    "index": 40, 
+    "start": 103
+  }, 
+  {
+    "content": "rainbow but that's not obviously essential.", 
+    "end": 106, 
+    "index": 41, 
+    "start": 104
+  }, 
+  {
+    "content": "And into the bottom of each one", 
+    "end": 109, 
+    "index": 42, 
+    "start": 108
+  }, 
+  {
+    "content": "of these borosilicate beakers, I've", 
+    "end": 111, 
+    "index": 43, 
+    "start": 109
+  }, 
+  {
+    "content": "placed two to three grams of the solid.", 
+    "end": 114, 
+    "index": 44, 
+    "start": 112
+  }, 
+  {
+    "content": "Borosilicate is important to be using here to", 
+    "end": 116, 
+    "index": 45, 
+    "start": 114
+  }, 
+  {
+    "content": "make sure that the heat that is being", 
+    "end": 118, 
+    "index": 46, 
+    "start": 116
+  }, 
+  {
+    "content": "generated is not going to cause any cracks.", 
+    "end": 120, 
+    "index": 47, 
+    "start": 118
+  }, 
+  {
+    "content": "Watch glasses would be a really", 
+    "end": 122, 
+    "index": 48, 
+    "start": 120
+  }, 
+  {
+    "content": "poor choice for this experiment because", 
+    "end": 123, 
+    "index": 49, 
+    "start": 122
+  }, 
+  {
+    "content": "they tend to be made from soda glass.", 
+    "end": 126, 
+    "index": 50, 
+    "start": 123
+  }, 
+  {
+    "content": "It's likely that they will crack and", 
+    "end": 128, 
+    "index": 51, 
+    "start": 126
+  }, 
+  {
+    "content": "spill burning ethanol over your desk,", 
+    "end": 131, 
+    "index": 52, 
+    "start": 128
+  }, 
+  {
+    "content": "which of course you don't want to be", 
+    "end": 132, 
+    "index": 53, 
+    "start": 131
+  }, 
+  {
+    "content": "happening. So, having spread two or three", 
+    "end": 135, 
+    "index": 54, 
+    "start": 132
+  }, 
+  {
+    "content": "grams of the solid across the bottom,", 
+    "end": 137, 
+    "index": 55, 
+    "start": 135
+  }, 
+  {
+    "content": "then you just want to dampen each of the", 
+    "end": 140, 
+    "index": 56, 
+    "start": 137
+  }, 
+  {
+    "content": "solids with about half a ml of water.", 
+    "end": 143, 
+    "index": 57, 
+    "start": 141
+  }, 
+  {
+    "content": "I'm going to do that now.", 
+    "end": 146, 
+    "index": 58, 
+    "start": 143
+  }, 
+  {
+    "content": "And then on to each one you're going to", 
+    "end": 151, 
+    "index": 59, 
+    "start": 149
+  }, 
+  {
+    "content": "be using about six ml of ethanol.", 
+    "end": 153, 
+    "index": 60, 
+    "start": 152
+  }, 
+  {
+    "content": "Work on a heat-resistant mat for the", 
+    "end": 155, 
+    "index": 61, 
+    "start": 153
+  }, 
+  {
+    "content": "demonstration, and it would be handy to", 
+    "end": 157, 
+    "index": 62, 
+    "start": 155
+  }, 
+  {
+    "content": "have somebody ready nearby some light", 
+    "end": 160, 
+    "index": 63, 
+    "start": 157
+  }, 
+  {
+    "content": "switches to get the room darkened for you,", 
+    "end": 162, 
+    "index": 64, 
+    "start": 160
+  }, 
+  {
+    "content": "so that you can actually get the best", 
+    "end": 164, 
+    "index": 65, 
+    "start": 162
+  }, 
+  {
+    "content": "effect off of some of these flames.", 
+    "end": 165, 
+    "index": 66, 
+    "start": 164
+  }, 
+  {
+    "content": "So now I've got my beakers all loaded up", 
+    "end": 178, 
+    "index": 67, 
+    "start": 176
+  }, 
+  {
+    "content": "with solvent, next thing to do is to", 
+    "end": 180, 
+    "index": 68, 
+    "start": 178
+  }, 
+  {
+    "content": "make sure I remove the solvent at least", 
+    "end": 181, 
+    "index": 69, 
+    "start": 180
+  }, 
+  {
+    "content": "three metres away from where the", 
+    "end": 183, 
+    "index": 70, 
+    "start": 182
+  }, 
+  {
+    "content": "demonstration is taking place.", 
+    "end": 185, 
+    "index": 71, 
+    "start": 183
+  }, 
+  {
+    "content": "So I'm going to completely remove the bottle.", 
+    "end": 186, 
+    "index": 72, 
+    "start": 185
+  }, 
+  {
+    "content": "And at the same time, because I'm plugged", 
+    "end": 188, 
+    "index": 73, 
+    "start": 186
+  }, 
+  {
+    "content": "in here with a microphone, I'm going to", 
+    "end": 190, 
+    "index": 74, 
+    "start": 188
+  }, 
+  {
+    "content": "use that opportunity to make the room", 
+    "end": 192, 
+    "index": 75, 
+    "start": 190
+  }, 
+  {
+    "content": "a little bit darker so that we can enjoy", 
+    "end": 194, 
+    "index": 76, 
+    "start": 192
+  }, 
+  {
+    "content": "this experiment at the best possible", 
+    "end": 196, 
+    "index": 77, 
+    "start": 194
+  }, 
+  {
+    "content": "condition that we can.", 
+    "end": 198, 
+    "index": 78, 
+    "start": 196
+  }, 
+  {
+    "content": "Okay, so lights are down", 
+    "end": 199, 
+    "index": 79, 
+    "start": 198
+  }, 
+  {
+    "content": "I've got a metre rule with a", 
+    "end": 200, 
+    "index": 80, 
+    "start": 199
+  }, 
+  {
+    "content": "splint attached. My audience are three", 
+    "end": 202, 
+    "index": 81, 
+    "start": 200
+  }, 
+  {
+    "content": "metres away. I'm going to be using the", 
+    "end": 205, 
+    "index": 82, 
+    "start": 202
+  }, 
+  {
+    "content": "metre rule to light these up. Let's enjoy", 
+    "end": 206, 
+    "index": 83, 
+    "start": 205
+  }, 
+  {
+    "content": "the rainbow flames.", 
+    "end": 209, 
+    "index": 84, 
+    "start": 206
+  }, 
+  {
+    "content": "So, there we go, rainbow flames.", 
+    "end": 272, 
+    "index": 85, 
+    "start": 270
+  }, 
+  {
+    "content": "Now, before you go", 
+    "end": 273, 
+    "index": 86, 
+    "start": 272
+  }, 
+  {
+    "content": "the main risk associated with this", 
+    "end": 276, 
+    "index": 87, 
+    "start": 273
+  }, 
+  {
+    "content": "demonstration is when teachers attempted", 
+    "end": 279, 
+    "index": 88, 
+    "start": 276
+  }, 
+  {
+    "content": "to pour solvent straight back onto a", 
+    "end": 282, 
+    "index": 89, 
+    "start": 279
+  }, 
+  {
+    "content": "flame that they think has extinguished.", 
+    "end": 284, 
+    "index": 90, 
+    "start": 282
+  }, 
+  {
+    "content": "Potentially it has. But these beakers are", 
+    "end": 286, 
+    "index": 91, 
+    "start": 284
+  }, 
+  {
+    "content": "going to stay hot for at least 15", 
+    "end": 288, 
+    "index": 92, 
+    "start": 286
+  }, 
+  {
+    "content": "minutes afterwards make sure you do not", 
+    "end": 290, 
+    "index": 93, 
+    "start": 288
+  }, 
+  {
+    "content": "ever pour solvent straight back onto", 
+    "end": 292, 
+    "index": 94, 
+    "start": 290
+  }, 
+  {
+    "content": "these beakers. Leave them 15 minutes or", 
+    "end": 294, 
+    "index": 95, 
+    "start": 292
+  }, 
+  {
+    "content": "so. But if you've done that then actually", 
+    "end": 297, 
+    "index": 96, 
+    "start": 294
+  }, 
+  {
+    "content": "these beakers can be kept and reused", 
+    "end": 299, 
+    "index": 97, 
+    "start": 297
+  }, 
+  {
+    "content": "exactly as they are. It's a really quick", 
+    "end": 301, 
+    "index": 98, 
+    "start": 299
+  }, 
+  {
+    "content": "and simple demonstration to set up, with", 
+    "end": 303, 
+    "index": 99, 
+    "start": 301
+  }, 
+  {
+    "content": "the exception of the copper which will", 
+    "end": 305, 
+    "index": 100, 
+    "start": 303
+  }, 
+  {
+    "content": "thermally decompose. So that one actually", 
+    "end": 308, 
+    "index": 101, 
+    "start": 305
+  }, 
+  {
+    "content": "you would potentially collect and", 
+    "end": 310, 
+    "index": 102, 
+    "start": 308
+  }, 
+  {
+    "content": "dispose of but the other beakers you can", 
+    "end": 312, 
+    "index": 103, 
+    "start": 310
+  }, 
+  {
+    "content": "keep as they are. One last thing before", 
+    "end": 314, 
+    "index": 104, 
+    "start": 312
+  }, 
+  {
+    "content": "we go though: I got a new toy over the", 
+    "end": 316, 
+    "index": 105, 
+    "start": 314
+  }, 
+  {
+    "content": "summer and I was really excited by this.", 
+    "end": 317, 
+    "index": 106, 
+    "start": 316
+  }, 
+  {
+    "content": "It's a little computer spectrometer.", 
+    "end": 321, 
+    "index": 107, 
+    "start": 317
+  }, 
+  {
+    "content": "And I thought, well, this would be a great", 
+    "end": 322, 
+    "index": 108, 
+    "start": 321
+  }, 
+  {
+    "content": "demonstration to try and sort of see", 
+    "end": 325, 
+    "index": 109, 
+    "start": 322
+  }, 
+  {
+    "content": "what kind of data I can get from some", 
+    "end": 327, 
+    "index": 110, 
+    "start": 325
+  }, 
+  {
+    "content": "of these flames. I was particularly", 
+    "end": 329, 
+    "index": 111, 
+    "start": 327
+  }, 
+  {
+    "content": "interested in the potassium flame", 
+    "end": 331, 
+    "index": 112, 
+    "start": 329
+  }, 
+  {
+    "content": "because I was like I know that the", 
+    "end": 333, 
+    "index": 113, 
+    "start": 331
+  }, 
+  {
+    "content": "red line associated with lithium is that", 
+    "end": 336, 
+    "index": 114, 
+    "start": 333
+  }, 
+  {
+    "content": "nearest p down to the s transition.", 
+    "end": 338, 
+    "index": 115, 
+    "start": 336
+  }, 
+  {
+    "content": "And we get that nice bright famous sodium p", 
+    "end": 342, 
+    "index": 116, 
+    "start": 339
+  }, 
+  {
+    "content": "back down to the s transition.", 
+    "end": 344, 
+    "index": 117, 
+    "start": 342
+  }, 
+  {
+    "content": "Why isn't there this sort of same thing going on?", 
+    "end": 347, 
+    "index": 118, 
+    "start": 344
+  }, 
+  {
+    "content": "Why is it that potassium is such", 
+    "end": 349, 
+    "index": 119, 
+    "start": 347
+  }, 
+  {
+    "content": "a poor flame colour by comparison?", 
+    "end": 351, 
+    "index": 120, 
+    "start": 349
+  }, 
+  {
+    "content": "And then when I pointed the spectrometer at", 
+    "end": 355, 
+    "index": 121, 
+    "start": 352
+  }, 
+  {
+    "content": "the flame I was like I can't believe I", 
+    "end": 356, 
+    "index": 122, 
+    "start": 355
+  }, 
+  {
+    "content": "didn't think of this before. It was so", 
+    "end": 357, 
+    "index": 123, 
+    "start": 356
+  }, 
+  {
+    "content": "cool. Because I looked there and", 
+    "end": 360, 
+    "index": 124, 
+    "start": 357
+  }, 
+  {
+    "content": "isn't instead of seeing lots of", 
+    "end": 362, 
+    "index": 125, 
+    "start": 360
+  }, 
+  {
+    "content": "transitions around the purple end of", 
+    "end": 364, 
+    "index": 126, 
+    "start": 362
+  }, 
+  {
+    "content": "the spectrum I saw this massive", 
+    "end": 365, 
+    "index": 127, 
+    "start": 364
+  }, 
+  {
+    "content": "transition down in the red. It was the same p", 
+    "end": 368, 
+    "index": 128, 
+    "start": 365
+  }, 
+  {
+    "content": "to the s transition. I was like there's got to be something wrong with this", 
+    "end": 370, 
+    "index": 129, 
+    "start": 368
+  }, 
+  {
+    "content": "spectrometer. Until I looked more closely at", 
+    "end": 373, 
+    "index": 130, 
+    "start": 370
+  }, 
+  {
+    "content": "the numbers and it was borne out of", 
+    "end": 376, 
+    "index": 131, 
+    "start": 373
+  }, 
+  {
+    "content": "course when I went and checked out the", 
+    "end": 377, 
+    "index": 132, 
+    "start": 376
+  }, 
+  {
+    "content": "actual data for potassium. That same", 
+    "end": 379, 
+    "index": 133, 
+    "start": 377
+  }, 
+  {
+    "content": "p to s transition is there it's just", 
+    "end": 381, 
+    "index": 134, 
+    "start": 379
+  }, 
+  {
+    "content": "beyond the range of visible light to", 
+    "end": 385, 
+    "index": 135, 
+    "start": 381
+  }, 
+  {
+    "content": "the human eye. And so what we're seeing", 
+    "end": 388, 
+    "index": 136, 
+    "start": 385
+  }, 
+  {
+    "content": "here with the purple light coming from", 
+    "end": 389, 
+    "index": 137, 
+    "start": 388
+  }, 
+  {
+    "content": "the potassium are actually those far", 
+    "end": 392, 
+    "index": 138, 
+    "start": 389
+  }, 
+  {
+    "content": "more infrequent", 
+    "end": 393, 
+    "index": 139, 
+    "start": 392
+  }, 
+  {
+    "content": "transitions down from the higher", 
+    "end": 395, 
+    "index": 140, 
+    "start": 393
+  }, 
+  {
+    "content": "orbitals above that nearest p, which", 
+    "end": 399, 
+    "index": 141, 
+    "start": 395
+  }, 
+  {
+    "content": "explains of course why it's a paler", 
+    "end": 401, 
+    "index": 142, 
+    "start": 399
+  }, 
+  {
+    "content": "transitioned because they're happening", 
+    "end": 402, 
+    "index": 143, 
+    "start": 401
+  }, 
+  {
+    "content": "far more infrequently. And those", 
+    "end": 405, 
+    "index": 144, 
+    "start": 402
+  }, 
+  {
+    "content": "transitions are actually taking place in", 
+    "end": 407, 
+    "index": 145, 
+    "start": 405
+  }, 
+  {
+    "content": "the sodium and the lithium as well but", 
+    "end": 409, 
+    "index": 146, 
+    "start": 407
+  }, 
+  {
+    "content": "of course they're being masked by those", 
+    "end": 411, 
+    "index": 147, 
+    "start": 409
+  }, 
+  {
+    "content": "brighter lines coming from that very", 
+    "end": 414, 
+    "index": 148, 
+    "start": 411
+  }, 
+  {
+    "content": "common p down to s transition.", 
+    "end": 417, 
+    "index": 149, 
+    "start": 414
+  }, 
+  {
+    "content": "So, rainbow flames, it still can teach me a few things,", 
+    "end": 419, 
+    "index": 150, 
+    "start": 417
+  }, 
+  {
+    "content": "and I really hope it can enthuse your students as well.", 
+    "end": 421, 
+    "index": 151, 
+    "start": 419
+  }, 
+  {
+    "content": "Don't let this demonstration die,", 
+    "end": 424, 
+    "index": 152, 
+    "start": 423
+  }, 
+  {
+    "content": "it can be done safely. Get in touch with", 
+    "end": 426, 
+    "index": 153, 
+    "start": 424
+  }, 
+  {
+    "content": "CLEAPSS if you want any special guidance", 
+    "end": 428, 
+    "index": 154, 
+    "start": 426
+  }, 
+  {
+    "content": "and let's keep that flame burning for", 
+    "end": 431, 
+    "index": 155, 
+    "start": 428
+  }, 
+  {
+    "content": "Rainbow Flames. Thanks.", 
+    "end": 434, 
+    "index": 156, 
+    "start": 431
+  }
+]

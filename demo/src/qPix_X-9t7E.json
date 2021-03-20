@@ -1,0 +1,2660 @@
+[
+    {
+        "Scene Number": 1,
+        "Start Frame": 0,
+        "Start Timecode": "00:00:00.000",
+        "Start Time (seconds)": 0,
+        "End Frame": 33,
+        "End Timecode": "00:00:01.376",
+        "End Time (seconds)": 1.376,
+        "Length (frames)": 33,
+        "Length (timecode)": "00:00:01.376",
+        "Length (seconds)": 1.376,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "wide"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Vision care",
+            "Sleeve"
+        ]
+    },
+    {
+        "Scene Number": 2,
+        "Start Frame": 33,
+        "Start Timecode": "00:00:01.376",
+        "Start Time (seconds)": 1.376,
+        "End Frame": 409,
+        "End Timecode": "00:00:17.059",
+        "End Time (seconds)": 17.059,
+        "Length (frames)": 376,
+        "Length (timecode)": "00:00:15.682",
+        "Length (seconds)": 15.682,
+        "texts": [
+            "BE"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "middle left",
+                "size": "medium"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Tableware": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "wide"
+            }
+        },
+        "labels": [
+            "Picture frame",
+            "Table",
+            "Wood"
+        ]
+    },
+    {
+        "Scene Number": 3,
+        "Start Frame": 409,
+        "Start Timecode": "00:00:17.059",
+        "Start Time (seconds)": 17.059,
+        "End Frame": 829,
+        "End Timecode": "00:00:34.576",
+        "End Time (seconds)": 34.576,
+        "Length (frames)": 420,
+        "Length (timecode)": "00:00:17.517",
+        "Length (seconds)": 17.517,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "top left",
+                "size": "medium"
+            },
+            "Outerwear": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Packaged goods": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Table top": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Table",
+            "Picture frame",
+            "Tableware"
+        ]
+    },
+    {
+        "Scene Number": 4,
+        "Start Frame": 829,
+        "Start Timecode": "00:00:34.576",
+        "Start Time (seconds)": 34.576,
+        "End Frame": 917,
+        "End Timecode": "00:00:38.247",
+        "End Time (seconds)": 38.247,
+        "Length (frames)": 88,
+        "Length (timecode)": "00:00:03.670",
+        "Length (seconds)": 3.67,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Organ",
+            "Vision care"
+        ]
+    },
+    {
+        "Scene Number": 5,
+        "Start Frame": 917,
+        "Start Timecode": "00:00:38.247",
+        "Start Time (seconds)": 38.247,
+        "End Frame": 961,
+        "End Timecode": "00:00:40.082",
+        "End Time (seconds)": 40.082,
+        "Length (frames)": 44,
+        "Length (timecode)": "00:00:01.835",
+        "Length (seconds)": 1.835,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "wide"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Shirt": {
+                "pos": "top right",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Forehead",
+            "Glasses",
+            "Outerwear"
+        ]
+    },
+    {
+        "Scene Number": 6,
+        "Start Frame": 961,
+        "Start Timecode": "00:00:40.082",
+        "Start Time (seconds)": 40.082,
+        "End Frame": 1184,
+        "End Timecode": "00:00:49.383",
+        "End Time (seconds)": 49.383,
+        "Length (frames)": 223,
+        "Length (timecode)": "00:00:09.301",
+        "Length (seconds)": 9.301,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "bottom left",
+                "size": "small"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Watch",
+            "Vision care"
+        ]
+    },
+    {
+        "Scene Number": 7,
+        "Start Frame": 1184,
+        "Start Timecode": "00:00:49.383",
+        "Start Time (seconds)": 49.383,
+        "End Frame": 1377,
+        "End Timecode": "00:00:57.432",
+        "End Time (seconds)": 57.432,
+        "Length (frames)": 193,
+        "Length (timecode)": "00:00:08.050",
+        "Length (seconds)": 8.05,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Forehead",
+            "Glasses",
+            "Vision care"
+        ]
+    },
+    {
+        "Scene Number": 8,
+        "Start Frame": 1377,
+        "Start Timecode": "00:00:57.432",
+        "Start Time (seconds)": 57.432,
+        "End Frame": 1646,
+        "End Timecode": "00:01:08.652",
+        "End Time (seconds)": 68.652,
+        "Length (frames)": 269,
+        "Length (timecode)": "00:00:11.220",
+        "Length (seconds)": 11.22,
+        "texts": [
+            "ITS ANATOMY AND ORGANIZATION, HOW",
+            "IT COMMUNICATES, AND WHAT HAPPENS",
+            "WHEN IT GETS DAMAGED"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Wood",
+            "Rectangle",
+            "Sleeve"
+        ]
+    },
+    {
+        "Scene Number": 9,
+        "Start Frame": 1646,
+        "Start Timecode": "00:01:08.652",
+        "Start Time (seconds)": 68.652,
+        "End Frame": 1738,
+        "End Timecode": "00:01:12.489",
+        "End Time (seconds)": 72.489,
+        "Length (frames)": 92,
+        "Length (timecode)": "00:00:03.837",
+        "Length (seconds)": 3.837,
+        "sound": true,
+        "texts": [
+            "DFTBA!",
+            "ANATOMY & PHYSIOLOGY",
+            "CRASH COURSE"
+        ],
+        "objects": {},
+        "labels": [
+            "Azure",
+            "Font",
+            "Line"
+        ]
+    },
+    {
+        "Scene Number": 10,
+        "Start Frame": 1738,
+        "Start Timecode": "00:01:12.489",
+        "Start Time (seconds)": 72.489,
+        "End Frame": 1772,
+        "End Timecode": "00:01:13.907",
+        "End Time (seconds)": 73.907,
+        "Length (frames)": 34,
+        "Length (timecode)": "00:00:01.418",
+        "Length (seconds)": 1.418,
+        "texts": [],
+        "objects": {
+            "1D barcode": {
+                "pos": "bottom left",
+                "size": "medium"
+            },
+            "Sunglasses": {
+                "pos": "bottom right",
+                "size": "medium"
+            },
+            "Packaged goods": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Mouth",
+            "Facial expression",
+            "Human body"
+        ]
+    },
+    {
+        "Scene Number": 11,
+        "Start Frame": 1772,
+        "Start Timecode": "00:01:13.907",
+        "Start Time (seconds)": 73.907,
+        "End Frame": 2078,
+        "End Timecode": "00:01:26.670",
+        "End Time (seconds)": 86.67,
+        "Length (frames)": 306,
+        "Length (timecode)": "00:00:12.763",
+        "Length (seconds)": 12.763,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "bottom right",
+                "size": "wide"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Watch",
+            "Vision care"
+        ]
+    },
+    {
+        "Scene Number": 12,
+        "Start Frame": 2078,
+        "Start Timecode": "00:01:26.670",
+        "Start Time (seconds)": 86.67,
+        "End Frame": 2295,
+        "End Timecode": "00:01:35.721",
+        "End Time (seconds)": 95.721,
+        "Length (frames)": 217,
+        "Length (timecode)": "00:00:09.051",
+        "Length (seconds)": 9.051,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Toy": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Table"
+        ]
+    },
+    {
+        "Scene Number": 13,
+        "Start Frame": 2295,
+        "Start Timecode": "00:01:35.721",
+        "Start Time (seconds)": 95.721,
+        "End Frame": 2389,
+        "End Timecode": "00:01:39.641",
+        "End Time (seconds)": 99.641,
+        "Length (frames)": 94,
+        "Length (timecode)": "00:00:03.921",
+        "Length (seconds)": 3.921,
+        "sound": true,
+        "texts": [
+            "SENSORY INPUT",
+            "INTEGRATION",
+            "MOTOR OUTPUT"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "center",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Orange",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 14,
+        "Start Frame": 2389,
+        "Start Timecode": "00:01:39.641",
+        "Start Time (seconds)": 99.641,
+        "End Frame": 2438,
+        "End Timecode": "00:01:41.685",
+        "End Time (seconds)": 101.685,
+        "Length (frames)": 49,
+        "Length (timecode)": "00:00:02.044",
+        "Length (seconds)": 2.044,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "wide"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Forehead",
+            "Glasses",
+            "Chin"
+        ]
+    },
+    {
+        "Scene Number": 15,
+        "Start Frame": 2438,
+        "Start Timecode": "00:01:41.685",
+        "Start Time (seconds)": 101.685,
+        "End Frame": 2756,
+        "End Timecode": "00:01:54.948",
+        "End Time (seconds)": 114.948,
+        "Length (frames)": 318,
+        "Length (timecode)": "00:00:13.263",
+        "Length (seconds)": 13.263,
+        "texts": [
+            "SENSORY INPUT"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "center",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Insect",
+            "Art",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 16,
+        "Start Frame": 2756,
+        "Start Timecode": "00:01:54.948",
+        "Start Time (seconds)": 114.948,
+        "End Frame": 2905,
+        "End Timecode": "00:02:01.163",
+        "End Time (seconds)": 121.163,
+        "Length (frames)": 149,
+        "Length (timecode)": "00:00:06.215",
+        "Length (seconds)": 6.215,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "tall"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Outerwear": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "middle left",
+                "size": "medium"
+            },
+            "Toy": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Table": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Smile"
+        ]
+    },
+    {
+        "Scene Number": 17,
+        "Start Frame": 2905,
+        "Start Timecode": "00:02:01.163",
+        "Start Time (seconds)": 121.163,
+        "End Frame": 3007,
+        "End Timecode": "00:02:05.417",
+        "End Time (seconds)": 125.417,
+        "Length (frames)": 102,
+        "Length (timecode)": "00:00:04.254",
+        "Length (seconds)": 4.254,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            },
+            "Picture frame": {
+                "pos": "bottom left",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Microphone",
+            "Suit"
+        ]
+    },
+    {
+        "Scene Number": 18,
+        "Start Frame": 3007,
+        "Start Timecode": "00:02:05.417",
+        "Start Time (seconds)": 125.417,
+        "End Frame": 3271,
+        "End Timecode": "00:02:16.428",
+        "End Time (seconds)": 136.428,
+        "Length (frames)": 264,
+        "Length (timecode)": "00:00:11.011",
+        "Length (seconds)": 11.011,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Nose",
+            "Glasses",
+            "Lip"
+        ]
+    },
+    {
+        "Scene Number": 19,
+        "Start Frame": 3271,
+        "Start Timecode": "00:02:16.428",
+        "Start Time (seconds)": 136.428,
+        "End Frame": 3461,
+        "End Timecode": "00:02:24.353",
+        "End Time (seconds)": 144.353,
+        "Length (frames)": 190,
+        "Length (timecode)": "00:00:07.925",
+        "Length (seconds)": 7.925,
+        "texts": [
+            "\u5c0f"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "top left",
+                "size": "medium"
+            },
+            "Outerwear": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Table top": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Toy": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Vision care",
+            "Picture frame"
+        ]
+    },
+    {
+        "Scene Number": 20,
+        "Start Frame": 3461,
+        "Start Timecode": "00:02:24.353",
+        "Start Time (seconds)": 144.353,
+        "End Frame": 3844,
+        "End Timecode": "00:02:40.327",
+        "End Time (seconds)": 160.327,
+        "Length (frames)": 383,
+        "Length (timecode)": "00:00:15.974",
+        "Length (seconds)": 15.974,
+        "sound": true,
+        "texts": [
+            "CENTRAL",
+            "NERVOUS SYSTEM",
+            "CNS"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "middle left",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Gesture",
+            "People in nature",
+            "Happy"
+        ]
+    },
+    {
+        "Scene Number": 21,
+        "Start Frame": 3844,
+        "Start Timecode": "00:02:40.327",
+        "Start Time (seconds)": 160.327,
+        "End Frame": 3945,
+        "End Timecode": "00:02:44.539",
+        "End Time (seconds)": 164.539,
+        "Length (frames)": 101,
+        "Length (timecode)": "00:00:04.213",
+        "Length (seconds)": 4.213,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Chin",
+            "Facial expression"
+        ]
+    },
+    {
+        "Scene Number": 22,
+        "Start Frame": 3945,
+        "Start Timecode": "00:02:44.539",
+        "Start Time (seconds)": 164.539,
+        "End Frame": 4253,
+        "End Timecode": "00:02:57.386",
+        "End Time (seconds)": 177.386,
+        "Length (frames)": 308,
+        "Length (timecode)": "00:00:12.846",
+        "Length (seconds)": 12.846,
+        "texts": [
+            "CENTRAL",
+            "PERIPHERAL",
+            "NERVOUS SYSTEM",
+            "NERVOUS SYSTEM",
+            "CNS",
+            "PNS",
+            "SENSORY",
+            "DIVISION",
+            "afferent"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "top left",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Mammal",
+            "Sleeve",
+            "Organism"
+        ]
+    },
+    {
+        "Scene Number": 23,
+        "Start Frame": 4253,
+        "Start Timecode": "00:02:57.386",
+        "Start Time (seconds)": 177.386,
+        "End Frame": 4319,
+        "End Timecode": "00:03:00.138",
+        "End Time (seconds)": 180.138,
+        "Length (frames)": 66,
+        "Length (timecode)": "00:00:02.753",
+        "Length (seconds)": 2.753,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Table": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Toy": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Outerwear": {
+                "pos": "top right",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Vision care"
+        ]
+    },
+    {
+        "Scene Number": 24,
+        "Start Frame": 4319,
+        "Start Timecode": "00:03:00.138",
+        "Start Time (seconds)": 180.138,
+        "End Frame": 4584,
+        "End Timecode": "00:03:11.191",
+        "End Time (seconds)": 191.191,
+        "Length (frames)": 265,
+        "Length (timecode)": "00:00:11.053",
+        "Length (seconds)": 11.053,
+        "texts": [
+            "CENTRAL",
+            "PERIPHERAL",
+            "NERVOUS SYSTEM",
+            "NERVOUS SYSTEM",
+            "CNS",
+            "PNS",
+            "SENSORY",
+            "DIVISION",
+            "MOTOR",
+            "DIVISION",
+            "SOMATIC",
+            "NERVOUS SYSTEM",
+            "voluntary",
+            "> rules your skeletal",
+            "muscle movement"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "top left",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Cartoon",
+            "Font",
+            "Line"
+        ]
+    },
+    {
+        "Scene Number": 25,
+        "Start Frame": 4584,
+        "Start Timecode": "00:03:11.191",
+        "Start Time (seconds)": 191.191,
+        "End Frame": 4675,
+        "End Timecode": "00:03:14.986",
+        "End Time (seconds)": 194.986,
+        "Length (frames)": 91,
+        "Length (timecode)": "00:00:03.795",
+        "Length (seconds)": 3.795,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "top left",
+                "size": "medium"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            },
+            "Outerwear": {
+                "pos": "top right",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Vision care"
+        ]
+    },
+    {
+        "Scene Number": 26,
+        "Start Frame": 4675,
+        "Start Timecode": "00:03:14.986",
+        "Start Time (seconds)": 194.986,
+        "End Frame": 4891,
+        "End Timecode": "00:03:23.995",
+        "End Time (seconds)": 203.995,
+        "Length (frames)": 216,
+        "Length (timecode)": "00:00:09.009",
+        "Length (seconds)": 9.009,
+        "texts": [
+            "CENTRAL",
+            "PERIPHERAL",
+            "NERVOUS SYSTEM",
+            "NERVOUS SYSTEM",
+            "CNS",
+            "PNS",
+            "SENSORY",
+            "DIVISION",
+            "MOTOR",
+            "DIVISION",
+            "SOMATIC",
+            "AUTONOMIC",
+            "NERVOUS SYSTEM",
+            "NERVOUS SYSTEM",
+            "SYMPATHETIC",
+            "DIVISION"
+        ],
+        "objects": {},
+        "labels": [
+            "Font",
+            "Gesture"
+        ]
+    },
+    {
+        "Scene Number": 27,
+        "Start Frame": 4891,
+        "Start Timecode": "00:03:23.995",
+        "Start Time (seconds)": 203.995,
+        "End Frame": 4961,
+        "End Timecode": "00:03:26.915",
+        "End Time (seconds)": 206.915,
+        "Length (frames)": 70,
+        "Length (timecode)": "00:00:02.920",
+        "Length (seconds)": 2.92,
+        "texts": [
+            "o\u65e5"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            },
+            "Table": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "wide"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Window"
+        ]
+    },
+    {
+        "Scene Number": 28,
+        "Start Frame": 4961,
+        "Start Timecode": "00:03:26.915",
+        "Start Time (seconds)": 206.915,
+        "End Frame": 5101,
+        "End Timecode": "00:03:32.754",
+        "End Time (seconds)": 212.754,
+        "Length (frames)": 140,
+        "Length (timecode)": "00:00:05.839",
+        "Length (seconds)": 5.839,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "middle left",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Smile",
+            "Vision care"
+        ]
+    },
+    {
+        "Scene Number": 29,
+        "Start Frame": 5101,
+        "Start Timecode": "00:03:32.754",
+        "Start Time (seconds)": 212.754,
+        "End Frame": 5191,
+        "End Timecode": "00:03:36.508",
+        "End Time (seconds)": 216.508,
+        "Length (frames)": 90,
+        "Length (timecode)": "00:00:03.754",
+        "Length (seconds)": 3.754,
+        "texts": [],
+        "objects": {
+            "Hat": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Leaf",
+            "Human body"
+        ]
+    },
+    {
+        "Scene Number": 30,
+        "Start Frame": 5191,
+        "Start Timecode": "00:03:36.508",
+        "Start Time (seconds)": 216.508,
+        "End Frame": 5318,
+        "End Timecode": "00:03:41.805",
+        "End Time (seconds)": 221.805,
+        "Length (frames)": 127,
+        "Length (timecode)": "00:00:05.297",
+        "Length (seconds)": 5.297,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Vision care",
+            "Gesture"
+        ]
+    },
+    {
+        "Scene Number": 31,
+        "Start Frame": 5318,
+        "Start Timecode": "00:03:41.805",
+        "Start Time (seconds)": 221.805,
+        "End Frame": 5465,
+        "End Timecode": "00:03:47.936",
+        "End Time (seconds)": 227.936,
+        "Length (frames)": 147,
+        "Length (timecode)": "00:00:06.131",
+        "Length (seconds)": 6.131,
+        "texts": [],
+        "objects": {
+            "Hat": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Vertebrate",
+            "Plant",
+            "Human body"
+        ]
+    },
+    {
+        "Scene Number": 32,
+        "Start Frame": 5465,
+        "Start Timecode": "00:03:47.936",
+        "Start Time (seconds)": 227.936,
+        "End Frame": 5617,
+        "End Timecode": "00:03:54.276",
+        "End Time (seconds)": 234.276,
+        "Length (frames)": 152,
+        "Length (timecode)": "00:00:06.340",
+        "Length (seconds)": 6.34,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "middle left",
+                "size": "medium"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Toy": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Building"
+        ]
+    },
+    {
+        "Scene Number": 33,
+        "Start Frame": 5617,
+        "Start Timecode": "00:03:54.276",
+        "Start Time (seconds)": 234.276,
+        "End Frame": 5719,
+        "End Timecode": "00:03:58.530",
+        "End Time (seconds)": 238.53,
+        "Length (frames)": 102,
+        "Length (timecode)": "00:00:04.254",
+        "Length (seconds)": 4.254,
+        "texts": [],
+        "objects": {
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Picture frame": {
+                "pos": "bottom right",
+                "size": "wide"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Vision care",
+            "Eyewear"
+        ]
+    },
+    {
+        "Scene Number": 34,
+        "Start Frame": 5719,
+        "Start Timecode": "00:03:58.530",
+        "Start Time (seconds)": 238.53,
+        "End Frame": 5842,
+        "End Timecode": "00:04:03.660",
+        "End Time (seconds)": 243.66,
+        "Length (frames)": 123,
+        "Length (timecode)": "00:00:05.130",
+        "Length (seconds)": 5.13,
+        "texts": [],
+        "objects": {
+            "Hat": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Human body",
+            "Organism"
+        ]
+    },
+    {
+        "Scene Number": 35,
+        "Start Frame": 5842,
+        "Start Timecode": "00:04:03.660",
+        "Start Time (seconds)": 243.66,
+        "End Frame": 5938,
+        "End Timecode": "00:04:07.664",
+        "End Time (seconds)": 247.664,
+        "Length (frames)": 96,
+        "Length (timecode)": "00:00:04.004",
+        "Length (seconds)": 4.004,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "middle left",
+                "size": "medium"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Toy": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Table": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Vision care"
+        ]
+    },
+    {
+        "Scene Number": 36,
+        "Start Frame": 5938,
+        "Start Timecode": "00:04:07.664",
+        "Start Time (seconds)": 247.664,
+        "End Frame": 6101,
+        "End Timecode": "00:04:14.463",
+        "End Time (seconds)": 254.463,
+        "Length (frames)": 163,
+        "Length (timecode)": "00:00:06.798",
+        "Length (seconds)": 6.798,
+        "texts": [
+            "GLIAL CELL TYPES",
+            "provide support, nutrition, insulation, and help with",
+            "signal transmission in the nervous system.",
+            "CENTRAL NERVOUS SYSTEM",
+            "PERIPHERAL NERVOUS SYSTEM",
+            "ASTROCYTES",
+            "support, regulate ions",
+            "SATELLITE CELLS",
+            "surround neuron",
+            "cell bodies",
+            "MICROGLIAL CELLS",
+            "SCHWANN CELLS",
+            "defend",
+            "EPENDYMAL CELLS",
+            "insulate, help form",
+            "myelin sheath",
+            "line cavities",
+            "OLIGODENDROCYTES",
+            "wrap and insulate,",
+            "form myelin sheath"
+        ],
+        "objects": {},
+        "labels": [
+            "Font",
+            "Rectangle",
+            "Aqua"
+        ]
+    },
+    {
+        "Scene Number": 37,
+        "Start Frame": 6101,
+        "Start Timecode": "00:04:14.463",
+        "Start Time (seconds)": 254.463,
+        "End Frame": 6180,
+        "End Timecode": "00:04:17.757",
+        "End Time (seconds)": 257.757,
+        "Length (frames)": 79,
+        "Length (timecode)": "00:00:03.295",
+        "Length (seconds)": 3.295,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "middle left",
+                "size": "medium"
+            },
+            "Toy": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Table"
+        ]
+    },
+    {
+        "Scene Number": 38,
+        "Start Frame": 6180,
+        "Start Timecode": "00:04:17.757",
+        "Start Time (seconds)": 257.757,
+        "End Frame": 6456,
+        "End Timecode": "00:04:29.269",
+        "End Time (seconds)": 269.269,
+        "Length (frames)": 276,
+        "Length (timecode)": "00:00:11.511",
+        "Length (seconds)": 11.511,
+        "texts": [
+            "ASTROCYTES",
+            "> exchange of materials between",
+            "neurons and capillaries"
+        ],
+        "objects": {},
+        "labels": [
+            "Purple",
+            "Organism",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 39,
+        "Start Frame": 6456,
+        "Start Timecode": "00:04:29.269",
+        "Start Time (seconds)": 269.269,
+        "End Frame": 6498,
+        "End Timecode": "00:04:31.021",
+        "End Time (seconds)": 271.021,
+        "Length (frames)": 42,
+        "Length (timecode)": "00:00:01.752",
+        "Length (seconds)": 1.752,
+        "texts": [],
+        "objects": {
+            "Picture frame": {
+                "pos": "middle left",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "middle right",
+                "size": "tall"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Table top": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top right",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Picture frame",
+            "Vision care",
+            "Wood"
+        ]
+    },
+    {
+        "Scene Number": 40,
+        "Start Frame": 6498,
+        "Start Timecode": "00:04:31.021",
+        "Start Time (seconds)": 271.021,
+        "End Frame": 6705,
+        "End Timecode": "00:04:39.654",
+        "End Time (seconds)": 279.654,
+        "Length (frames)": 207,
+        "Length (timecode)": "00:00:08.634",
+        "Length (seconds)": 8.634,
+        "texts": [
+            "MICROGLIAL CELLS"
+        ],
+        "objects": {
+            "Luggage & bags": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Hat": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Organism",
+            "Terrestrial plant"
+        ]
+    },
+    {
+        "Scene Number": 41,
+        "Start Frame": 6705,
+        "Start Timecode": "00:04:39.654",
+        "Start Time (seconds)": 279.654,
+        "End Frame": 6926,
+        "End Timecode": "00:04:48.872",
+        "End Time (seconds)": 288.872,
+        "Length (frames)": 221,
+        "Length (timecode)": "00:00:09.218",
+        "Length (seconds)": 9.218,
+        "texts": [
+            "EPENDYMAL CELLS",
+            "> create, secrete, and circulate",
+            "cerebrospinal fluid"
+        ],
+        "objects": {},
+        "labels": [
+            "Vertebrate",
+            "Pink",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 42,
+        "Start Frame": 6926,
+        "Start Timecode": "00:04:48.872",
+        "Start Time (seconds)": 288.872,
+        "End Frame": 6961,
+        "End Timecode": "00:04:50.332",
+        "End Time (seconds)": 290.332,
+        "Length (frames)": 35,
+        "Length (timecode)": "00:00:01.460",
+        "Length (seconds)": 1.46,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Vision care",
+            "Table"
+        ]
+    },
+    {
+        "Scene Number": 43,
+        "Start Frame": 6961,
+        "Start Timecode": "00:04:50.332",
+        "Start Time (seconds)": 290.332,
+        "End Frame": 7096,
+        "End Timecode": "00:04:55.962",
+        "End Time (seconds)": 295.962,
+        "Length (frames)": 135,
+        "Length (timecode)": "00:00:05.631",
+        "Length (seconds)": 5.631,
+        "texts": [],
+        "objects": {},
+        "labels": [
+            "Wheel",
+            "Cartoon",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 44,
+        "Start Frame": 7096,
+        "Start Timecode": "00:04:55.962",
+        "Start Time (seconds)": 295.962,
+        "End Frame": 7202,
+        "End Timecode": "00:05:00.383",
+        "End Time (seconds)": 300.383,
+        "Length (frames)": 106,
+        "Length (timecode)": "00:00:04.421",
+        "Length (seconds)": 4.421,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "tall"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Outerwear": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Table": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Table",
+            "Picture frame"
+        ]
+    },
+    {
+        "Scene Number": 45,
+        "Start Frame": 7202,
+        "Start Timecode": "00:05:00.383",
+        "Start Time (seconds)": 300.383,
+        "End Frame": 7532,
+        "End Timecode": "00:05:14.147",
+        "End Time (seconds)": 314.147,
+        "Length (frames)": 330,
+        "Length (timecode)": "00:00:13.764",
+        "Length (seconds)": 13.764,
+        "texts": [
+            "SATELLITE CELLS",
+            "> surround and support neuron",
+            "cell bodies"
+        ],
+        "objects": {
+            "Lighting": {
+                "pos": "center",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Ball",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 46,
+        "Start Frame": 7532,
+        "Start Timecode": "00:05:14.147",
+        "Start Time (seconds)": 314.147,
+        "End Frame": 7967,
+        "End Timecode": "00:05:32.290",
+        "End Time (seconds)": 332.29,
+        "Length (frames)": 435,
+        "Length (timecode)": "00:00:18.143",
+        "Length (seconds)": 18.143,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            },
+            "Picture frame": {
+                "pos": "middle left",
+                "size": "medium"
+            },
+            "Coat": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Vision care",
+            "Wood"
+        ]
+    },
+    {
+        "Scene Number": 47,
+        "Start Frame": 7967,
+        "Start Timecode": "00:05:32.290",
+        "Start Time (seconds)": 332.29,
+        "End Frame": 8042,
+        "End Timecode": "00:05:35.418",
+        "End Time (seconds)": 335.418,
+        "Length (frames)": 75,
+        "Length (timecode)": "00:00:03.128",
+        "Length (seconds)": 3.128,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Forehead",
+            "Glasses",
+            "Chin"
+        ]
+    },
+    {
+        "Scene Number": 48,
+        "Start Frame": 8042,
+        "Start Timecode": "00:05:35.418",
+        "Start Time (seconds)": 335.418,
+        "End Frame": 8120,
+        "End Timecode": "00:05:38.672",
+        "End Time (seconds)": 338.672,
+        "Length (frames)": 78,
+        "Length (timecode)": "00:00:03.253",
+        "Length (seconds)": 3.253,
+        "texts": [
+            "1",
+            "NEURONS ARE SOME OF THE LONGEST-LIVED CELLS IN YOUR BODY"
+        ],
+        "objects": {},
+        "labels": [
+            "Purple",
+            "Violet"
+        ]
+    },
+    {
+        "Scene Number": 49,
+        "Start Frame": 8120,
+        "Start Timecode": "00:05:38.672",
+        "Start Time (seconds)": 338.672,
+        "End Frame": 8381,
+        "End Timecode": "00:05:49.558",
+        "End Time (seconds)": 349.558,
+        "Length (frames)": 261,
+        "Length (timecode)": "00:00:10.886",
+        "Length (seconds)": 10.886,
+        "texts": [
+            "BE"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "top left",
+                "size": "medium"
+            },
+            "Outerwear": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Toy": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "wide"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Wood"
+        ]
+    },
+    {
+        "Scene Number": 50,
+        "Start Frame": 8381,
+        "Start Timecode": "00:05:49.558",
+        "Start Time (seconds)": 349.558,
+        "End Frame": 8449,
+        "End Timecode": "00:05:52.394",
+        "End Time (seconds)": 352.394,
+        "Length (frames)": 68,
+        "Length (timecode)": "00:00:02.836",
+        "Length (seconds)": 2.836,
+        "texts": [
+            "1",
+            "NEURONS ARE SOME OF THE LONGEST-LIVED CELLS IN YOUR BODY",
+            "NEURONS ARE IRREPLACEABLE"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Purple",
+            "Violet",
+            "Rectangle"
+        ]
+    },
+    {
+        "Scene Number": 51,
+        "Start Frame": 8449,
+        "Start Timecode": "00:05:52.394",
+        "Start Time (seconds)": 352.394,
+        "End Frame": 8733,
+        "End Timecode": "00:06:04.239",
+        "End Time (seconds)": 364.239,
+        "Length (frames)": 284,
+        "Length (timecode)": "00:00:11.845",
+        "Length (seconds)": 11.845,
+        "texts": [
+            "306"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Watch": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "middle left",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Watch",
+            "Vision care"
+        ]
+    },
+    {
+        "Scene Number": 52,
+        "Start Frame": 8733,
+        "Start Timecode": "00:06:04.239",
+        "Start Time (seconds)": 364.239,
+        "End Frame": 8815,
+        "End Timecode": "00:06:07.659",
+        "End Time (seconds)": 367.659,
+        "Length (frames)": 82,
+        "Length (timecode)": "00:00:03.420",
+        "Length (seconds)": 3.42,
+        "texts": [
+            "1",
+            "NEURONS ARE SOME OF THE LONGEST-LIVED CELLS IN YOUR BODY",
+            "NEURONS ARE IRREPLACEABLE"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Purple",
+            "Sky",
+            "Violet"
+        ]
+    },
+    {
+        "Scene Number": 53,
+        "Start Frame": 8815,
+        "Start Timecode": "00:06:07.659",
+        "Start Time (seconds)": 367.659,
+        "End Frame": 9236,
+        "End Timecode": "00:06:25.218",
+        "End Time (seconds)": 385.218,
+        "Length (frames)": 421,
+        "Length (timecode)": "00:00:17.559",
+        "Length (seconds)": 17.559,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            },
+            "Table": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Table",
+            "Picture frame"
+        ]
+    },
+    {
+        "Scene Number": 54,
+        "Start Frame": 9236,
+        "Start Timecode": "00:06:25.218",
+        "Start Time (seconds)": 385.218,
+        "End Frame": 9876,
+        "End Timecode": "00:06:51.911",
+        "End Time (seconds)": 411.911,
+        "Length (frames)": 640,
+        "Length (timecode)": "00:00:26.693",
+        "Length (seconds)": 26.693,
+        "texts": [],
+        "objects": {
+            "Hat": {
+                "pos": "center",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Plant",
+            "Leaf",
+            "Human body"
+        ]
+    },
+    {
+        "Scene Number": 55,
+        "Start Frame": 9876,
+        "Start Timecode": "00:06:51.911",
+        "Start Time (seconds)": 411.911,
+        "End Frame": 10279,
+        "End Timecode": "00:07:08.720",
+        "End Time (seconds)": 428.72,
+        "Length (frames)": 403,
+        "Length (timecode)": "00:00:16.808",
+        "Length (seconds)": 16.808,
+        "texts": [],
+        "objects": {
+            "Picture frame": {
+                "pos": "middle right",
+                "size": "wide"
+            },
+            "Person": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Outerwear": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Toy": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Vision care"
+        ]
+    },
+    {
+        "Scene Number": 56,
+        "Start Frame": 10279,
+        "Start Timecode": "00:07:08.720",
+        "Start Time (seconds)": 428.72,
+        "End Frame": 10472,
+        "End Timecode": "00:07:16.770",
+        "End Time (seconds)": 436.77,
+        "Length (frames)": 193,
+        "Length (timecode)": "00:00:08.050",
+        "Length (seconds)": 8.05,
+        "texts": [
+            "HOW MANY PROCESSES EXTEND OUT",
+            "FROM THE CELL BODY"
+        ],
+        "objects": {},
+        "labels": [
+            "Blue",
+            "Purple",
+            "Violet"
+        ]
+    },
+    {
+        "Scene Number": 57,
+        "Start Frame": 10472,
+        "Start Timecode": "00:07:16.770",
+        "Start Time (seconds)": 436.77,
+        "End Frame": 10521,
+        "End Timecode": "00:07:18.813",
+        "End Time (seconds)": 438.813,
+        "Length (frames)": 49,
+        "Length (timecode)": "00:00:02.044",
+        "Length (seconds)": 2.044,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Outerwear": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Picture frame": {
+                "pos": "bottom left",
+                "size": "medium"
+            },
+            "Coat": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Yellow"
+        ]
+    },
+    {
+        "Scene Number": 58,
+        "Start Frame": 10521,
+        "Start Timecode": "00:07:18.813",
+        "Start Time (seconds)": 438.813,
+        "End Frame": 10847,
+        "End Timecode": "00:07:32.410",
+        "End Time (seconds)": 452.41,
+        "Length (frames)": 326,
+        "Length (timecode)": "00:00:13.597",
+        "Length (seconds)": 13.597,
+        "texts": [
+            "DENDRITE",
+            "CELL BODY",
+            "AXON",
+            "multipolar",
+            "bipolar",
+            ":("
+        ],
+        "objects": {
+            "Animal": {
+                "pos": "center",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Joint",
+            "Vertebrate",
+            "Organism"
+        ]
+    },
+    {
+        "Scene Number": 59,
+        "Start Frame": 10847,
+        "Start Timecode": "00:07:32.410",
+        "Start Time (seconds)": 452.41,
+        "End Frame": 10941,
+        "End Timecode": "00:07:36.331",
+        "End Time (seconds)": 456.331,
+        "Length (frames)": 94,
+        "Length (timecode)": "00:00:03.921",
+        "Length (seconds)": 3.921,
+        "texts": [],
+        "objects": {},
+        "labels": []
+    },
+    {
+        "Scene Number": 60,
+        "Start Frame": 10941,
+        "Start Timecode": "00:07:36.331",
+        "Start Time (seconds)": 456.331,
+        "End Frame": 11065,
+        "End Timecode": "00:07:41.503",
+        "End Time (seconds)": 461.503,
+        "Length (frames)": 124,
+        "Length (timecode)": "00:00:05.172",
+        "Length (seconds)": 5.172,
+        "texts": [
+            "multipolar",
+            "bipolar",
+            "unipolar"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "middle right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Organism",
+            "Gesture",
+            "Font"
+        ]
+    },
+    {
+        "Scene Number": 61,
+        "Start Frame": 11065,
+        "Start Timecode": "00:07:41.503",
+        "Start Time (seconds)": 461.503,
+        "End Frame": 11203,
+        "End Timecode": "00:07:47.258",
+        "End Time (seconds)": 467.258,
+        "Length (frames)": 138,
+        "Length (timecode)": "00:00:05.756",
+        "Length (seconds)": 5.756,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "top left",
+                "size": "medium"
+            },
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Suit": {
+                "pos": "top right",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Table"
+        ]
+    },
+    {
+        "Scene Number": 62,
+        "Start Frame": 11203,
+        "Start Timecode": "00:07:47.258",
+        "Start Time (seconds)": 467.258,
+        "End Frame": 11365,
+        "End Timecode": "00:07:54.015",
+        "End Time (seconds)": 474.015,
+        "Length (frames)": 162,
+        "Length (timecode)": "00:00:06.757",
+        "Length (seconds)": 6.757,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Picture frame": {
+                "pos": "bottom left",
+                "size": "medium"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Vision care",
+            "Coat"
+        ]
+    },
+    {
+        "Scene Number": 63,
+        "Start Frame": 11365,
+        "Start Timecode": "00:07:54.015",
+        "Start Time (seconds)": 474.015,
+        "End Frame": 11767,
+        "End Timecode": "00:08:10.782",
+        "End Time (seconds)": 490.782,
+        "Length (frames)": 402,
+        "Length (timecode)": "00:00:16.767",
+        "Length (seconds)": 16.767,
+        "texts": [
+            "1",
+            "SENSORY",
+            "NEURONS",
+            "( afferent neurons )",
+            "> transmit impulses from",
+            "sensory receptors toward",
+            "the CNS"
+        ],
+        "objects": {
+            "Clothing": {
+                "pos": "middle right",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Outerwear",
+            "Human body",
+            "Sleeve"
+        ]
+    },
+    {
+        "Scene Number": 64,
+        "Start Frame": 11767,
+        "Start Timecode": "00:08:10.782",
+        "Start Time (seconds)": 490.782,
+        "End Frame": 11821,
+        "End Timecode": "00:08:13.034",
+        "End Time (seconds)": 493.034,
+        "Length (frames)": 54,
+        "Length (timecode)": "00:00:02.252",
+        "Length (seconds)": 2.252,
+        "texts": [],
+        "objects": {
+            "Tie": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Picture frame": {
+                "pos": "bottom left",
+                "size": "medium"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Vision care",
+            "Wood"
+        ]
+    },
+    {
+        "Scene Number": 65,
+        "Start Frame": 11821,
+        "Start Timecode": "00:08:13.034",
+        "Start Time (seconds)": 493.034,
+        "End Frame": 11970,
+        "End Timecode": "00:08:19.249",
+        "End Time (seconds)": 499.249,
+        "Length (frames)": 149,
+        "Length (timecode)": "00:00:06.215",
+        "Length (seconds)": 6.215,
+        "texts": [],
+        "objects": {},
+        "labels": [
+            "Sleeve",
+            "Gesture",
+            "Art"
+        ]
+    },
+    {
+        "Scene Number": 66,
+        "Start Frame": 11970,
+        "Start Timecode": "00:08:19.249",
+        "Start Time (seconds)": 499.249,
+        "End Frame": 12275,
+        "End Timecode": "00:08:31.970",
+        "End Time (seconds)": 511.97,
+        "Length (frames)": 305,
+        "Length (timecode)": "00:00:12.721",
+        "Length (seconds)": 12.721,
+        "texts": [
+            "3",
+            "INTERNEURONS"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "middle right",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Sleeve",
+            "Gesture",
+            "Art"
+        ]
+    },
+    {
+        "Scene Number": 67,
+        "Start Frame": 12275,
+        "Start Timecode": "00:08:31.970",
+        "Start Time (seconds)": 511.97,
+        "End Frame": 12397,
+        "End Timecode": "00:08:37.058",
+        "End Time (seconds)": 517.058,
+        "Length (frames)": 122,
+        "Length (timecode)": "00:00:05.088",
+        "Length (seconds)": 5.088,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "wide"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Forehead",
+            "Glasses",
+            "Chin"
+        ]
+    },
+    {
+        "Scene Number": 68,
+        "Start Frame": 12397,
+        "Start Timecode": "00:08:37.058",
+        "Start Time (seconds)": 517.058,
+        "End Frame": 12751,
+        "End Timecode": "00:08:51.823",
+        "End Time (seconds)": 531.823,
+        "Length (frames)": 354,
+        "Length (timecode)": "00:00:14.765",
+        "Length (seconds)": 14.765,
+        "texts": [
+            "2",
+            "unipolar"
+        ],
+        "objects": {
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Facial expression",
+            "Product",
+            "People in nature"
+        ]
+    },
+    {
+        "Scene Number": 69,
+        "Start Frame": 12751,
+        "Start Timecode": "00:08:51.823",
+        "Start Time (seconds)": 531.823,
+        "End Frame": 12804,
+        "End Timecode": "00:08:54.034",
+        "End Time (seconds)": 534.034,
+        "Length (frames)": 53,
+        "Length (timecode)": "00:00:02.211",
+        "Length (seconds)": 2.211,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Necklace": {
+                "pos": "top right",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Vision care",
+            "Gesture"
+        ]
+    },
+    {
+        "Scene Number": 70,
+        "Start Frame": 12804,
+        "Start Timecode": "00:08:54.034",
+        "Start Time (seconds)": 534.034,
+        "End Frame": 13106,
+        "End Timecode": "00:09:06.629",
+        "End Time (seconds)": 546.629,
+        "Length (frames)": 302,
+        "Length (timecode)": "00:00:12.596",
+        "Length (seconds)": 12.596,
+        "texts": [
+            "2",
+            "\u0442ultipolar"
+        ],
+        "objects": {},
+        "labels": [
+            "Joint",
+            "Facial expression",
+            "Product"
+        ]
+    },
+    {
+        "Scene Number": 71,
+        "Start Frame": 13106,
+        "Start Timecode": "00:09:06.629",
+        "Start Time (seconds)": 546.629,
+        "End Frame": 13456,
+        "End Timecode": "00:09:21.227",
+        "End Time (seconds)": 561.227,
+        "Length (frames)": 350,
+        "Length (timecode)": "00:00:14.598",
+        "Length (seconds)": 14.598,
+        "texts": [],
+        "objects": {
+            "Person": {
+                "pos": "top right",
+                "size": "tall"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "tall"
+            },
+            "Picture frame": {
+                "pos": "top left",
+                "size": "medium"
+            },
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Toy": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Picture frame",
+            "Table"
+        ]
+    },
+    {
+        "Scene Number": 72,
+        "Start Frame": 13456,
+        "Start Timecode": "00:09:21.227",
+        "Start Time (seconds)": 561.227,
+        "End Frame": 13589,
+        "End Timecode": "00:09:26.775",
+        "End Time (seconds)": 566.775,
+        "Length (frames)": 133,
+        "Length (timecode)": "00:00:05.547",
+        "Length (seconds)": 5.547,
+        "texts": [],
+        "objects": {
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            },
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Toy": {
+                "pos": "top left",
+                "size": "narrow and tall"
+            },
+            "Picture frame": {
+                "pos": "bottom left",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Glasses"
+        ]
+    },
+    {
+        "Scene Number": 73,
+        "Start Frame": 13589,
+        "Start Timecode": "00:09:26.775",
+        "Start Time (seconds)": 566.775,
+        "End Frame": 13608,
+        "End Timecode": "00:09:27.567",
+        "End Time (seconds)": 567.567,
+        "Length (frames)": 19,
+        "Length (timecode)": "00:00:00.792",
+        "Length (seconds)": 0.792,
+        "texts": [],
+        "objects": {},
+        "labels": []
+    },
+    {
+        "Scene Number": 74,
+        "Start Frame": 13608,
+        "Start Timecode": "00:09:27.567",
+        "Start Time (seconds)": 567.567,
+        "End Frame": 13703,
+        "End Timecode": "00:09:31.529",
+        "End Time (seconds)": 571.529,
+        "Length (frames)": 95,
+        "Length (timecode)": "00:00:03.962",
+        "Length (seconds)": 3.962,
+        "texts": [
+            "fig.8.1"
+        ],
+        "objects": {
+            "Picture frame": {
+                "pos": "top right",
+                "size": "wide"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Automotive design",
+            "Orange",
+            "Pink"
+        ]
+    },
+    {
+        "Scene Number": 75,
+        "Start Frame": 13703,
+        "Start Timecode": "00:09:31.529",
+        "Start Time (seconds)": 571.529,
+        "End Frame": 13756,
+        "End Timecode": "00:09:33.740",
+        "End Time (seconds)": 573.74,
+        "Length (frames)": 53,
+        "Length (timecode)": "00:00:02.211",
+        "Length (seconds)": 2.211,
+        "texts": [],
+        "objects": {
+            "Picture frame": {
+                "pos": "middle right",
+                "size": "wide"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "medium"
+            }
+        },
+        "labels": [
+            "Window",
+            "Wood",
+            "Orange"
+        ]
+    },
+    {
+        "Scene Number": 76,
+        "Start Frame": 13756,
+        "Start Timecode": "00:09:33.740",
+        "Start Time (seconds)": 573.74,
+        "End Frame": 13938,
+        "End Timecode": "00:09:41.331",
+        "End Time (seconds)": 581.331,
+        "Length (frames)": 182,
+        "Length (timecode)": "00:00:07.591",
+        "Length (seconds)": 7.591,
+        "texts": [],
+        "objects": {
+            "Glasses": {
+                "pos": "middle right",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "very large"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Forehead",
+            "Glasses",
+            "Chin"
+        ]
+    },
+    {
+        "Scene Number": 77,
+        "Start Frame": 13938,
+        "Start Timecode": "00:09:41.331",
+        "Start Time (seconds)": 581.331,
+        "End Frame": 14990,
+        "End Timecode": "00:10:25.208",
+        "End Time (seconds)": 625.208,
+        "Length (frames)": 1052,
+        "Length (timecode)": "00:00:43.877",
+        "Length (seconds)": 43.877,
+        "texts": [
+            "DFTBAI",
+            "ANATOMY & PHYSIOLOGY OO",
+            "CRASH COURSE",
+            "YOU LEARNED ABOUT:",
+            "SENSORY INPUT, INTEGRATION AND MOTOR OUTPUT",
+            "ORGANIZATION OF CENTRAL AND PERIPHERAL SYSTEMS",
+            "GLIAL CELLS",
+            "ROLE, ANATOMY AND FUNCTION OF NEURON TYPES",
+            "STRUCTURE AND FUNCTION OF NEURONS"
+        ],
+        "objects": {
+            "Glasses": {
+                "pos": "center",
+                "size": "medium"
+            },
+            "Person": {
+                "pos": "center",
+                "size": "tall"
+            },
+            "Outerwear": {
+                "pos": "top middle",
+                "size": "tall"
+            }
+        },
+        "labels": [
+            "Glasses",
+            "Watch",
+            "Vision care"
+        ]
+    },
+    {
+        "Scene Number": 78,
+        "Start Frame": 14990,
+        "Start Timecode": "00:10:25.208",
+        "Start Time (seconds)": 625.208,
+        "End Frame": 15229,
+        "End Timecode": "00:10:35.176",
+        "End Time (seconds)": 635.176,
+        "Length (frames)": 239,
+        "Length (timecode)": "00:00:09.968",
+        "Length (seconds)": 9.968,
+        "texts": [
+            "DFTBAI",
+            "ANATOMY & PHYSIOLOGY OO",
+            "CRASH COURSE",
+            "LAST EPISODE",
+            "NEXT EPISODE",
+            "the",
+            "INTEGUMENTARY",
+            "SYSTEM part 2",
+            "NERVOUS",
+            "SYSTEM",
+            "part 2",
+            "OSKIN DEEPER",
+            "ACTION! POTENTIAL!",
+            "Subbable",
+            "SUBSCRIBE",
+            "GRAPHICS",
+            "Thought",
+            "caf\u00e9",
+            "CREATED BY:"
+        ],
+        "objects": {
+            "Packaged goods": {
+                "pos": "top right",
+                "size": "very large"
+            }
+        },
+        "labels": [
+            "Bird",
+            "Font"
+        ]
+    }
+]
